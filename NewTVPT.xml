@@ -1,0 +1,1596 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="1mais1">
+    <display-name lang="pt">1mais1</display-name>
+    <icon src="http://www.guia-tv.pt/logos/1mais1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT: 24 Kitchen">
+    <display-name lang="pt">PT: 24 Kitchen</display-name>
+    <icon src="http://www.guia-tv.pt/logos/24-kitchen.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="24-kitchen-hd">
+    <display-name lang="pt">24-kitchen-hd</display-name>
+    <icon src="http://www.guia-tv.pt/logos/24-kitchen-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="a-bola-tv">
+    <display-name lang="pt">a-bola-tv</display-name>
+    <icon src="http://www.guia-tv.pt/logos/a-bola-tv.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="afro-music">
+    <display-name lang="pt">afro-music</display-name>
+    <icon src="http://www.guia-tv.pt/logos/afro-music.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="aljazeera">
+    <display-name lang="pt">aljazeera</display-name>
+    <icon src="http://www.guia-tv.pt/logos/aljazeera.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT: AMC">
+    <display-name lang="pt">PT: AMC</display-name>
+    <icon src="http://www.guia-tv.pt/logos/amc.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="amc-hd">
+    <display-name lang="pt">amc-hd</display-name>
+    <icon src="http://www.guia-tv.pt/logos/amc-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="angelus-tv">
+    <display-name lang="pt">angelus-tv</display-name>
+    <icon src="http://www.guia-tv.pt/logos/angelus-tv.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="artv">
+    <display-name lang="pt">artv</display-name>
+    <icon src="http://www.guia-tv.pt/logos/artv.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn">
+    <display-name lang="pt">axn</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-bl">
+    <display-name lang="pt">axn-bl</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn-bl.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axb-hd">
+    <display-name lang="pt">axb-hd</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axb-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-hd">
+    <display-name lang="pt">axn-hd</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-white">
+    <display-name lang="pt">axn-white</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn-white.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="axn-white-hd">
+    <display-name lang="pt">axn-white-hd</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn-white-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="baby-first-tv">
+    <display-name lang="pt">baby-first-tv</display-name>
+    <icon src="http://www.guia-tv.pt/logos/baby-first-tv.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bbc-entertainment">
+    <display-name lang="pt">bbc-entertainment</display-name>
+    <icon src="http://www.guia-tv.pt/logos/bbc-entertainment.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bbc-world">
+    <display-name lang="pt">bbc-world</display-name>
+    <icon src="http://www.guia-tv.pt/logos/bbc-world.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="benfica-tv-1">
+    <display-name lang="pt">benfica-tv-1</display-name>
+    <icon src="http://www.guia-tv.pt/logos/benfica-tv-1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="benfica-tv-hd">
+    <display-name lang="pt">benfica-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bloomberg">
+    <display-name lang="pt">bloomberg</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="bnt">
+    <display-name lang="pt">bnt</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="caca-e-pesca">
+    <display-name lang="pt">caca-e-pesca</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cacavision">
+    <display-name lang="pt">cacavision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="canal-180">
+    <display-name lang="pt">canal-180</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="canal-arte">
+    <display-name lang="pt">canal-arte</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cancao-nova">
+    <display-name lang="pt">cancao-nova</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cartoon-network">
+    <display-name lang="pt">cartoon-network</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cbs-reality">
+    <display-name lang="pt">cbs-reality</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cctv-4">
+    <display-name lang="pt">cctv-4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cctv-news">
+    <display-name lang="pt">cctv-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="channel-1-russia">
+    <display-name lang="pt">channel-1-russia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cinemundo">
+    <display-name lang="pt">cinemundo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cinemundo-hd">
+    <display-name lang="pt">cinemundo-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="clubbing-tv">
+    <display-name lang="pt">clubbing-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="clubbing-tv-hd">
+    <display-name lang="pt">clubbing-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cmtv">
+    <display-name lang="pt">cmtv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cmtv-hd">
+    <display-name lang="pt">cmtv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cnbc-europe">
+    <display-name lang="pt">cnbc-europe</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cnn">
+    <display-name lang="pt">cnn</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="cubavision">
+    <display-name lang="pt">cubavision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="deutsche-welle">
+    <display-name lang="pt">deutsche-welle</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="discovery-channel">
+    <display-name lang="pt">discovery-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="discovery-channel-hd">
+    <display-name lang="pt">discovery-channel-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="disney-channel">
+    <display-name lang="pt">disney-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="disney-junior">
+    <display-name lang="pt">disney-junior</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="dogtv">
+    <display-name lang="pt">dogtv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="e-entertainment">
+    <display-name lang="pt">e-entertainment</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="e-entertainment-hd">
+    <display-name lang="pt">e-entertainment-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-1">
+    <display-name lang="pt">eleven-sports-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-2">
+    <display-name lang="pt">eleven-sports-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eleven-sports-3">
+    <display-name lang="pt">eleven-sports-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurochannel">
+    <display-name lang="pt">eurochannel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="euronews">
+    <display-name lang="pt">euronews</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport">
+    <display-name lang="pt">eurosport</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport-2">
+    <display-name lang="pt">eurosport-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="eurosport-hd">
+    <display-name lang="pt">eurosport-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="ftv">
+    <display-name lang="pt">ftv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="ftv-hd">
+    <display-name lang="pt">ftv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fight-network">
+    <display-name lang="pt">fight-network</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox">
+    <display-name lang="pt">fox</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-comedy">
+    <display-name lang="pt">fox-comedy</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-comedy-hd">
+    <display-name lang="pt">fox-comedy-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-crime">
+    <display-name lang="pt">fox-crime</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-crime-hd">
+    <display-name lang="pt">fox-crime-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-hd">
+    <display-name lang="pt">fox-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-life">
+    <display-name lang="pt">fox-life</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-life-hd">
+    <display-name lang="pt">fox-life-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-movies">
+    <display-name lang="pt">fox-movies</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-movies-hd">
+    <display-name lang="pt">fox-movies-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fox-news">
+    <display-name lang="pt">fox-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="fr24f">
+    <display-name lang="pt">fr24f</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="france-24-i">
+    <display-name lang="pt">france-24-i</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="globo">
+    <display-name lang="pt">globo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="globovision">
+    <display-name lang="pt">globovision</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="historia">
+    <display-name lang="pt">historia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hollywood">
+    <display-name lang="pt">hollywood</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hollywood-hd">
+    <display-name lang="pt">hollywood-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hot">
+    <display-name lang="pt">hot</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="hot-hd">
+    <display-name lang="pt">hot-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="i24-news-f">
+    <display-name lang="pt">i24-news-f</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="i24-news-i">
+    <display-name lang="pt">i24-news-i</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="iconcerts">
+    <display-name lang="pt">iconcerts</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="jimjam">
+    <display-name lang="pt">jimjam</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kbs-world">
+    <display-name lang="pt">kbs-world</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kombat-sport">
+    <display-name lang="pt">kombat-sport</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="kombat-sport-hd">
+    <display-name lang="pt">kombat-sport-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="luxe-tv-hd">
+    <display-name lang="pt">luxe-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="m6">
+    <display-name lang="pt">m6</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mas-chic">
+    <display-name lang="pt">mas-chic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mcm-pop">
+    <display-name lang="pt">mcm-pop</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mcm-top">
+    <display-name lang="pt">mcm-top</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mezzo">
+    <display-name lang="pt">mezzo</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mezzo-live-hd">
+    <display-name lang="pt">mezzo-live-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-dance">
+    <display-name lang="pt">mtv-dance</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-live-hd">
+    <display-name lang="pt">mtv-live-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-music">
+    <display-name lang="pt">mtv-music</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-portugal">
+    <display-name lang="pt">mtv-portugal</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-portugal-hd">
+    <display-name lang="pt">mtv-portugal-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="mtv-rocks">
+    <display-name lang="pt">mtv-rocks</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="national-geographic">
+    <display-name lang="pt">national-geographic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="national-geographic-hd">
+    <display-name lang="pt">national-geographic-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="nba-tv-hd">
+    <display-name lang="pt">nba-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="odisseia">
+    <display-name lang="pt">odisseia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="panda">
+    <display-name lang="pt">panda</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="panda-biggs">
+    <display-name lang="pt">panda-biggs</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="pfc">
+    <display-name lang="pt">pfc</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="phoenix-cne">
+    <display-name lang="pt">phoenix-cne</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="playboy-tv">
+    <display-name lang="pt">playboy-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="playboy-tv-hd">
+    <display-name lang="pt">playboy-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="porto-canal">
+    <display-name lang="pt">porto-canal</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="pro-tv-internacional">
+    <display-name lang="pt">pro-tv-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="q">
+    <display-name lang="pt">q</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="record-news">
+    <display-name lang="pt">record-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-1">
+    <display-name lang="pt">rtp-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-2">
+    <display-name lang="pt">rtp-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-3">
+    <display-name lang="pt">rtp-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-acores">
+    <display-name lang="pt">rtp-acores</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-africa">
+    <display-name lang="pt">rtp-africa</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-madeira">
+    <display-name lang="pt">rtp-madeira</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-memoria">
+    <display-name lang="pt">rtp-memoria</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-mobile">
+    <display-name lang="pt">rtp-mobile</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtp-1-hd">
+    <display-name lang="pt">rtp-1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="rtr-planeta">
+    <display-name lang="pt">rtr-planeta</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="russia-today">
+    <display-name lang="pt">russia-today</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="set-asia">
+    <display-name lang="pt">set-asia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="set-max">
+    <display-name lang="pt">set-max</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sextreme">
+    <display-name lang="pt">sextreme</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic">
+    <display-name lang="pt">sic</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-caras">
+    <display-name lang="pt">sic-caras</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-hd">
+    <display-name lang="pt">sic-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-k">
+    <display-name lang="pt">sic-k</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-mulher">
+    <display-name lang="pt">sic-mulher</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-noticias">
+    <display-name lang="pt">sic-noticias</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-noticias-hd">
+    <display-name lang="pt">sic-noticias-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sic-radical">
+    <display-name lang="pt">sic-radical</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sky-news">
+    <display-name lang="pt">sky-news</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv-mais">
+    <display-name lang="pt">sport-tv-mais</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv-mais-hd">
+    <display-name lang="pt">sport-tv-mais-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv1">
+    <display-name lang="pt">sport-tv1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv1-hd">
+    <display-name lang="pt">sport-tv1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv2">
+    <display-name lang="pt">sport-tv2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv2-hd">
+    <display-name lang="pt">sport-tv2-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv3">
+    <display-name lang="pt">sport-tv3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv3-hd">
+    <display-name lang="pt">sport-tv3-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv4">
+    <display-name lang="pt">sport-tv4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv4-hd">
+    <display-name lang="pt">sport-tv4-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv5">
+    <display-name lang="pt">sport-tv5</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sport-tv5-hd">
+    <display-name lang="pt">sport-tv5-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sporting-tv">
+    <display-name lang="pt">sporting-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sporting-tv-hd">
+    <display-name lang="pt">sporting-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="sundance-hd">
+    <display-name lang="pt">sundance-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="syfy">
+    <display-name lang="pt">syfy</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="syfy-hd">
+    <display-name lang="pt">syfy-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tcv-internacional">
+    <display-name lang="pt">tcv-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tlc">
+    <display-name lang="pt">tlc</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="toro-tv">
+    <display-name lang="pt">toro-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tpa-internacional">
+    <display-name lang="pt">tpa-internacional</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="trace-tv">
+    <display-name lang="pt">trace-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="trace-tv-hd">
+    <display-name lang="pt">trace-tv-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="travel-channel">
+    <display-name lang="pt">travel-channel</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="travel-channel-hd">
+    <display-name lang="pt">travel-channel-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-galicia">
+    <display-name lang="pt">tv-galicia</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-record">
+    <display-name lang="pt">tv-record</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv-record-hd">
+    <display-name lang="pt">tv-record-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tv5-monde">
+    <display-name lang="pt">tv5-monde</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-1">
+    <display-name lang="pt">tvcine-1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-1-hd">
+    <display-name lang="pt">tvcine-1-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-2">
+    <display-name lang="pt">tvcine-2</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-2-hd">
+    <display-name lang="pt">tvcine-2-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-3">
+    <display-name lang="pt">tvcine-3</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-3-hd">
+    <display-name lang="pt">tvcine-3-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-4">
+    <display-name lang="pt">tvcine-4</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvcine-4-hd">
+    <display-name lang="pt">tvcine-4-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tve24h">
+    <display-name lang="pt">tve24h</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvei">
+    <display-name lang="pt">tvei</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi">
+    <display-name lang="pt">tvi</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi-ficcao">
+    <display-name lang="pt">tvi-ficcao</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi-hd">
+    <display-name lang="pt">tvi-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvi24">
+    <display-name lang="pt">tvi24</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvseries">
+    <display-name lang="pt">tvseries</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="tvseries-hd">
+    <display-name lang="pt">tvseries-hd</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="venus">
+    <display-name lang="pt">venus</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="vh1">
+    <display-name lang="pt">vh1</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="zee-cinema">
+    <display-name lang="pt">zee-cinema</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="zee-tv">
+    <display-name lang="pt">zee-tv</display-name>
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <programme start="20230622000000 +0100" stop="20230622095300 +0100" channel="afro-music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230622095300 +0100" stop="20230622102700 +0100" channel="afro-music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230622102700 +0100" stop="20230622105800 +0100" channel="afro-music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230622105800 +0100" stop="20230622113200 +0100" channel="afro-music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230622113200 +0100" stop="20230622120000 +0100" channel="afro-music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622125000 +0100" channel="afro-music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230622125000 +0100" stop="20230622133300 +0100" channel="afro-music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230622133300 +0100" stop="20230622140700 +0100" channel="afro-music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230622140700 +0100" stop="20230622144000 +0100" channel="afro-music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230622144000 +0100" stop="20230622152300 +0100" channel="afro-music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230622152300 +0100" stop="20230622160100 +0100" channel="afro-music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230622160100 +0100" stop="20230622163800 +0100" channel="afro-music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230622163800 +0100" stop="20230622172800 +0100" channel="afro-music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230622172800 +0100" stop="20230622181200 +0100" channel="afro-music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230622181200 +0100" stop="20230622184900 +0100" channel="afro-music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230622184900 +0100" stop="20230622192300 +0100" channel="afro-music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230622192300 +0100" stop="20230622201300 +0100" channel="afro-music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230622201300 +0100" stop="20230622204800 +0100" channel="afro-music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230622204800 +0100" stop="20230622212400 +0100" channel="afro-music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230622212400 +0100" stop="20230622220900 +0100" channel="afro-music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230622220900 +0100" stop="20230622224100 +0100" channel="afro-music">
+    <title lang="pt">Best Hits</title>
+  </programme>
+  <programme start="20230622224100 +0100" stop="20230622231700 +0100" channel="afro-music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230622231700 +0100" stop="20230622235000 +0100" channel="afro-music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230622013000 +0100" stop="20230622020000 +0100" channel="aljazeera">
+    <title lang="pt">Counting The Cost</title>
+  </programme>
+  <programme start="20230622020000 +0100" stop="20230622023000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622023000 +0100" stop="20230622030000 +0100" channel="aljazeera">
+    <title lang="pt">Inside Story</title>
+  </programme>
+  <programme start="20230622030000 +0100" stop="20230622040000 +0100" channel="aljazeera">
+    <title lang="pt">Al Jazeera World</title>
+  </programme>
+  <programme start="20230622040000 +0100" stop="20230622043000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622043000 +0100" stop="20230622050000 +0100" channel="aljazeera">
+    <title lang="pt">Guatemala's Past Unearthed - Witness</title>
+  </programme>
+  <programme start="20230622050000 +0100" stop="20230622053000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622053000 +0100" stop="20230622060000 +0100" channel="aljazeera">
+    <title lang="pt">Africa Direct</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622063000 +0100" stop="20230622070000 +0100" channel="aljazeera">
+    <title lang="pt">The Stream</title>
+  </programme>
+  <programme start="20230622070000 +0100" stop="20230622073000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622073000 +0100" stop="20230622080000 +0100" channel="aljazeera">
+    <title lang="pt">The Big Picture</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622090000 +0100" channel="aljazeera">
+    <title lang="pt">Drug Trafficking, Politics and Power</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622093000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622093000 +0100" stop="20230622100000 +0100" channel="aljazeera">
+    <title lang="pt">Inside Story</title>
+  </programme>
+  <programme start="20230622100000 +0100" stop="20230622103000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622103000 +0100" stop="20230622110000 +0100" channel="aljazeera">
+    <title lang="pt">The Stream</title>
+  </programme>
+  <programme start="20230622110000 +0100" stop="20230622113000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622113000 +0100" stop="20230622120000 +0100" channel="aljazeera">
+    <title lang="pt">Fault Lines</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622130000 +0100" channel="aljazeera">
+    <title lang="pt">Newshour</title>
+  </programme>
+  <programme start="20230622130000 +0100" stop="20230622133000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622133000 +0100" stop="20230622140000 +0100" channel="aljazeera">
+    <title lang="pt">Inside Story</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622150000 +0100" channel="aljazeera">
+    <title lang="pt">A Second Shot - Witness</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622160000 +0100" channel="aljazeera">
+    <title lang="pt">Newshour</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622163000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622163000 +0100" stop="20230622170000 +0100" channel="aljazeera">
+    <title lang="pt">The Stream</title>
+  </programme>
+  <programme start="20230622170000 +0100" stop="20230622180000 +0100" channel="aljazeera">
+    <title lang="pt">Newshour</title>
+  </programme>
+  <programme start="20230622180000 +0100" stop="20230622183000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622183000 +0100" stop="20230622190000 +0100" channel="aljazeera">
+    <title lang="pt">Guatemala's Past Unearthed - Witness</title>
+  </programme>
+  <programme start="20230622190000 +0100" stop="20230622193000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622193000 +0100" stop="20230622200000 +0100" channel="aljazeera">
+    <title lang="pt">Inside Story</title>
+  </programme>
+  <programme start="20230622200000 +0100" stop="20230622210000 +0100" channel="aljazeera">
+    <title lang="pt">Newshour</title>
+  </programme>
+  <programme start="20230622210000 +0100" stop="20230622213000 +0100" channel="aljazeera">
+    <title lang="pt">News Live</title>
+  </programme>
+  <programme start="20230622213000 +0100" stop="20230622220000 +0100" channel="aljazeera">
+    <title lang="pt">The Stream</title>
+  </programme>
+  <programme start="20230622220000 +0100" stop="20230622230000 +0100" channel="aljazeera">
+    <title lang="pt">Drug Trafficking, Politics and Power</title>
+  </programme>
+  <programme start="20230622010000 +0100" stop="20230622040000 +0100" channel="artv">
+    <title lang="pt">Comissão de Negócios Estrangeiros e Comunidades Portuguesas</title>
+  </programme>
+  <programme start="20230622040000 +0100" stop="20230622060000 +0100" channel="artv">
+    <title lang="pt">Comissão de Orçamento e Finanças</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622070000 +0100" channel="artv">
+    <title lang="pt">Comissão de Saúde</title>
+  </programme>
+  <programme start="20230622070000 +0100" stop="20230622080000 +0100" channel="artv">
+    <title lang="pt">Comissão de Saúde</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622090000 +0100" channel="artv">
+    <title lang="pt">Comissão de Cultura, Comunicação, Juventude e Desporto</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622100000 +0100" channel="artv">
+    <title lang="pt">Comissão de Cultura, Comunicação, Juventude e Desporto</title>
+  </programme>
+  <programme start="20230622100000 +0100" stop="20230622110000 +0100" channel="artv">
+    <title lang="pt">Comissão de Agricultura e Pescas</title>
+  </programme>
+  <programme start="20230622110000 +0100" stop="20230622120000 +0100" channel="artv">
+    <title lang="pt">Comissão de Saúde</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622130000 +0100" channel="artv">
+    <title lang="pt">Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias</title>
+  </programme>
+  <programme start="20230622130000 +0100" stop="20230622160000 +0100" channel="artv">
+    <title lang="pt">Comissão Eventual para a Revisão Constitucional</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622190000 +0100" channel="artv">
+    <title lang="pt">Plenário</title>
+  </programme>
+  <programme start="20230622190000 +0100" stop="20230622200000 +0100" channel="artv">
+    <title lang="pt">Comissão de Educação e Ciência</title>
+  </programme>
+  <programme start="20230622200000 +0100" stop="20230622210000 +0100" channel="artv">
+    <title lang="pt">Comissão de Saúde</title>
+  </programme>
+  <programme start="20230622210000 +0100" stop="20230622220000 +0100" channel="artv">
+    <title lang="pt">Comissão de Administração Pública, Ordenamento do Território e Poder Local</title>
+  </programme>
+  <programme start="20230622004500 +0100" stop="20230622024800 +0100" channel="axn">
+    <title lang="pt">Os Bad Boys</title>
+  </programme>
+  <programme start="20230622024800 +0100" stop="20230622033200 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.7</title>
+  </programme>
+  <programme start="20230622033200 +0100" stop="20230622041500 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.8</title>
+  </programme>
+  <programme start="20230622041500 +0100" stop="20230622050000 +0100" channel="axn">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622050000 +0100" stop="20230622054500 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.1</title>
+  </programme>
+  <programme start="20230622054500 +0100" stop="20230622062800 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.2</title>
+  </programme>
+  <programme start="20230622062800 +0100" stop="20230622071200 +0100" channel="axn">
+    <title lang="pt">Alex Rider:T2 Ep.3</title>
+  </programme>
+  <programme start="20230622071200 +0100" stop="20230622075400 +0100" channel="axn">
+    <title lang="pt">Castle:T1 Ep.3</title>
+  </programme>
+  <programme start="20230622075400 +0100" stop="20230622085700 +0100" channel="axn">
+    <title lang="pt">Castle:T1 Ep.4</title>
+  </programme>
+  <programme start="20230622085700 +0100" stop="20230622094100 +0100" channel="axn">
+    <title lang="pt">Castle:T1 Ep.9</title>
+  </programme>
+  <programme start="20230622094100 +0100" stop="20230622102700 +0100" channel="axn">
+    <title lang="pt">Castle:T1 Ep.10</title>
+  </programme>
+  <programme start="20230622102700 +0100" stop="20230622111100 +0100" channel="axn">
+    <title lang="pt">Castle:T2 Ep.1</title>
+  </programme>
+  <programme start="20230622111100 +0100" stop="20230622115700 +0100" channel="axn">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622115700 +0100" stop="20230622124200 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.1</title>
+  </programme>
+  <programme start="20230622124200 +0100" stop="20230622132700 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.2</title>
+  </programme>
+  <programme start="20230622132700 +0100" stop="20230622141100 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.5</title>
+  </programme>
+  <programme start="20230622141100 +0100" stop="20230622145600 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.6</title>
+  </programme>
+  <programme start="20230622145600 +0100" stop="20230622154200 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.9</title>
+  </programme>
+  <programme start="20230622154200 +0100" stop="20230622162800 +0100" channel="axn">
+    <title lang="pt">Chicago Fire:T8 Ep.10</title>
+  </programme>
+  <programme start="20230622162800 +0100" stop="20230622171300 +0100" channel="axn">
+    <title lang="pt">S.W.A.T.: Força de Intervenção:T5 Ep.11</title>
+  </programme>
+  <programme start="20230622171300 +0100" stop="20230622175900 +0100" channel="axn">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622175900 +0100" stop="20230622202200 +0100" channel="axn">
+    <title lang="pt">Harry Potter e os Talismãs da Morte: Parte 1</title>
+  </programme>
+  <programme start="20230622202200 +0100" stop="20230622210800 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.3</title>
+  </programme>
+  <programme start="20230622210800 +0100" stop="20230622220600 +0100" channel="axn">
+    <title lang="pt">Mentes Criminosas:T10 Ep.4</title>
+  </programme>
+  <programme start="20230622220600 +0100" stop="20230622230000 +0100" channel="axn">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.13</title>
+  </programme>
+  <programme start="20230622230000 +0100" stop="20230622235400 +0100" channel="axn">
+    <title lang="pt">Investigação Criminal:T20 Ep.12</title>
+  </programme>
+  <programme start="20230622004500 +0100" stop="20230622024800 +0100" channel="axn-hd">
+    <title lang="pt">Os Bad Boys</title>
+  </programme>
+  <programme start="20230622024800 +0100" stop="20230622033200 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.7</title>
+  </programme>
+  <programme start="20230622033200 +0100" stop="20230622041500 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.8</title>
+  </programme>
+  <programme start="20230622041500 +0100" stop="20230622050000 +0100" channel="axn-hd">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622050000 +0100" stop="20230622054500 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.1</title>
+  </programme>
+  <programme start="20230622054500 +0100" stop="20230622062800 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.2</title>
+  </programme>
+  <programme start="20230622062800 +0100" stop="20230622071200 +0100" channel="axn-hd">
+    <title lang="pt">Alex Rider:T2 Ep.3</title>
+  </programme>
+  <programme start="20230622071200 +0100" stop="20230622075400 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T1 Ep.3</title>
+  </programme>
+  <programme start="20230622075400 +0100" stop="20230622083700 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T1 Ep.4</title>
+  </programme>
+  <programme start="20230622083700 +0100" stop="20230622090700 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T1 Ep.5</title>
+  </programme>
+  <programme start="20230622090700 +0100" stop="20230622095000 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T1 Ep.9</title>
+  </programme>
+  <programme start="20230622095000 +0100" stop="20230622103400 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T1 Ep.10</title>
+  </programme>
+  <programme start="20230622103400 +0100" stop="20230622111900 +0100" channel="axn-hd">
+    <title lang="pt">Castle:T2 Ep.1</title>
+  </programme>
+  <programme start="20230622111900 +0100" stop="20230622120400 +0100" channel="axn-hd">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622120400 +0100" stop="20230622124900 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.1</title>
+  </programme>
+  <programme start="20230622124900 +0100" stop="20230622133400 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.2</title>
+  </programme>
+  <programme start="20230622133400 +0100" stop="20230622141900 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.5</title>
+  </programme>
+  <programme start="20230622141900 +0100" stop="20230622150400 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.6</title>
+  </programme>
+  <programme start="20230622150400 +0100" stop="20230622154900 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.9</title>
+  </programme>
+  <programme start="20230622154900 +0100" stop="20230622163400 +0100" channel="axn-hd">
+    <title lang="pt">Chicago Fire:T8 Ep.10</title>
+  </programme>
+  <programme start="20230622163400 +0100" stop="20230622171900 +0100" channel="axn-hd">
+    <title lang="pt">S.W.A.T.: Força de Intervenção:T5 Ep.11</title>
+  </programme>
+  <programme start="20230622171900 +0100" stop="20230622180900 +0100" channel="axn-hd">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.12</title>
+  </programme>
+  <programme start="20230622180900 +0100" stop="20230622203000 +0100" channel="axn-hd">
+    <title lang="pt">Harry Potter e os Talismãs da Morte: Parte 1</title>
+  </programme>
+  <programme start="20230622203000 +0100" stop="20230622212000 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.3</title>
+  </programme>
+  <programme start="20230622212000 +0100" stop="20230622221000 +0100" channel="axn-hd">
+    <title lang="pt">Mentes Criminosas:T10 Ep.4</title>
+  </programme>
+  <programme start="20230622221000 +0100" stop="20230622230000 +0100" channel="axn-hd">
+    <title lang="pt">Hudson &amp; Rex:T1 Ep.13</title>
+  </programme>
+  <programme start="20230622230000 +0100" stop="20230622235200 +0100" channel="axn-hd">
+    <title lang="pt">Investigação Criminal:T20 Ep.12</title>
+  </programme>
+  <programme start="20230622013000 +0100" stop="20230622020000 +0100" channel="baby-first-tv">
+    <title lang="pt">A Lua e as Estrelas</title>
+  </programme>
+  <programme start="20230622020000 +0100" stop="20230622023000 +0100" channel="baby-first-tv">
+    <title lang="pt">Melodias Noturnas do BabyTV</title>
+  </programme>
+  <programme start="20230622023000 +0100" stop="20230622030000 +0100" channel="baby-first-tv">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20230622030000 +0100" stop="20230622033000 +0100" channel="baby-first-tv">
+    <title lang="pt">Abraços de Boa Noite</title>
+  </programme>
+  <programme start="20230622033000 +0100" stop="20230622040000 +0100" channel="baby-first-tv">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20230622040000 +0100" stop="20230622043000 +0100" channel="baby-first-tv">
+    <title lang="pt">A Lua e as Estrelas</title>
+  </programme>
+  <programme start="20230622043000 +0100" stop="20230622050000 +0100" channel="baby-first-tv">
+    <title lang="pt">Sons Tranquilos</title>
+  </programme>
+  <programme start="20230622050000 +0100" stop="20230622053000 +0100" channel="baby-first-tv">
+    <title lang="pt">Da Noite para o Dia</title>
+  </programme>
+  <programme start="20230622053000 +0100" stop="20230622060000 +0100" channel="baby-first-tv">
+    <title lang="pt">Da Noite para o Dia</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="baby-first-tv">
+    <title lang="pt">A Acordar Com os Amigos do BabyTV</title>
+  </programme>
+  <programme start="20230622063000 +0100" stop="20230622070000 +0100" channel="baby-first-tv">
+    <title lang="pt">A Acordar Com os Amigos do BabyTV</title>
+  </programme>
+  <programme start="20230622070000 +0100" stop="20230622073000 +0100" channel="baby-first-tv">
+    <title lang="pt">Exercício Matinal</title>
+  </programme>
+  <programme start="20230622073000 +0100" stop="20230622080000 +0100" channel="baby-first-tv">
+    <title lang="pt">Exercício Matinal</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622083000 +0100" channel="baby-first-tv">
+    <title lang="pt">Começa o Dia Com os Amigos do BabyTV</title>
+  </programme>
+  <programme start="20230622083000 +0100" stop="20230622090000 +0100" channel="baby-first-tv">
+    <title lang="pt">Tutti Frutti e Outras Histórias</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622093000 +0100" channel="baby-first-tv">
+    <title lang="pt">Sala de Aulas de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20230622093000 +0100" stop="20230622100000 +0100" channel="baby-first-tv">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20230622100000 +0100" stop="20230622103000 +0100" channel="baby-first-tv">
+    <title lang="pt">As Primeiras Descobertas Mágicas</title>
+  </programme>
+  <programme start="20230622103000 +0100" stop="20230622110000 +0100" channel="baby-first-tv">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20230622110000 +0100" stop="20230622113000 +0100" channel="baby-first-tv">
+    <title lang="pt">Explorar Com Canções &amp; Rimas</title>
+  </programme>
+  <programme start="20230622113000 +0100" stop="20230622120000 +0100" channel="baby-first-tv">
+    <title lang="pt">Walter e Dude e Outras Histórias</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622123000 +0100" channel="baby-first-tv">
+    <title lang="pt">Sala de Aulas de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20230622123000 +0100" stop="20230622130000 +0100" channel="baby-first-tv">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20230622130000 +0100" stop="20230622133000 +0100" channel="baby-first-tv">
+    <title lang="pt">As Primeiras Descobertas Mágicas</title>
+  </programme>
+  <programme start="20230622133000 +0100" stop="20230622140000 +0100" channel="baby-first-tv">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622143000 +0100" channel="baby-first-tv">
+    <title lang="pt">Explorar Com Yoyo</title>
+  </programme>
+  <programme start="20230622143000 +0100" stop="20230622150000 +0100" channel="baby-first-tv">
+    <title lang="pt">Walter e Dude e Outras Histórias</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622153000 +0100" channel="baby-first-tv">
+    <title lang="pt">Charlie &amp; os Números</title>
+  </programme>
+  <programme start="20230622153000 +0100" stop="20230622160000 +0100" channel="baby-first-tv">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622163000 +0100" channel="baby-first-tv">
+    <title lang="pt">As Primeiras Descobertas Mágicas</title>
+  </programme>
+  <programme start="20230622163000 +0100" stop="20230622170000 +0100" channel="baby-first-tv">
+    <title lang="pt">O Mundo da Imaginação</title>
+  </programme>
+  <programme start="20230622170000 +0100" stop="20230622173000 +0100" channel="baby-first-tv">
+    <title lang="pt">Explorar Com Yoyo</title>
+  </programme>
+  <programme start="20230622173000 +0100" stop="20230622180000 +0100" channel="baby-first-tv">
+    <title lang="pt">Brinca e Aprende Com À Descoberta Com Canções &amp; Rimas</title>
+  </programme>
+  <programme start="20230622180000 +0100" stop="20230622183000 +0100" channel="baby-first-tv">
+    <title lang="pt">Brinca e Aprende Com À Descoberta Com Canções &amp; Rimas</title>
+  </programme>
+  <programme start="20230622183000 +0100" stop="20230622190000 +0100" channel="baby-first-tv">
+    <title lang="pt">Jogos de Adivinhas Com Sai da Cama e os Amigos</title>
+  </programme>
+  <programme start="20230622190000 +0100" stop="20230622193000 +0100" channel="baby-first-tv">
+    <title lang="pt">Rimas e Diversão em Família</title>
+  </programme>
+  <programme start="20230622193000 +0100" stop="20230622200000 +0100" channel="baby-first-tv">
+    <title lang="pt">Rimas e Diversão em Família</title>
+  </programme>
+  <programme start="20230622200000 +0100" stop="20230622203000 +0100" channel="baby-first-tv">
+    <title lang="pt">Arte, Atividades e Música</title>
+  </programme>
+  <programme start="20230622203000 +0100" stop="20230622210000 +0100" channel="baby-first-tv">
+    <title lang="pt">Música Clássica e Histórias Tranquilas</title>
+  </programme>
+  <programme start="20230622210000 +0100" stop="20230622213000 +0100" channel="baby-first-tv">
+    <title lang="pt">Calma e Tranquilidade</title>
+  </programme>
+  <programme start="20230622213000 +0100" stop="20230622220000 +0100" channel="baby-first-tv">
+    <title lang="pt">Calma e Tranquilidade</title>
+  </programme>
+  <programme start="20230622220000 +0100" stop="20230622223000 +0100" channel="baby-first-tv">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20230622223000 +0100" stop="20230622230000 +0100" channel="baby-first-tv">
+    <title lang="pt">Bons Sonhos</title>
+  </programme>
+  <programme start="20230622230000 +0100" stop="20230622233000 +0100" channel="baby-first-tv">
+    <title lang="pt">Noites Sonhadoras</title>
+  </programme>
+  <programme start="20230622013000 +0100" stop="20230622022000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Amazing Hotels: Life Beyond The Lobby:T1 Ep.1</title>
+  </programme>
+  <programme start="20230622022000 +0100" stop="20230622030500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Impossible:T4 Ep.6</title>
+  </programme>
+  <programme start="20230622030500 +0100" stop="20230622035500 +0100" channel="bbc-entertainment">
+    <title lang="pt">The Split:T2 Ep.2</title>
+  </programme>
+  <programme start="20230622035500 +0100" stop="20230622045000 +0100" channel="bbc-entertainment">
+    <title lang="pt">The Great British Sewing Bee:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622045000 +0100" stop="20230622053500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Impossible:T4 Ep.6</title>
+  </programme>
+  <programme start="20230622053500 +0100" stop="20230622060000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Semi-Detached:T1 Ep.5</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622065000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Best In Town:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622065000 +0100" stop="20230622074000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Antiques Roadshow:T40 Ep.20</title>
+  </programme>
+  <programme start="20230622074000 +0100" stop="20230622083500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Antiques Roadshow:T43 Ep.11</title>
+  </programme>
+  <programme start="20230622083500 +0100" stop="20230622090500 +0100" channel="bbc-entertainment">
+    <title lang="pt">EastEnders:T1 Ep.6688</title>
+  </programme>
+  <programme start="20230622090500 +0100" stop="20230622095000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Impossible:T4 Ep.6</title>
+  </programme>
+  <programme start="20230622095000 +0100" stop="20230622104500 +0100" channel="bbc-entertainment">
+    <title lang="pt">The Great British Sewing Bee:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622104500 +0100" stop="20230622113500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Antiques Roadshow:T40 Ep.20</title>
+  </programme>
+  <programme start="20230622113500 +0100" stop="20230622122500 +0100" channel="bbc-entertainment">
+    <title lang="pt">George Clarke's Old House New Home:T2 Ep.2</title>
+  </programme>
+  <programme start="20230622122500 +0100" stop="20230622131000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Bargain Hunt:T47 Ep.4</title>
+  </programme>
+  <programme start="20230622131000 +0100" stop="20230622140000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Best In Town:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622142500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Ghosts:T2 Ep.5</title>
+  </programme>
+  <programme start="20230622142500 +0100" stop="20230622150000 +0100" channel="bbc-entertainment">
+    <title lang="pt">EastEnders:T1 Ep.6688</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622154500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Impossible:T4 Ep.6</title>
+  </programme>
+  <programme start="20230622154500 +0100" stop="20230622163500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Antiques Roadshow:T43 Ep.11</title>
+  </programme>
+  <programme start="20230622163500 +0100" stop="20230622172000 +0100" channel="bbc-entertainment">
+    <title lang="pt">George Clarke's Old House New Home:T2 Ep.2</title>
+  </programme>
+  <programme start="20230622172000 +0100" stop="20230622175000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Ghosts:T2 Ep.5</title>
+  </programme>
+  <programme start="20230622175000 +0100" stop="20230622182000 +0100" channel="bbc-entertainment">
+    <title lang="pt">EastEnders:T1 Ep.6688</title>
+  </programme>
+  <programme start="20230622182000 +0100" stop="20230622190500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Impossible:T4 Ep.7</title>
+  </programme>
+  <programme start="20230622190500 +0100" stop="20230622200000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Amazing Hotels: Life Beyond The Lobby:T1 Ep.5</title>
+  </programme>
+  <programme start="20230622200000 +0100" stop="20230622203000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Scarborough:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622203000 +0100" stop="20230622210000 +0100" channel="bbc-entertainment">
+    <title lang="pt">EastEnders:T1 Ep.6689</title>
+  </programme>
+  <programme start="20230622210000 +0100" stop="20230622215000 +0100" channel="bbc-entertainment">
+    <title lang="pt">The Great British Sewing Bee:T1 Ep.3</title>
+  </programme>
+  <programme start="20230622215000 +0100" stop="20230622224000 +0100" channel="bbc-entertainment">
+    <title lang="pt">Incredible Journeys With Simon Reeve:T1 Ep.4</title>
+  </programme>
+  <programme start="20230622224000 +0100" stop="20230622233000 +0100" channel="bbc-entertainment">
+    <title lang="pt">George Clarke's Remarkable Renovations:T1 Ep.4</title>
+  </programme>
+  <programme start="20230622233000 +0100" stop="20230622235500 +0100" channel="bbc-entertainment">
+    <title lang="pt">Scarborough:T1 Ep.2</title>
+  </programme>
+  <programme start="20230622014500 +0100" stop="20230622020000 +0100" channel="bbc-world">
+    <title lang="pt">SportsDay</title>
+  </programme>
+  <programme start="20230622020000 +0100" stop="20230622023000 +0100" channel="bbc-world">
+    <title lang="pt">Newsday</title>
+  </programme>
+  <programme start="20230622023000 +0100" stop="20230622024500 +0100" channel="bbc-world">
+    <title lang="pt">Asia Business Report</title>
+  </programme>
+  <programme start="20230622024500 +0100" stop="20230622030000 +0100" channel="bbc-world">
+    <title lang="pt">SportsDay</title>
+  </programme>
+  <programme start="20230622030000 +0100" stop="20230622033000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622033000 +0100" stop="20230622034500 +0100" channel="bbc-world">
+    <title lang="pt">Asia Business Report</title>
+  </programme>
+  <programme start="20230622034500 +0100" stop="20230622040000 +0100" channel="bbc-world">
+    <title lang="pt">SportsDay</title>
+  </programme>
+  <programme start="20230622040000 +0100" stop="20230622043000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622043000 +0100" stop="20230622050000 +0100" channel="bbc-world">
+    <title lang="pt">Conspiracyland: UK</title>
+  </programme>
+  <programme start="20230622050000 +0100" stop="20230622053000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622053000 +0100" stop="20230622060000 +0100" channel="bbc-world">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20230622060000 +0100" stop="20230622063000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622063000 +0100" stop="20230622070000 +0100" channel="bbc-world">
+    <title lang="pt">World Business Report</title>
+  </programme>
+  <programme start="20230622070000 +0100" stop="20230622073000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622073000 +0100" stop="20230622080000 +0100" channel="bbc-world">
+    <title lang="pt">World Business Report</title>
+  </programme>
+  <programme start="20230622080000 +0100" stop="20230622083000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622083000 +0100" stop="20230622090000 +0100" channel="bbc-world">
+    <title lang="pt">World Business Report</title>
+  </programme>
+  <programme start="20230622090000 +0100" stop="20230622093000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622093000 +0100" stop="20230622100000 +0100" channel="bbc-world">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20230622100000 +0100" stop="20230622103000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622103000 +0100" stop="20230622110000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622110000 +0100" stop="20230622113000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622113000 +0100" stop="20230622120000 +0100" channel="bbc-world">
+    <title lang="pt">HARDtalk</title>
+  </programme>
+  <programme start="20230622120000 +0100" stop="20230622123000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622123000 +0100" stop="20230622124500 +0100" channel="bbc-world">
+    <title lang="pt">World Business Report</title>
+  </programme>
+  <programme start="20230622124500 +0100" stop="20230622130000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News</title>
+  </programme>
+  <programme start="20230622130000 +0100" stop="20230622133000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622133000 +0100" stop="20230622140000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622140000 +0100" stop="20230622143000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622143000 +0100" stop="20230622150000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622150000 +0100" stop="20230622153000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622153000 +0100" stop="20230622154500 +0100" channel="bbc-world">
+    <title lang="pt">World Business Report</title>
+  </programme>
+  <programme start="20230622154500 +0100" stop="20230622160000 +0100" channel="bbc-world">
+    <title lang="pt">BBC News Now</title>
+  </programme>
+  <programme start="20230622160000 +0100" stop="20230622163000 +0100" channel="bbc-world">
+    <title lang="pt">Verified Live</title>
+  </programme>
+  <programme start="20230622163000 +0100" stop="20230622170000 +0100" channel="bbc-world">
+    <title lang="pt">Verified Live</title>
+  </programme>
+  <programme start="20230622170000 +0100" stop="20230622173000 +0100" channel="bbc-world">
+    <title lang="pt">Verified Live</title>
+  </programme>
+  <programme start="20230622173000 +0100" stop="20230622180000 +0100" channel="bbc-world">
+    <title lang="pt">Verified Live</title>
+  </programme>
+  <programme start="20230622180000 +0100" stop="20230622183000 +0100" channel="bbc-world">
+    <title lang="pt">Verified Live</title>
+  </programme>
+  <programme start="20230622183000 +0100" stop="20230622190000 +0100" channel="bbc-world">
+    <title lang="pt">Focus on Africa</title>
+  </programme>
+  <programme start="20230622190000 +0100" stop="20230622193000 +0100" channel="bbc-world">
+    <title lang="pt">The Daily Global</title>
+  </programme>
+  <programme start="20230622193000 +0100" stop="20230622200000 +0100" channel="bbc-world">
+    <title lang="pt">The Daily Global</title>
+  </programme>
+  <programme start="20230622200000 +0100" stop="20230622203000 +0100" channel="bbc-world">
+    <title lang="pt">The Daily Global</title>
+  </programme>
+  <programme start="20230622203000 +0100" stop="20230622210000 +0100" channel="bbc-world">
+    <title lang="pt">The Daily Global</title>
+  </programme>
+  <programme start="20230622210000 +0100" stop="20230622213000 +0100" channel="bbc-world">
+    <title lang="pt">The Context With Christian Fraser</title>
+  </programme>
+  <programme start="20230622213000 +0100" stop="20230622220000 +0100" channel="bbc-world">
+    <title lang="pt">The Context With Christian Fraser</title>
+  </programme>
+  <programme start="20230622220000 +0100" stop="20230622223000 +0100" channel="bbc-world">
+    <title lang="pt">The Context With Christian Fraser</title>
+  </programme>
+  <programme start="20230622223000 +0100" stop="20230622230000 +0100" channel="bbc-world">
+    <title lang="pt">The Context With Christian Fraser</title>
+  </programme>
+  <programme start="20230622230000 +0100" stop="20230622233000 +0100" channel="bbc-world">
+    <title lang="pt">BBC World News America</title>
+  </programme>
+  <programme start="20230622015400 +0100" stop="20230622022500 +0100" channel="benfica-tv-1">
+    <title lang="pt">Cine Benfica</title>
+  </programme>
+  <programme start="20230622022500 +0100" stop="20230622025800 +0100" channel="benfica-tv-1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20230622025800 +0100" stop="20230622041300 +0100" channel="benfica-tv-1">
+    <title lang="pt">SLB x CDE Gil Eanes: Camp. Nacional de Andebol Feminino</title>
+  </programme>
+  <programme start="20230622041300 +0100" stop="20230622054400 +0100" channel="benfica-tv-1">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20230622054400 +0100" stop="20230622061200 +0100" channel="benfica-tv-1">
+    <title lang="pt">Mais Vantagens</title>
+  </programme>
+  <programme start="20230622061200 +0100" stop="20230622080800 +0100" channel="benfica-tv-1">
+    <title lang="pt">Sporting CP x SLB - Final - Jogo 4 - Campeonato Nacional Hóquei Patins</title>
+  </programme>
+  <programme start="20230622080800 +0100" stop="20230622083300 +0100" channel="benfica-tv-1">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20230622083300 +0100" stop="20230622090200 +0100" channel="benfica-tv-1">
+    <title lang="pt">Cine Benfica</title>
+  </programme>
+  <programme start="20230622090200 +0100" stop="20230622093500 +0100" channel="benfica-tv-1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20230622093500 +0100" stop="20230622105900 +0100" channel="benfica-tv-1">
+    <title lang="pt">SLB x AA S. Pedro do Sul: Camp. Nacional de Andebol Feminino</title>
+  </programme>
+  <programme start="20230622105900 +0100" stop="20230622115800 +0100" channel="benfica-tv-1">
+    <title lang="pt">Benfica 10 Horas</title>
+  </programme>
+  <programme start="20230622115800 +0100" stop="20230622122900 +0100" channel="benfica-tv-1">
+    <title lang="pt">Protagonista</title>
+  </programme>
+  <programme start="20230622122900 +0100" stop="20230622125800 +0100" channel="benfica-tv-1">
+    <title lang="pt">Mais Vantagens</title>
+  </programme>
+  <programme start="20230622125800 +0100" stop="20230622132900 +0100" channel="benfica-tv-1">
+    <title lang="pt">Car Online TV</title>
+  </programme>
+  <programme start="20230622132900 +0100" stop="20230622145900 +0100" channel="benfica-tv-1">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20230622145900 +0100" stop="20230622153000 +0100" channel="benfica-tv-1">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20230622153000 +0100" stop="20230622172700 +0100" channel="benfica-tv-1">
+    <title lang="pt">SLB x Sporting CP - Camp. Nacional Futsal</title>
+  </programme>
+  <programme start="20230622172700 +0100" stop="20230622175500 +0100" channel="benfica-tv-1">
+    <title lang="pt">Alta Fidelidade</title>
+  </programme>
+  <programme start="20230622175500 +0100" stop="20230622182300 +0100" channel="benfica-tv-1">
+    <title lang="pt">Reportagem Especial</title>
+  </programme>
+  <programme start="20230622182300 +0100" stop="20230622185100 +0100" channel="benfica-tv-1">
+    <title lang="pt">Vermelho Claro</title>
+  </programme>
+  <programme start="20230622185100 +0100" stop="20230622201500 +0100" channel="benfica-tv-1">
+    <title lang="pt">SLB x UHC Stockerau: EHF European Cup de Andebol Feminino</title>
+  </programme>
+  <programme start="20230622201500 +0100" stop="20230622202900 +0100" channel="benfica-tv-1">
+    <title lang="pt">SLB x GD Chaves: Jogo da Jornada - Magazine</title>
+  </programme>
+  <programme start="20230622202900 +0100" stop="20230622205700 +0100" channel="benfica-tv-1">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20230622205700 +0100" stop="20230622212900 +0100" channel="benfica-tv-1">
+    <title lang="pt">A Carrinha do Bento</title>
+  </programme>
+  <programme start="20230622212900 +0100" stop="20230622220000 +0100" channel="benfica-tv-1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20230622220000 +0100" stop="20230622223100 +0100" channel="benfica-tv-1">
+    <title lang="pt">A Carrinha do Bento</title>
+  </programme>
+  <programme start="20230622223100 +0100" stop="20230622235100 +0100" channel="benfica-tv-1">
+    <title lang="pt">UHC Stockerau x SLB: EHF European Cup de Andebol Feminino</title>
+  </programme>
+</tv>
