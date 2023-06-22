@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBORJ">
+    <display-name lang="pt">GLOBORJ</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="en">SBT</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
