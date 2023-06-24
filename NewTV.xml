@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBORJ">
+    <display-name lang="pt">GLOBORJ</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sbt.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rec.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ban.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtv.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230624141000 -0300" stop="20230624155000 -0300" channel="GLOBORJ">
+    <title lang="pt">Sessão de Sábado: 2 Filhos de Francisco</title>
+  </programme>
+  <programme start="20230624155000 -0300" stop="20230624183500 -0300" channel="GLOBORJ">
+    <title lang="pt">Caldeirão com Mion</title>
+  </programme>
+  <programme start="20230624183500 -0300" stop="20230624192000 -0300" channel="GLOBORJ">
+    <title lang="pt">Amor Perfeito</title>
+  </programme>
+  <programme start="20230624192000 -0300" stop="20230624194500 -0300" channel="GLOBORJ">
+    <title lang="pt">SP2</title>
+  </programme>
+  <programme start="20230624194500 -0300" stop="20230624203000 -0300" channel="GLOBORJ">
+    <title lang="pt">Vai na Fé</title>
+  </programme>
+  <programme start="20230624203000 -0300" stop="20230624212000 -0300" channel="GLOBORJ">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230624212000 -0300" stop="20230624222500 -0300" channel="GLOBORJ">
+    <title lang="pt">Terra e Paixão</title>
+  </programme>
+  <programme start="20230624222500 -0300" stop="20230625001500 -0300" channel="GLOBORJ">
+    <title lang="pt">Altas Horas</title>
+  </programme>
+  <programme start="20230624123000 -0300" stop="20230624151500 -0300" channel="SBT">
+    <title lang="pt">Sábado Série</title>
+  </programme>
+  <programme start="20230624151500 -0300" stop="20230624173000 -0300" channel="SBT">
+    <title lang="pt">Cinema em Casa: O Voo</title>
+  </programme>
+  <programme start="20230624173000 -0300" stop="20230624200000 -0300" channel="SBT">
+    <title lang="pt">Programa Raul Gil</title>
+  </programme>
+  <programme start="20230624200000 -0300" stop="20230624204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+  </programme>
+  <programme start="20230624204500 -0300" stop="20230624223000 -0300" channel="SBT">
+    <title lang="pt">A Infância de Romeu &amp; Julieta</title>
+  </programme>
+  <programme start="20230624223000 -0300" stop="20230625000000 -0300" channel="SBT">
+    <title lang="pt">Esquadrão da Moda</title>
+  </programme>
+  <programme start="20230624130000 -0300" stop="20230624150000 -0300" channel="Record">
+    <title lang="pt">Balanço Geral Edição de Sábado</title>
+  </programme>
+  <programme start="20230624150000 -0300" stop="20230624170000 -0300" channel="Record">
+    <title lang="pt">Cine Aventura: O Mundo Imaginário do Doutor Parnassus</title>
+  </programme>
+  <programme start="20230624170000 -0300" stop="20230624194500 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+  </programme>
+  <programme start="20230624194500 -0300" stop="20230624210000 -0300" channel="Record">
+    <title lang="pt">Jornal da Record Edição de Sábado</title>
+  </programme>
+  <programme start="20230624210000 -0300" stop="20230624223000 -0300" channel="Record">
+    <title lang="pt">Reis</title>
+  </programme>
+  <programme start="20230624223000 -0300" stop="20230624224500 -0300" channel="Record">
+    <title lang="pt">A Grande Conquista</title>
+  </programme>
+  <programme start="20230624224500 -0300" stop="20230625001500 -0300" channel="Record">
+    <title lang="pt">Super Tela: O Sequestro do Metrô 1 2 3</title>
+  </programme>
+  <programme start="20230624123000 -0300" stop="20230624160000 -0300" channel="Band">
+    <title lang="pt">Band Esporte Clube</title>
+  </programme>
+  <programme start="20230624160000 -0300" stop="20230624185000 -0300" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+  </programme>
+  <programme start="20230624185000 -0300" stop="20230624192000 -0300" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+  </programme>
+  <programme start="20230624192000 -0300" stop="20230624203000 -0300" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230624203000 -0300" stop="20230624213000 -0300" channel="Band">
+    <title lang="pt">Documento Band</title>
+  </programme>
+  <programme start="20230624213000 -0300" stop="20230624223000 -0300" channel="Band">
+    <title lang="pt">The Blacklist</title>
+  </programme>
+  <programme start="20230624223000 -0300" stop="20230624230000 -0300" channel="Band">
+    <title lang="pt">Warner Play</title>
+  </programme>
+  <programme start="20230624230000 -0300" stop="20230625010000 -0300" channel="Band">
+    <title lang="pt">SFT</title>
+  </programme>
+  <programme start="20230624140000 -0300" stop="20230624150000 -0300" channel="Rede TV">
+    <title lang="pt">Inovamed</title>
+  </programme>
+  <programme start="20230624150000 -0300" stop="20230624160000 -0300" channel="Rede TV">
+    <title lang="pt">Polishop</title>
+  </programme>
+  <programme start="20230624160000 -0300" stop="20230624170000 -0300" channel="Rede TV">
+    <title lang="pt">Ultrafarma</title>
+  </programme>
+  <programme start="20230624170000 -0300" stop="20230624180000 -0300" channel="Rede TV">
+    <title lang="pt">Festival Redetvplus</title>
+  </programme>
+  <programme start="20230624180000 -0300" stop="20230624193000 -0300" channel="Rede TV">
+    <title lang="pt">Polishop</title>
+  </programme>
+  <programme start="20230624193000 -0300" stop="20230624203000 -0300" channel="Rede TV">
+    <title lang="pt">TV Fama</title>
+  </programme>
+  <programme start="20230624203000 -0300" stop="20230624213000 -0300" channel="Rede TV">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+  </programme>
+  <programme start="20230624213000 -0300" stop="20230624221000 -0300" channel="Rede TV">
+    <title lang="pt">RedeTV! News</title>
+  </programme>
+  <programme start="20230624221000 -0300" stop="20230624231000 -0300" channel="Rede TV">
+    <title lang="pt">Operação de Risco</title>
+  </programme>
+  <programme start="20230624231000 -0300" stop="20230625003000 -0300" channel="Rede TV">
+    <title lang="pt">O Céu é O Limite</title>
+  </programme>
+</tv>
