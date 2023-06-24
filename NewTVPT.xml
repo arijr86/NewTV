@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT-Afro-Music">
+    <display-name lang="pt">PT-Afro-Music</display-name>
+    <icon src="http://www.guia-tv.pt/logos/afro-music.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-AMC">
+    <display-name lang="pt">PT-AMC</display-name>
+    <icon src="http://www.guia-tv.pt/logos/amc-hd.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-AXN">
+    <display-name lang="pt">PT-AXN</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-AXN-White">
+    <display-name lang="pt">PT-AXN-White</display-name>
+    <icon src="http://www.guia-tv.pt/logos/axn-white.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-Canal-180">
+    <display-name lang="pt">PT-Canal-180</display-name>
+    <icon src="http://www.guia-tv.pt/logos/canal-180.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-Cancao Nova">
+    <display-name lang="pt">PT-Cancao Nova</display-name>
+    <icon src="http://www.guia-tv.pt/logos/cancao-nova.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="PT-Cartoon Network">
+    <display-name lang="pt">PT-Cartoon Network</display-name>
+    <icon src="http://www.guia-tv.pt/logos/cartoon-network.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <programme start="20230624000000 +0100" stop="20230624095300 +0100" channel="PT-Afro-Music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230624095300 +0100" stop="20230624102700 +0100" channel="PT-Afro-Music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230624102700 +0100" stop="20230624105800 +0100" channel="PT-Afro-Music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230624105800 +0100" stop="20230624113200 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230624113200 +0100" stop="20230624120000 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230624120000 +0100" stop="20230624125000 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230624125000 +0100" stop="20230624133300 +0100" channel="PT-Afro-Music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230624133300 +0100" stop="20230624140700 +0100" channel="PT-Afro-Music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230624140700 +0100" stop="20230624144000 +0100" channel="PT-Afro-Music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230624144000 +0100" stop="20230624152300 +0100" channel="PT-Afro-Music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230624152300 +0100" stop="20230624160100 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230624160100 +0100" stop="20230624163800 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230624163800 +0100" stop="20230624172800 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230624172800 +0100" stop="20230624181200 +0100" channel="PT-Afro-Music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230624181200 +0100" stop="20230624184900 +0100" channel="PT-Afro-Music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230624184900 +0100" stop="20230624192300 +0100" channel="PT-Afro-Music">
+    <title lang="pt">African Vibes</title>
+  </programme>
+  <programme start="20230624192300 +0100" stop="20230624201300 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230624201300 +0100" stop="20230624204800 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Around The World</title>
+  </programme>
+  <programme start="20230624204800 +0100" stop="20230624212400 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Ao Nosso Ritmo</title>
+  </programme>
+  <programme start="20230624212400 +0100" stop="20230624220900 +0100" channel="PT-Afro-Music">
+    <title lang="pt">100 Pausas</title>
+  </programme>
+  <programme start="20230624220900 +0100" stop="20230624224100 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Best Hits</title>
+  </programme>
+  <programme start="20230624224100 +0100" stop="20230624231700 +0100" channel="PT-Afro-Music">
+    <title lang="pt">+Love</title>
+  </programme>
+  <programme start="20230624231700 +0100" stop="20230624235000 +0100" channel="PT-Afro-Music">
+    <title lang="pt">Fresh Music</title>
+  </programme>
+  <programme start="20230624004900 +0100" stop="20230624023500 +0100" channel="PT-AXN">
+    <title lang="pt">Os Perdedores</title>
+  </programme>
+  <programme start="20230624023500 +0100" stop="20230624042300 +0100" channel="PT-AXN">
+    <title lang="pt">Assalto Arriscado</title>
+  </programme>
+  <programme start="20230624042300 +0100" stop="20230624050600 +0100" channel="PT-AXN">
+    <title lang="pt">Chicago Fire:T8 Ep.11</title>
+  </programme>
+  <programme start="20230624050600 +0100" stop="20230624053200 +0100" channel="PT-AXN">
+    <title lang="pt">Close Up:T1 Ep.32</title>
+  </programme>
+  <programme start="20230624053200 +0100" stop="20230624061700 +0100" channel="PT-AXN">
+    <title lang="pt">Mentes Criminosas:T10 Ep.6</title>
+  </programme>
+  <programme start="20230624061700 +0100" stop="20230624070100 +0100" channel="PT-AXN">
+    <title lang="pt">Alex Rider:T2 Ep.5</title>
+  </programme>
+  <programme start="20230624070100 +0100" stop="20230624074800 +0100" channel="PT-AXN">
+    <title lang="pt">Castle:T1 Ep.9</title>
+  </programme>
+  <programme start="20230624074800 +0100" stop="20230624083300 +0100" channel="PT-AXN">
+    <title lang="pt">Accused:T1 Ep.15</title>
+  </programme>
+  <programme start="20230624083300 +0100" stop="20230624091800 +0100" channel="PT-AXN">
+    <title lang="pt">Investigação Criminal:T11 Ep.20</title>
+  </programme>
+  <programme start="20230624091800 +0100" stop="20230624095600 +0100" channel="PT-AXN">
+    <title lang="pt">Investigação Criminal:T11 Ep.21</title>
+  </programme>
+  <programme start="20230624095600 +0100" stop="20230624104600 +0100" channel="PT-AXN">
+    <title lang="pt">Investigação Criminal:T11 Ep.22</title>
+  </programme>
+  <programme start="20230624104600 +0100" stop="20230624113500 +0100" channel="PT-AXN">
+    <title lang="pt">Investigação Criminal:T11 Ep.23</title>
+  </programme>
+  <programme start="20230624113500 +0100" stop="20230624122200 +0100" channel="PT-AXN">
+    <title lang="pt">Investigação Criminal:T11 Ep.24</title>
+  </programme>
+  <programme start="20230624122200 +0100" stop="20230624131300 +0100" channel="PT-AXN">
+    <title lang="pt">S.W.A.T.: Força de Intervenção:T6 Ep.3</title>
+  </programme>
+  <programme start="20230624131300 +0100" stop="20230624140500 +0100" channel="PT-AXN">
+    <title lang="pt">S.W.A.T.: Força de Intervenção:T6 Ep.4</title>
+  </programme>
+  <programme start="20230624140500 +0100" stop="20230624155400 +0100" channel="PT-AXN">
+    <title lang="pt">As Bruxas de Roald Dahl</title>
+  </programme>
+  <programme start="20230624155400 +0100" stop="20230624180800 +0100" channel="PT-AXN">
+    <title lang="pt">Os Bad Boys</title>
+  </programme>
+  <programme start="20230624180800 +0100" stop="20230624201500 +0100" channel="PT-AXN">
+    <title lang="pt">O Conselheiro</title>
+  </programme>
+  <programme start="20230624201500 +0100" stop="20230624225500 +0100" channel="PT-AXN">
+    <title lang="pt">Tenet</title>
+  </programme>
+  <programme start="20230624015800 +0100" stop="20230624020800 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Titio Avô:T1 Ep.7</title>
+  </programme>
+  <programme start="20230624020800 +0100" stop="20230624021800 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Titio Avô:T1 Ep.8</title>
+  </programme>
+  <programme start="20230624021800 +0100" stop="20230624023000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.17</title>
+  </programme>
+  <programme start="20230624023000 +0100" stop="20230624024100 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.18</title>
+  </programme>
+  <programme start="20230624024100 +0100" stop="20230624025300 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.18</title>
+  </programme>
+  <programme start="20230624025300 +0100" stop="20230624030400 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Regular Show:T6 Ep.2</title>
+  </programme>
+  <programme start="20230624030400 +0100" stop="20230624031400 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Regular Show:T6 Ep.3</title>
+  </programme>
+  <programme start="20230624031400 +0100" stop="20230624032600 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Regular Show:T6 Ep.5</title>
+  </programme>
+  <programme start="20230624032600 +0100" stop="20230624033600 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Hora de Aventuras:T7 Ep.16</title>
+  </programme>
+  <programme start="20230624033600 +0100" stop="20230624034600 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Hora de Aventuras:T7 Ep.17</title>
+  </programme>
+  <programme start="20230624034600 +0100" stop="20230624035700 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Hora de Aventuras:T7 Ep.19</title>
+  </programme>
+  <programme start="20230624035700 +0100" stop="20230624040900 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Hora de Aventuras:T7 Ep.20</title>
+  </programme>
+  <programme start="20230624040900 +0100" stop="20230624041900 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Steven Universe:T2 Ep.8</title>
+  </programme>
+  <programme start="20230624041900 +0100" stop="20230624043000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Steven Universe:T2 Ep.9</title>
+  </programme>
+  <programme start="20230624043000 +0100" stop="20230624044000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Steven Universe:T2 Ep.10</title>
+  </programme>
+  <programme start="20230624044000 +0100" stop="20230624045100 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Steven Universe:T2 Ep.11</title>
+  </programme>
+  <programme start="20230624045100 +0100" stop="20230624050200 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.21</title>
+  </programme>
+  <programme start="20230624050200 +0100" stop="20230624051300 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.22</title>
+  </programme>
+  <programme start="20230624051300 +0100" stop="20230624052400 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.23</title>
+  </programme>
+  <programme start="20230624052400 +0100" stop="20230624053500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.24</title>
+  </programme>
+  <programme start="20230624053500 +0100" stop="20230624054500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.21</title>
+  </programme>
+  <programme start="20230624054500 +0100" stop="20230624055500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.22</title>
+  </programme>
+  <programme start="20230624055500 +0100" stop="20230624060500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.23</title>
+  </programme>
+  <programme start="20230624060500 +0100" stop="20230624061600 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.28</title>
+  </programme>
+  <programme start="20230624061600 +0100" stop="20230624062700 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.17</title>
+  </programme>
+  <programme start="20230624062700 +0100" stop="20230624063800 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.18</title>
+  </programme>
+  <programme start="20230624063800 +0100" stop="20230624064900 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.19</title>
+  </programme>
+  <programme start="20230624064900 +0100" stop="20230624070000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.20</title>
+  </programme>
+  <programme start="20230624070000 +0100" stop="20230624071000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.4</title>
+  </programme>
+  <programme start="20230624071000 +0100" stop="20230624072000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.5</title>
+  </programme>
+  <programme start="20230624072000 +0100" stop="20230624073000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.6</title>
+  </programme>
+  <programme start="20230624073000 +0100" stop="20230624074500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.6</title>
+  </programme>
+  <programme start="20230624074500 +0100" stop="20230624075500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.7</title>
+  </programme>
+  <programme start="20230624075500 +0100" stop="20230624080500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.8</title>
+  </programme>
+  <programme start="20230624080500 +0100" stop="20230624081500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.8</title>
+  </programme>
+  <programme start="20230624081500 +0100" stop="20230624083000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.9</title>
+  </programme>
+  <programme start="20230624083000 +0100" stop="20230624084000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.9</title>
+  </programme>
+  <programme start="20230624084000 +0100" stop="20230624085000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.10</title>
+  </programme>
+  <programme start="20230624085000 +0100" stop="20230624090000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.10</title>
+  </programme>
+  <programme start="20230624090000 +0100" stop="20230624091500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T2 Ep.11</title>
+  </programme>
+  <programme start="20230624091500 +0100" stop="20230624092500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T2 Ep.6</title>
+  </programme>
+  <programme start="20230624092500 +0100" stop="20230624093500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T2 Ep.7</title>
+  </programme>
+  <programme start="20230624093500 +0100" stop="20230624100000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Doraemon:T1 Ep.996</title>
+  </programme>
+  <programme start="20230624100000 +0100" stop="20230624101000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.6</title>
+  </programme>
+  <programme start="20230624101000 +0100" stop="20230624102000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.8</title>
+  </programme>
+  <programme start="20230624102000 +0100" stop="20230624103000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Monkie Kid:T2 Ep.10</title>
+  </programme>
+  <programme start="20230624103000 +0100" stop="20230624104500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Monkie Kid:T2 Ep.11</title>
+  </programme>
+  <programme start="20230624104500 +0100" stop="20230624105500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T1 Ep.13</title>
+  </programme>
+  <programme start="20230624105500 +0100" stop="20230624110500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T1 Ep.14</title>
+  </programme>
+  <programme start="20230624110500 +0100" stop="20230624111500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T1 Ep.15</title>
+  </programme>
+  <programme start="20230624111500 +0100" stop="20230624112500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.40</title>
+  </programme>
+  <programme start="20230624112500 +0100" stop="20230624113500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.41</title>
+  </programme>
+  <programme start="20230624113500 +0100" stop="20230624114500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.43</title>
+  </programme>
+  <programme start="20230624114500 +0100" stop="20230624120000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T6 Ep.44</title>
+  </programme>
+  <programme start="20230624120000 +0100" stop="20230624121000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T6 Ep.52</title>
+  </programme>
+  <programme start="20230624121000 +0100" stop="20230624122000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T6 Ep.44</title>
+  </programme>
+  <programme start="20230624122000 +0100" stop="20230624123000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T6 Ep.35</title>
+  </programme>
+  <programme start="20230624123000 +0100" stop="20230624124500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T7 Ep.52</title>
+  </programme>
+  <programme start="20230624124500 +0100" stop="20230624125500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T2 Ep.1</title>
+  </programme>
+  <programme start="20230624125500 +0100" stop="20230624131000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T2 Ep.2</title>
+  </programme>
+  <programme start="20230624131000 +0100" stop="20230624132000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T4 Ep.37</title>
+  </programme>
+  <programme start="20230624132000 +0100" stop="20230624133000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T4 Ep.40</title>
+  </programme>
+  <programme start="20230624133000 +0100" stop="20230624134000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T3 Ep.10</title>
+  </programme>
+  <programme start="20230624134000 +0100" stop="20230624135500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T3 Ep.12</title>
+  </programme>
+  <programme start="20230624135500 +0100" stop="20230624142000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Jade Armor:T1 Ep.18</title>
+  </programme>
+  <programme start="20230624142000 +0100" stop="20230624143000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.3</title>
+  </programme>
+  <programme start="20230624143000 +0100" stop="20230624144000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.4</title>
+  </programme>
+  <programme start="20230624144000 +0100" stop="20230624145000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.4</title>
+  </programme>
+  <programme start="20230624145000 +0100" stop="20230624150500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T1 Ep.5</title>
+  </programme>
+  <programme start="20230624150500 +0100" stop="20230624151500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.14</title>
+  </programme>
+  <programme start="20230624151500 +0100" stop="20230624153000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.21</title>
+  </programme>
+  <programme start="20230624153000 +0100" stop="20230624165500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes: De Novo em Ação (V.P.)</title>
+  </programme>
+  <programme start="20230624165500 +0100" stop="20230624170500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T3 Ep.28</title>
+  </programme>
+  <programme start="20230624170500 +0100" stop="20230624172000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T3 Ep.29</title>
+  </programme>
+  <programme start="20230624172000 +0100" stop="20230624173000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T3 Ep.30</title>
+  </programme>
+  <programme start="20230624173000 +0100" stop="20230624174000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T3 Ep.31</title>
+  </programme>
+  <programme start="20230624174000 +0100" stop="20230624175000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T1 Ep.5</title>
+  </programme>
+  <programme start="20230624175000 +0100" stop="20230624180000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T1 Ep.6</title>
+  </programme>
+  <programme start="20230624180000 +0100" stop="20230624181000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T3 Ep.8</title>
+  </programme>
+  <programme start="20230624181000 +0100" stop="20230624182000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T3 Ep.9</title>
+  </programme>
+  <programme start="20230624182000 +0100" stop="20230624183000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T4 Ep.1</title>
+  </programme>
+  <programme start="20230624183000 +0100" stop="20230624184500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Looney Tunes:T4 Ep.2</title>
+  </programme>
+  <programme start="20230624184500 +0100" stop="20230624190500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Jade Armor:T1 Ep.17</title>
+  </programme>
+  <programme start="20230624190500 +0100" stop="20230624191500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.3</title>
+  </programme>
+  <programme start="20230624191500 +0100" stop="20230624193000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.11</title>
+  </programme>
+  <programme start="20230624193000 +0100" stop="20230624194000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.5</title>
+  </programme>
+  <programme start="20230624194000 +0100" stop="20230624195000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Nós, os Ursinhos:T1 Ep.9</title>
+  </programme>
+  <programme start="20230624195000 +0100" stop="20230624200000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.21</title>
+  </programme>
+  <programme start="20230624200000 +0100" stop="20230624201500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.22</title>
+  </programme>
+  <programme start="20230624201500 +0100" stop="20230624202500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.23</title>
+  </programme>
+  <programme start="20230624202500 +0100" stop="20230624203500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T4 Ep.28</title>
+  </programme>
+  <programme start="20230624203500 +0100" stop="20230624204500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T1 Ep.1</title>
+  </programme>
+  <programme start="20230624204500 +0100" stop="20230624210000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Destemido Príncipe Ivandoe:T1 Ep.2</title>
+  </programme>
+  <programme start="20230624210000 +0100" stop="20230624211000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T5 Ep.23</title>
+  </programme>
+  <programme start="20230624211000 +0100" stop="20230624212000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T5 Ep.24</title>
+  </programme>
+  <programme start="20230624212000 +0100" stop="20230624213000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T5 Ep.25</title>
+  </programme>
+  <programme start="20230624213000 +0100" stop="20230624214500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T5 Ep.26</title>
+  </programme>
+  <programme start="20230624214500 +0100" stop="20230624215500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T4 Ep.33</title>
+  </programme>
+  <programme start="20230624215500 +0100" stop="20230624220500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T4 Ep.34</title>
+  </programme>
+  <programme start="20230624220500 +0100" stop="20230624221500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T1 Ep.34</title>
+  </programme>
+  <programme start="20230624221500 +0100" stop="20230624223000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Mundo de Craig:T1 Ep.35</title>
+  </programme>
+  <programme start="20230624223000 +0100" stop="20230624224000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T7 Ep.37</title>
+  </programme>
+  <programme start="20230624224000 +0100" stop="20230624225000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T7 Ep.42</title>
+  </programme>
+  <programme start="20230624225000 +0100" stop="20230624230000 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T7 Ep.41</title>
+  </programme>
+  <programme start="20230624230000 +0100" stop="20230624231500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">Teen Titans Go!:T7 Ep.36</title>
+  </programme>
+  <programme start="20230624231500 +0100" stop="20230624232500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.9</title>
+  </programme>
+  <programme start="20230624232500 +0100" stop="20230624233500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.10</title>
+  </programme>
+  <programme start="20230624233500 +0100" stop="20230624234500 +0100" channel="PT-Cartoon Network">
+    <title lang="pt">O Incrível Mundo de Gumball:T4 Ep.12</title>
+  </programme>
+</tv>
