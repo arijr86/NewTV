@@ -713,9 +713,9 @@ http://7go.xyz:8080/8589436032/858943Gsts1/22686
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="FILMES",HBO Xtreme
 http://esrv.cc:80/Diego27023/Pequenino3356/31493.ts
 
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus.png" group-title="FILMES",HBO Plus
 http://7go.xyz:8080/clientevip/20222023@1/42934
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus.png" group-title="FILMES",HBO Plus
 http://7go.xyz:8080/8589436032/858943Gsts1/22683
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
 http://esrv.cc:80/Diego27023/Pequenino3356/31490.ts
