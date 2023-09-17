@@ -664,11 +664,11 @@ http://7go.xyz:8080/8589436032/858943Gsts1/22712
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinecult.png" group-title="FILMES",Telecine Cult
 http://esrv.cc:80/Diego27023/Pequenino3356/31507.ts
 
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="FILMES",HBO
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo.png" group-title="FILMES",HBO
 http://7go.xyz:8080/clientevip/20222023@1/45220
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="FILMES",HBO
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo.png" group-title="FILMES",HBO
 http://7go.xyz:8080/8589436032/858943Gsts1/22681
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="FILMES",HBO
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo.png" group-title="FILMES",HBO
 http://esrv.cc:80/Diego27023/Pequenino3356/31488.ts
 
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2.png" group-title="FILMES",HBO 2
@@ -699,11 +699,11 @@ http://7go.xyz:8080/8589436032/858943Gsts1/22684
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbopop-1.png" group-title="FILMES",HBO POP
 http://esrv.cc:80/Diego27023/Pequenino3356/31491.ts
 
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature-1.png" group-title="FILMES",HBO Signature
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature.png" group-title="FILMES",HBO Signature
 http://7go.xyz:8080/clientevip/20222023@1/42929
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature-1.png" group-title="FILMES",HBO Signature
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature.png" group-title="FILMES",HBO Signature
 http://7go.xyz:8080/8589436032/858943Gsts1/22685
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature-1.png" group-title="FILMES",HBO Signature
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hbosignature.png" group-title="FILMES",HBO Signature
 http://esrv.cc:80/Diego27023/Pequenino3356/31492.ts
 
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="FILMES",HBO Xtreme
@@ -713,11 +713,11 @@ http://7go.xyz:8080/8589436032/858943Gsts1/22686
 #EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="FILMES",HBO Xtreme
 http://esrv.cc:80/Diego27023/Pequenino3356/31493.ts
 
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="FILMES",HBO Plus
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
 http://7go.xyz:8080/clientevip/20222023@1/42934
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="FILMES",HBO Plus
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
 http://7go.xyz:8080/8589436032/858943Gsts1/22683
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="FILMES",HBO Plus
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus.png" group-title="FILMES",HBO Plus
 http://esrv.cc:80/Diego27023/Pequenino3356/31490.ts
 
 
