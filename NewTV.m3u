@@ -1,0 +1,914 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/arijr86/NewTV/main/NewTV.xml,https://i.mjh.nz/PlutoTV/all.xml"
+
+
+######################################  ABERTOS  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",GLOBO
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1983
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",GLOBO
+http://triertri.xyz:80/173087217/218867243/141949
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",GLOBO
+http://propdsrv.com:80/Catarina25/Ewgu9769/97394
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/70107
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
+http://triertri.xyz:80/173087217/218867243/71398
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
+http://propdsrv.com:80/Catarina25/Ewgu9769/97344
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",Record
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/16606
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",Record
+http://triertri.xyz:80/173087217/218867243/135508
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",Record
+http://propdsrv.com:80/Catarina25/Ewgu9769/129776
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",Band
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1878
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",Band
+http://triertri.xyz:80/173087217/218867243/88409
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",Band
+http://propdsrv.com:80/Catarina25/Ewgu9769/111105
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",Rede TV
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1910
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",Rede TV
+http://triertri.xyz:80/173087217/218867243/135509
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",Rede TV
+http://propdsrv.com:80/Catarina25/Ewgu9769/111211
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnt.png" group-title="ABERTOS",CNT
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/49702
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnt.png" group-title="ABERTOS",CNT
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/49703
+
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS" ,TV Cultura
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1909
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS" ,TV Cultura
+http://triertri.xyz:80/173087217/218867243/71558
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS" ,TV Cultura
+http://propdsrv.com:80/Catarina25/Ewgu9769/69137
+
+
+######################################  NOTICIAS  ######################################
+
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",Record News
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1861
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",Record News
+http://triertri.xyz:80/173087217/218867243/168734
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",Record News
+http://propdsrv.com:80/Catarina25/Ewgu9769/129890
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",Globo News
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1888
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",Globo News
+http://triertri.xyz:80/173087217/218867243/71345
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",Globo News
+http://propdsrv.com:80/Catarina25/Ewgu9769/97387
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN Brasil
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/22224
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN Brasil
+http://triertri.xyz:80/173087217/218867243/71972
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN Brasil
+http://propdsrv.com:80/Catarina25/Ewgu9769/44724
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",Jovem Pam News
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/66549
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",Jovem Pam News
+http://triertri.xyz:80/173087217/218867243/133314
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",Jovem Pam News
+http://propdsrv.com:80/Catarina25/Ewgu9769/97766
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews.png" group-title="NOTICIAS",Band News
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1811
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews.png" group-title="NOTICIAS",Band News
+http://triertri.xyz:80/173087217/218867243/168733
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews.png" group-title="NOTICIAS",Band News
+http://propdsrv.com:80/Catarina25/Ewgu9769/97601
+
+
+######################################  VARIEDADES  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",Discovery Home e Health
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1820
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",Discovery Home e Health
+http://triertri.xyz:80/173087217/218867243/71059
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",Discovery Home e Health
+http://propdsrv.com:80/Catarina25/Ewgu9769/69151
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1819
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
+http://triertri.xyz:80/173087217/218867243/168666
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
+http://propdsrv.com:80/Catarina25/Ewgu9769/71200
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tastemade.png" group-title="VARIEDADES",Tastemade
+https://i.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tastemade.png" group-title="VARIEDADES",Tastemade
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/84587
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/casaecozinha.png" group-title="VARIEDADES",PT-Casa e Cozinha
+http://sharkytv.com:2082/Jure56Jurcevic01/hS8fkFDu389Vkd95V/130945
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/casaecozinha.png" group-title="VARIEDADES",PT-Casa e Cozinha
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729508.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/24kitchen.png" group-title="VARIEDADES",PT-24 kitchen
+http://propdsrv.com:80/Catarina25/Ewgu9769/130173
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/24kitchen.png" group-title="VARIEDADES",PT-24 kitchen
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1586
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/saborearte.png" group-title="VARIEDADES",Sabor & Arte
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/61332
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/saborearte.png" group-title="VARIEDADES",Sabor & Arte
+http://triertri.xyz:80/173087217/218867243/247585
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/saborearte.png" group-title="VARIEDADES",Sabor & Arte
+http://esrv.cc:80/Marialva010521/38125050/88300.ts
+
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/masterchef.png" group-title="VARIEDADES",MasterChef
+https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1867
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
+http://triertri.xyz:80/173087217/218867243/135510
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
+http://propdsrv.com:80/Catarina25/Ewgu9769/97619
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic1.png" group-title="VARIEDADES",National Geographic
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1853
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic1.png" group-title="VARIEDADES",National Geographic
+http://triertri.xyz:80/173087217/218867243/122064
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic1.png" group-title="VARIEDADES",National Geographic
+http://propdsrv.com:80/Catarina25/Ewgu9769/113087
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",Viva
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1906
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",Viva
+http://triertri.xyz:80/173087217/218867243/133315
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",Viva
+http://propdsrv.com:80/Catarina25/Ewgu9769/97295
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1806
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
+http://triertri.xyz:80/173087217/218867243/71092
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
+http://propdsrv.com:80/Catarina25/Ewgu9769/97219
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",Animal Planet
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1808
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",Animal Planet
+http://triertri.xyz:80/173087217/218867243/71058
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",Animal Planet
+http://propdsrv.com:80/Catarina25/Ewgu9769/129381
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel.png" group-title="VARIEDADES",Discovery Channel
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1881
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel.png" group-title="VARIEDADES",Discovery Channel
+http://triertri.xyz:80/173087217/218867243/71048
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel.png" group-title="VARIEDADES",Discovery Channel
+http://propdsrv.com:80/Catarina25/Ewgu9769/97172
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",Discovery World
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1825
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",Discovery World
+http://triertri.xyz:80/173087217/218867243/71064
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",Discovery World
+http://propdsrv.com:80/Catarina25/Ewgu9769/97193
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",Discovery Theather
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1823
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",Discovery Theather
+http://triertri.xyz:80/173087217/218867243/71053
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",Discovery Theather
+http://propdsrv.com:80/Catarina25/Ewgu9769/97187
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",Discovery Science
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1822
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",Discovery Science
+http://triertri.xyz:80/173087217/218867243/71326
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",Discovery Science
+http://propdsrv.com:80/Catarina25/Ewgu9769/97184
+
+#EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/smithsonianchannel.png" group-title="VARIEDADES" , Smithsonian Channel Pluto TV
+https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",ID
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1843
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",ID
+http://triertri.xyz:80/173087217/218867243/71050
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",ID
+http://propdsrv.com:80/Catarina25/Ewgu9769/97178
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",History Channel
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1842
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",History Channel
+http://triertri.xyz:80/173087217/218867243/71575
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",History Channel
+http://propdsrv.com:80/Catarina25/Ewgu9769/97243
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",History2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1838
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",History2
+http://triertri.xyz:80/173087217/218867243/71576
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",History2
+http://propdsrv.com:80/Catarina25/Ewgu9769/97244
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",Modo Viagem
+http://main.xplus2-main.xyz:2082/Tourobox1-VlZ3E79zXF/qbhJbBh35G/22985
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",Modo Viagem
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/86000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",Modo Viagem
+http://esrv.cc:80/Marialva010521/38125050/300.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viajandopelobrasil.png" group-title="VARIEDADES",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1858
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
+http://triertri.xyz:80/173087217/218867243/71152
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
+http://propdsrv.com:80/Catarina25/Ewgu9769/97646
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",Multishow
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1851
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",Multishow
+http://triertri.xyz:80/173087217/218867243/71151
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",Multishow
+http://propdsrv.com:80/Catarina25/Ewgu9769/97616
+
+
+
+######################################  MUSICA  ######################################
+
+
+#EXTINF:-1 tvg-id="6047fbdbbb776a0007e7f2ff" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/biggestpop.png" group-title="MUSICA",MTV Biggest Pop
+https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtv00.png" group-title="MUSICA",MTVs 00
+http://esrv.cc:80/Marialva010521/38125050/32024.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/radiom2o.png" group-title="MUSICA",Radio M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/1onemus.png" group-title="MUSICA",1onemus
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/musictop.png" group-title="MUSICA",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/retroplus.png" group-title="MUSICA",Musica Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/retrochannel.png" group-title="MUSICA",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mcmpop.png" group-title="MUSICA",MCM Pop
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1593
+
+
+
+######################################  ESPORTE  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",Sportv 1
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/2035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",Sportv 1
+http://triertri.xyz:80/173087217/218867243/71120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",Sportv 1
+http://propdsrv.com:80/Catarina25/Ewgu9769/100189
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",Sportv 2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1917
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",Sportv 2
+http://triertri.xyz:80/173087217/218867243/71121
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",Sportv 2
+http://propdsrv.com:80/Catarina25/Ewgu9769/100214
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",Sportv 3
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1918
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",Sportv 3
+http://triertri.xyz:80/173087217/218867243/71122
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",Sportv 3
+http://propdsrv.com:80/Catarina25/Ewgu9769/100221
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1883
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
+http://triertri.xyz:80/173087217/218867243/71118
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
+http://propdsrv.com:80/Catarina25/Ewgu9769/100145
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1884
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
+http://triertri.xyz:80/173087217/218867243/71116
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
+http://propdsrv.com:80/Catarina25/Ewgu9769/100103
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1827
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
+http://triertri.xyz:80/173087217/218867243/71117
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
+http://propdsrv.com:80/Catarina25/Ewgu9769/100152
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1887
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
+http://triertri.xyz:80/173087217/218867243/74903
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
+http://propdsrv.com:80/Catarina25/Ewgu9769/100165
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND Sports
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1812
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND Sports
+http://triertri.xyz:80/173087217/218867243/141952
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND Sports
+http://propdsrv.com:80/Catarina25/Ewgu9769/100088
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foxsports.png" group-title="ESPORTES",Fox Sports
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1886
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foxsports.png" group-title="ESPORTES",Fox Sports
+http://triertri.xyz:80/173087217/218867243/135464
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foxsports.png" group-title="ESPORTES",Fox Sports
+http://propdsrv.com:80/Catarina25/Ewgu9769/100175
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier.png" group-title="ESPORTES",PREMIER
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1898
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier2.png" group-title="ESPORTES",PREMIER2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1892
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier3.png" group-title="ESPORTES",PREMIER3
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1893
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier4.png" group-title="ESPORTES",PREMIER4
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1894
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier5.png" group-title="ESPORTES",PREMIER5
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1895
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier6.png" group-title="ESPORTES",PREMIER6
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1896
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier7.png" group-title="ESPORTES",PREMIER7
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1897
+
+
+######################################  FILMES E SERIES  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",Megapix
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1848
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",Megapix
+http://triertri.xyz:80/173087217/218867243/71088
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",Megapix
+http://propdsrv.com:80/Catarina25/Ewgu9769/97348
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",Paramount Channel
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1859
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",Paramount Channel
+http://triertri.xyz:80/173087217/218867243/71095
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",Paramount Channel
+http://propdsrv.com:80/Catarina25/Ewgu9769/97568
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1863
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
+http://triertri.xyz:80/173087217/218867243/71098
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
+http://propdsrv.com:80/Catarina25/Ewgu9769/97154
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",Warner Channel
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1874
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",Warner Channel
+http://triertri.xyz:80/173087217/218867243/171358
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",Warner Channel
+http://propdsrv.com:80/Catarina25/Ewgu9769/97597
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/film%26arts.png" group-title="FILMES E SERIES",Film & Arts
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/2280
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/film%26arts.png" group-title="FILMES E SERIES",Film & Arts
+http://triertri.xyz:80/173087217/218867243/71461
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/film%26arts.png" group-title="FILMES E SERIES",Film & Arts
+http://propdsrv.com:80/Catarina25/Ewgu9769/97599
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space.png" group-title="FILMES E SERIES",SPACE
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1862
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space.png" group-title="FILMES E SERIES",SPACE
+http://triertri.xyz:80/173087217/218867243/71099
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space.png" group-title="FILMES E SERIES",SPACE
+http://propdsrv.com:80/Catarina25/Ewgu9769/97327
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",Sony
+http://main.xplus2-main.xyz:2082/Tourobox1-VlZ3E79zXF/qbhJbBh35G/229238
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",Sony
+http://triertri.xyz:80/173087217/218867243/135506
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",Sony
+http://propdsrv.com:80/Catarina25/Ewgu9769/97128
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",Universal Channel
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1872
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",Universal Channel
+http://triertri.xyz:80/173087217/218867243/71090
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",Universal Channel
+http://propdsrv.com:80/Catarina25/Ewgu9769/97592
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/syfy.png" group-title="FILMES E SERIES",SyFy
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1864
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/syfy.png" group-title="FILMES E SERIES",SyFy
+http://triertri.xyz:80/173087217/218867243/71153
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/syfy.png" group-title="FILMES E SERIES",SyFy
+http://propdsrv.com:80/Catarina25/Ewgu9769/97131
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1868
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
+http://triertri.xyz:80/173087217/218867243/71087
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
+http://propdsrv.com:80/Catarina25/Ewgu9769/97251
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1807
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
+http://triertri.xyz:80/173087217/218867243/71093
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
+http://propdsrv.com:80/Catarina25/Ewgu9769/97222
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1810
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
+http://triertri.xyz:80/173087217/218867243/102217
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
+http://propdsrv.com:80/Catarina25/Ewgu9769/97225
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1835
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
+http://triertri.xyz:80/173087217/218867243/135507
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
+http://propdsrv.com:80/Catarina25/Ewgu9769/97541
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",Cinemax
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1816
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",Cinemax
+http://triertri.xyz:80/173087217/218867243/71094
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",Cinemax
+http://propdsrv.com:80/Catarina25/Ewgu9769/97238
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT Series
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/2243
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT Series
+http://triertri.xyz:80/173087217/218867243/71096
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT Series
+http://propdsrv.com:80/Catarina25/Ewgu9769/97256
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1885
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL
+http://triertri.xyz:80/173087217/218867243/270191
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL
+http://propdsrv.com:80/Catarina25/Ewgu9769/97573
+
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/csimiami.png" group-title="FILMES E SERIES",CSI: Miami
+https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
+
+#EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ncis.png" group-title="FILMES E SERIES",NCIS
+https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+
+
+######################################  FILMES  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tcm.png" group-title="FILMES",TCM
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/47726
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tcm.png" group-title="FILMES",TCM
+http://triertri.xyz:80/173087217/218867243/71467
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tcm.png" group-title="FILMES",TCM
+http://propdsrv.com:80/Catarina25/Ewgu9769/97585
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime.png" group-title="FILMES",Lifetime
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1844
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime.png" group-title="FILMES",Lifetime
+http://triertri.xyz:80/173087217/218867243/71357
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime.png" group-title="FILMES",Lifetime
+http://propdsrv.com:80/Catarina25/Ewgu9769/97640
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",Cinecanal
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/902335
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",Cinecanal
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",Cinecanal
+http://propdsrv.com:80/Catarina25/Ewgu9769/97581
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT Novelas
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/908272
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT Novelas
+http://triertri.xyz:80/173087217/218867243/287219
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT Novelas
+http://propdsrv.com:80/Catarina25/Ewgu9769/97589
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mytime.png" group-title="FILMES",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telaviva.png" group-title="FILMES",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemonde.png" group-title="FILMES",CineMonde 
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/darkflix.png" group-title="FILMES",DarkFlix 
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/soulcineclub.png" group-title="FILMES",Soul Cine Clube  
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelando.png" group-title="FILMES", NOVELANDO
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinessucessos.png" group-title="FILMES",Pluto TV Cine Sucessos
+https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmesacao.png" group-title="FILMES",Pluto TV Filmes Acao
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="FILMES",Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinedrama.png" group-title="FILMES",Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineterror.png" group-title="FILMES",Pluto TV Cine Terror
+https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series.png" group-title="FILMES" , Pluto TV Series
+https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmessuspence.png" group-title="FILMES",Filmes Suspense
+https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinefamilia.png" group-title="FILMES" , Pluto TV Cine Familia
+https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineromance.png" group-title="FILMES" , Pluto TV Cine Romance
+https://i.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmesnacionais.png" group-title="FILMES",Pluto TV Filmes Nacionais
+https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ficcaocientifica.png" group-title="FILMES" ,Pluto TV Ficcao Cientifica
+https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineclassicos.png" group-title="FILMES" ,Pluto TV Cine Classicos
+https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomediaromantica.png" group-title="FILMES" ,Pluto TV Cine Comedia Romantica
+https://i.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmelier.png" group-title="FILMES" ,Pluto TV Filmelier
+https://i.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
+#EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/seriesscifi.png" group-title="FILMES" ,Pluto TV Series Sci-Fi
+https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
+
+#EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/runtime.png" group-title="FILMES",Runtime
+https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/runtime.png" group-title="FILMES",RunTime Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/runtime.png" group-title="FILMES",Runtime Comedia
+http://mov4.net:80/567135/262944/2202426
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptamc.png" group-title="FILMES",PT-AMC
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1568
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptaxn.png" group-title="FILMES",PT-AXN
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1553
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptaxnmovies.png" group-title="FILMES",PT-AXN Movies
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1554
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptaxnblack.png" group-title="FILMES",PT-AXN Black 
+http://propdsrv.com:80/Catarina25/Ewgu9769/130183
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptaxnwhite.png" group-title="FILMES",PT-AXN-White
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1557
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptfox.png" group-title="FILMES",PT-Fox
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1561
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptfoxcomedy.png" group-title="FILMES",PT-Fox Comedy
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1563
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptfoxcrime.png" group-title="FILMES",PT-Fox-Crime
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1564
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptfoxlife.png" group-title="FILMES",PT-Fox Life
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1562
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptfoxmovies.png" group-title="FILMES",PT-Fox Movies
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1565
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/syfy.png" group-title="FILMES",PT-SyFy
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1570
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptcinetop1.png" group-title="FILMES",TVCine Top
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1545
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptcineaction1.png" group-title="FILMES",TVCine Action
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1550
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptcineedition1.png" group-title="FILMES",TVCine Edition
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1547
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptcineemotion1.png" group-title="FILMES",TVCine Emotion
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1549
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/pthollyhood.png" group-title="FILMES",Hollywood
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1567
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptcinemundo.png" group-title="FILMES",PT-Cinemundo
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1569
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/ptnosstudio.png" group-title="FILMES",PT-Nos Studios
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/45491
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1868
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
+http://triertri.xyz:80/173087217/218867243/71087
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
+http://propdsrv.com:80/Catarina25/Ewgu9769/97250
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",Telecine Premium
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1904
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",Telecine Premium
+http://triertri.xyz:80/173087217/218867243/71069
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",Telecine Premium
+http://propdsrv.com:80/Catarina25/Ewgu9769/97320
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",Telecine Action
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1901
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",Telecine Action
+http://triertri.xyz:80/173087217/218867243/71066
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",Telecine Action
+http://propdsrv.com:80/Catarina25/Ewgu9769/97300
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",Telecine Fun
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1902
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",Telecine Fun
+http://triertri.xyz:80/173087217/218867243/71073
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",Telecine Fun
+http://propdsrv.com:80/Catarina25/Ewgu9769/97310
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",Telecine Pipoca
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1903
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",Telecine Pipoca
+http://triertri.xyz:80/173087217/218867243/71068
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",Telecine Pipoca
+http://propdsrv.com:80/Catarina25/Ewgu9769/100570
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",Telecine Touch
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1905
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",Telecine Touch
+http://triertri.xyz:80/173087217/218867243/71076
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",Telecine Touch
+http://propdsrv.com:80/Catarina25/Ewgu9769/100579
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",Telecine Cult
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1866
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",Telecine Cult
+http://triertri.xyz:80/173087217/218867243/71072
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",Telecine Cult
+http://propdsrv.com:80/Catarina25/Ewgu9769/97305
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1891
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
+http://triertri.xyz:80/173087217/218867243/71130
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
+http://propdsrv.com:80/Catarina25/Ewgu9769/11566
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1890
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
+http://triertri.xyz:80/173087217/218867243/71131
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
+http://propdsrv.com:80/Catarina25/Ewgu9769/61204
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO Family
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1839
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO Family
+http://triertri.xyz:80/173087217/218867243/135450
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO Family
+http://propdsrv.com:80/Catarina25/Ewgu9769/11568
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO Mundi
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1845
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO Mundi
+http://triertri.xyz:80/173087217/218867243/71137
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO Mundi
+http://propdsrv.com:80/Catarina25/Ewgu9769/60984
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1847
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
+http://triertri.xyz:80/173087217/218867243/71139
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
+http://propdsrv.com:80/Catarina25/Ewgu9769/60988
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO Signature
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1841
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO Signature
+http://triertri.xyz:80/173087217/218867243/71133
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO Signature
+http://propdsrv.com:80/Catarina25/Ewgu9769/63300
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO Xtreme
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1846
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO Xtreme
+http://triertri.xyz:80/173087217/218867243/71141
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO Xtreme
+http://propdsrv.com:80/Catarina25/Ewgu9769/63302
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO Plus
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/1840
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO Plus
+http://triertri.xyz:80/173087217/218867243/71132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO Plus
+http://propdsrv.com:80/Catarina25/Ewgu9769/63298
+
+
+######################################  24Horas  ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sucessos
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/88964
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sucessos
+http://joao-1-us.mainbkonline.shop:80/8042306288pW/6511862173Pr/88964
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sucessos
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/88964
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sessao Da Tarde
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/88966
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sessao Da Tarde
+http://joao-1-us.mainbkonline.shop:80/8042306288pW/6511862173Pr/88966
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Sessao Da Tarde
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/88966
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/88967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel
+http://joao-1-us.mainbkonline.shop:80/8042306288pW/6511862173Pr/88967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/88967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel
+http://s.pdsrv.io:80/36ivanildo27/72iva89/60789
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel Nutella
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/60679
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel Raiz
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/60678
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine DC1
+http://maincineprime.xyz:8080/cprimemain-Wfh8Cz5MUQ/PEj1MtQ86n/103751
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine DC1
+http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103751.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine DC2
+http://maincineprime.xyz:8080/cprimemain-Wfh8Cz5MUQ/PEj1MtQ86n/103752
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine DC2
+http://maincineprime.xyz:8080/live/cprimemain-qMzEPwIUqf/bQvQrjTzHg/103752.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Dc Nutella
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/60677
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Dc Raiz
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/60676
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Marvel vs Dc
+http://triertri.xyz:80/173087217/218867243/29900
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",007
+http://triertri.xyz:80/173087217/218867243/55238
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Alien
+http://triertri.xyz:80/173087217/218867243/261359
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Arnold Schwarzenegger
+http://triertri.xyz:80/173087217/218867243/116507
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Bruce Willis
+http://triertri.xyz:80/173087217/218867243/180779
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Nicolas Cage
+http://triertri.xyz:80/173087217/218867243/115298
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Lancamentos
+http://5ce.co:80/amandateste/bbss1415gg/205659
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Terror1
+http://5ce.co:80/amandateste/bbss1415gg/205842
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Terror2
+http://triertri.xyz:80/173087217/218867243/29633
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Terror3
+http://triertri.xyz:80/173087217/218867243/208943
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Faroeste1
+http://5ce.co:80/amandateste/bbss1415gg/205849
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Faroeste2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56761
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Faroeste3
+http://triertri.xyz:80/173087217/218867243/71011
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Romance
+http://5ce.co:80/amandateste/bbss1415gg/206689
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Guerra1
+http://5ce.co:80/amandateste/bbss1415gg/207000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Guerra2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56778
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Nacional1
+http://5ce.co:80/amandateste/bbss1415gg/207078
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Nacional2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/58710
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Nacional3
+http://triertri.xyz:80/173087217/218867243/29227
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Comedia1
+http://5ce.co:80/amandateste/bbss1415gg/207139
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Comedia2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56859
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Acao
+http://triertri.xyz:80/173087217/218867243/32586
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Animacao1
+http://5ce.co:80/amandateste/bbss1415gg/207379
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Animacao2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56996
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Ficcao1
+http://5ce.co:80/amandateste/bbss1415gg/207606
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Ficcao2
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/59609
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Legendados
+http://5ce.co:80/amandateste/bbss1415gg/208779
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Aventura e Familia
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56858
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Drama1
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56780
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Drama2
+http://5ce.co:80/amandateste/bbss1415gg/210094
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Fantasia
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56781
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Policial
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56773
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cine Religioso
+http://dns.acaidopara.net:8080/emanuel40180/630189leun/56855
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Cidade Pacata, Crime Cruel
+http://triertri.xyz:80/173087217/218867243/289065
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Aeroporto Area Restrita
+http://5ce.co:80/amandateste/bbss1415gg/217347
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Documentarios
+http://5ce.co:80/amandateste/bbss1415gg/207077
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Game of Thrones
+http://triertri.xyz:80/173087217/218867243/53951
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Dois Homens E Meio
+http://triertri.xyz:80/173087217/218867243/35161
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Dois Homens E Meio
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82512
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Dois Homens E Meio
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/82512
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Dois Homens E Meio
+http://5ce.co:80/amandateste/bbss1415gg/74240
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Smallville
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82557
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Smallville
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/82557
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Sobrenatural
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82558
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Sobrenatural
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/82558
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",The Big Bang Theory 
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/89147
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",The Big Bang Theory 
+http://joao-1-us.mainbkonline.shop:80/4521458545/8545852032/89147
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",The Big Bang Theory 
+http://5ce.co:80/amandateste/bbss1415gg/74247
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Todo Mundo Odeia O Chris
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82565
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Todo Mundo Odeia O Chris
+http://joao-1-us.mainbkonline.shop:80/81mrnisa/0n4eikih/82565
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Escolinha do Professo Raimundo1
+http://triertri.xyz:80/173087217/218867243/16946
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Escolinha do Professo Raimundo2
+http://triertri.xyz:80/173087217/218867243/143045
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",A Grande falmilia
+http://joao-1-us.mainbkonline.shop:80/505410871653/518410799551/82575
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/canal24h.png" group-title="24Horas",Friends
+http://5ce.co:80/amandateste/bbss1415gg/53004
