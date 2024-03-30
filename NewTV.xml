@@ -10,9 +10,19 @@
     <icon src="https://i.meuguia.tv/logos/new/cul.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gln.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="TLC">
     <display-name lang="pt">TLC</display-name>
     <icon src="https://i.meuguia.tv/logos/new/trv.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/viv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="OFF">
@@ -20,9 +30,34 @@
     <icon src="https://i.meuguia.tv/logos/new/off.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msw.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sportv 1">
+    <display-name lang="pt">Sportv 1</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spo.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sportv 2">
+    <display-name lang="pt">Sportv 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp2.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sportv 3">
+    <display-name lang="pt">Sportv 3</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp3.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="Megapix">
     <display-name lang="pt">Megapix</display-name>
     <icon src="https://i.meuguia.tv/logos/new/mpx.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hal.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Warner Channel">
@@ -38,6 +73,11 @@
   <channel id="Sony">
     <display-name lang="pt">Sony</display-name>
     <icon src="https://i.meuguia.tv/logos/new/set.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/usa.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="USA">
@@ -301,9 +341,6 @@
   </programme>
   <programme start="20240402224000 -0300" stop="20240403001000 -0300" channel="Rede TV">
     <title lang="pt">Ultra Show</title>
-  </programme>
-  <programme start="20240330133000 -0300" stop="20240330134500 -0300" channel="TV Cultura">
-    <title lang="pt">Um Herói do Coração : O Palhaço Herói; O Avião da Meili; Cinco Monstros Pulando na Cama; Pequenos Inventores</title>
   </programme>
   <programme start="20240330134500 -0300" stop="20240330140000 -0300" channel="TV Cultura">
     <title lang="pt">Martin Manhã : T4 EP24 - Salvem a Francisca!</title>
@@ -758,6 +795,183 @@
   <programme start="20240402233000 -0300" stop="20240403000000 -0300" channel="TV Cultura">
     <title lang="pt">Negros em Foco</title>
   </programme>
+  <programme start="20240330133000 -0300" stop="20240330140000 -0300" channel="Globo News">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20240330140000 -0300" stop="20240330150000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240330150000 -0300" stop="20240330163000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20240330163000 -0300" stop="20240330170000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D'Avila</title>
+  </programme>
+  <programme start="20240330170000 -0300" stop="20240330180000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 17h - Ao Vivo</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240330200000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240330200000 -0300" stop="20240330213000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 20h - Ao Vivo</title>
+  </programme>
+  <programme start="20240330213000 -0300" stop="20240330220000 -0300" channel="Globo News">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20240330220000 -0300" stop="20240330230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240330230000 -0300" stop="20240331003000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Documentário</title>
+  </programme>
+  <programme start="20240331003000 -0300" stop="20240331020000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331020000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331030000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20240331030000 -0300" stop="20240331033000 -0300" channel="Globo News">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+  </programme>
+  <programme start="20240331033000 -0300" stop="20240331040000 -0300" channel="Globo News">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20240331040000 -0300" stop="20240331043000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D'Avila</title>
+  </programme>
+  <programme start="20240331043000 -0300" stop="20240331050000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+  </programme>
+  <programme start="20240331050000 -0300" stop="20240331060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240331060000 -0300" stop="20240331070000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 06h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331070000 -0300" stop="20240331080000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 07h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331080000 -0300" stop="20240331100000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 08h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331100000 -0300" stop="20240331110000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331110000 -0300" stop="20240331120000 -0300" channel="Globo News">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20240331120000 -0300" stop="20240331142000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição do Meio-dia - Ao Vivo</title>
+  </programme>
+  <programme start="20240331142000 -0300" stop="20240331150000 -0300" channel="Globo News">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20240331150000 -0300" stop="20240331170000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 15h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331170000 -0300" stop="20240331180000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331193000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331193000 -0300" stop="20240331200000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Internacional</title>
+  </programme>
+  <programme start="20240331200000 -0300" stop="20240331213000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331213000 -0300" stop="20240331220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240331220000 -0300" stop="20240331234500 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240331234500 -0300" stop="20240331234500 -0300" channel="Globo News">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20240331234500 -0300" stop="20240401025000 -0300" channel="Globo News">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20240401025000 -0300" stop="20240401032000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240401032000 -0300" stop="20240401043000 -0300" channel="Globo News">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20240401043000 -0300" stop="20240401060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240401060000 -0300" stop="20240401070000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401093000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20240401093000 -0300" stop="20240401130000 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240401130000 -0300" stop="20240401160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20240401160000 -0300" stop="20240401180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20240401180000 -0300" stop="20240401200000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240401200000 -0300" stop="20240401220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20240401220000 -0300" stop="20240402000000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240402000000 -0300" stop="20240402013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite - Ao Vivo</title>
+  </programme>
+  <programme start="20240402013000 -0300" stop="20240402013000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20240402013000 -0300" stop="20240402033000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20240402033000 -0300" stop="20240402040000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240402040000 -0300" stop="20240402060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240402060000 -0300" stop="20240402070000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240402070000 -0300" stop="20240402093000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto - Ao Vivo</title>
+  </programme>
+  <programme start="20240402093000 -0300" stop="20240402130000 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews - Ao Vivo</title>
+  </programme>
+  <programme start="20240402130000 -0300" stop="20240402160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+  </programme>
+  <programme start="20240402160000 -0300" stop="20240402180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais - Ao Vivo</title>
+  </programme>
+  <programme start="20240402180000 -0300" stop="20240402200000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews - Edição das 18h - Ao Vivo</title>
+  </programme>
+  <programme start="20240402200000 -0300" stop="20240402220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Pauta</title>
+  </programme>
+  <programme start="20240402220000 -0300" stop="20240402233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20240402233000 -0300" stop="20240403000000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D'Avila</title>
+  </programme>
   <programme start="20240330132000 -0300" stop="20240330140900 -0300" channel="TLC">
     <title lang="pt">Entre Mãe e Filha : T2 EP3 - Encontro a Três</title>
   </programme>
@@ -1121,8 +1335,356 @@
   <programme start="20240402235200 -0300" stop="20240403004500 -0300" channel="TLC">
     <title lang="pt">Meu Grande Casamento Cigano : T4 EP7 - O Retorno do Rebelde Romney</title>
   </programme>
-  <programme start="20240330130000 -0300" stop="20240330134500 -0300" channel="OFF">
-    <title lang="pt">Off Docs: Chasing Winter</title>
+  <programme start="20240330134500 -0300" stop="20240330144000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240330144000 -0300" stop="20240330153000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240330153000 -0300" stop="20240330161500 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240330161500 -0300" stop="20240330180000 -0300" channel="Viva">
+    <title lang="pt">Roberto Carlos Especial 1982</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240330184000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240330184000 -0300" stop="20240330192000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240330192000 -0300" stop="20240330200000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240330200000 -0300" stop="20240330204000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240330204000 -0300" stop="20240330215000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240330215000 -0300" stop="20240330222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240330222000 -0300" stop="20240330225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240330225000 -0300" stop="20240330234500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240330234500 -0300" stop="20240331003000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331003000 -0300" stop="20240331011500 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240331011500 -0300" stop="20240331020000 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331020000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331030000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240331030000 -0300" stop="20240331044500 -0300" channel="Viva">
+    <title lang="pt">Roberto Carlos Especial 1982</title>
+  </programme>
+  <programme start="20240331044500 -0300" stop="20240331054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331054500 -0300" stop="20240331060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240331060000 -0300" stop="20240331063000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331063000 -0300" stop="20240331070000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331070000 -0300" stop="20240331073000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331073000 -0300" stop="20240331080000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331080000 -0300" stop="20240331090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240331090000 -0300" stop="20240331094500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331094500 -0300" stop="20240331103000 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331103000 -0300" stop="20240331111500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331111500 -0300" stop="20240331120000 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331120000 -0300" stop="20240331124500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331124500 -0300" stop="20240331141500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240331141500 -0300" stop="20240331150000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331150000 -0300" stop="20240331154500 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331154500 -0300" stop="20240331163000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331163000 -0300" stop="20240331171500 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331171500 -0300" stop="20240331180000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331190000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240331190000 -0300" stop="20240331194500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240331194500 -0300" stop="20240331203000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240331203000 -0300" stop="20240331211500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240331211500 -0300" stop="20240331220000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240331220000 -0300" stop="20240331224500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240331224500 -0300" stop="20240401003000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240401003000 -0300" stop="20240401011500 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401011500 -0300" stop="20240401020000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401020000 -0300" stop="20240401020000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401020000 -0300" stop="20240401024500 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401024500 -0300" stop="20240401033000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401033000 -0300" stop="20240401040000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401040000 -0300" stop="20240401043000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401043000 -0300" stop="20240401050000 -0300" channel="Viva">
+    <title lang="pt">Dois Em Cena: Encontro De Gerações</title>
+  </programme>
+  <programme start="20240401050000 -0300" stop="20240401060000 -0300" channel="Viva">
+    <title lang="pt">Sai De Baixo</title>
+  </programme>
+  <programme start="20240401060000 -0300" stop="20240401063000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240401063000 -0300" stop="20240401070000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240401073000 -0300" stop="20240401081500 -0300" channel="Viva">
+    <title lang="pt">Pé Na Cova</title>
+  </programme>
+  <programme start="20240401081500 -0300" stop="20240401090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240401090000 -0300" stop="20240401094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240401094500 -0300" stop="20240401103000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20240401103000 -0300" stop="20240401110000 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240401110000 -0300" stop="20240401113000 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240401113000 -0300" stop="20240401121500 -0300" channel="Viva">
+    <title lang="pt">Fatmagul</title>
+  </programme>
+  <programme start="20240401121500 -0300" stop="20240401130000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240401130000 -0300" stop="20240401134500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240401134500 -0300" stop="20240401144000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240401144000 -0300" stop="20240401153000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240401153000 -0300" stop="20240401161500 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240401161500 -0300" stop="20240401164500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240401164500 -0300" stop="20240401171500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240401171500 -0300" stop="20240401180000 -0300" channel="Viva">
+    <title lang="pt">Pé Na Cova</title>
+  </programme>
+  <programme start="20240401180000 -0300" stop="20240401183000 -0300" channel="Viva">
+    <title lang="pt">Dois Em Cena: Encontro De Gerações</title>
+  </programme>
+  <programme start="20240401183000 -0300" stop="20240401190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240401190000 -0300" stop="20240401193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240401193000 -0300" stop="20240401203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240401203000 -0300" stop="20240401211500 -0300" channel="Viva">
+    <title lang="pt">Fatmagul</title>
+  </programme>
+  <programme start="20240401211500 -0300" stop="20240401215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240401215000 -0300" stop="20240401222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240401222000 -0300" stop="20240401225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240401225000 -0300" stop="20240401234500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240401234500 -0300" stop="20240402003000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240402003000 -0300" stop="20240402011500 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240402011500 -0300" stop="20240402020000 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402020000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402030000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240402030000 -0300" stop="20240402034500 -0300" channel="Viva">
+    <title lang="pt">Fatmagul</title>
+  </programme>
+  <programme start="20240402034500 -0300" stop="20240402041500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402041500 -0300" stop="20240402044500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402044500 -0300" stop="20240402054500 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240402054500 -0300" stop="20240402060000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240402060000 -0300" stop="20240402063000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240402063000 -0300" stop="20240402070000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240402070000 -0300" stop="20240402073000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240402073000 -0300" stop="20240402081500 -0300" channel="Viva">
+    <title lang="pt">Pé Na Cova</title>
+  </programme>
+  <programme start="20240402081500 -0300" stop="20240402090000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240402090000 -0300" stop="20240402094500 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240402094500 -0300" stop="20240402103000 -0300" channel="Viva">
+    <title lang="pt">A Diarista</title>
+  </programme>
+  <programme start="20240402103000 -0300" stop="20240402110000 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402110000 -0300" stop="20240402113000 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402113000 -0300" stop="20240402121500 -0300" channel="Viva">
+    <title lang="pt">Fatmagul</title>
+  </programme>
+  <programme start="20240402121500 -0300" stop="20240402130000 -0300" channel="Viva">
+    <title lang="pt">História De Amor</title>
+  </programme>
+  <programme start="20240402130000 -0300" stop="20240402134500 -0300" channel="Viva">
+    <title lang="pt">Andando nas Nuvens</title>
+  </programme>
+  <programme start="20240402134500 -0300" stop="20240402144000 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240402144000 -0300" stop="20240402153000 -0300" channel="Viva">
+    <title lang="pt">Direito De Amar</title>
+  </programme>
+  <programme start="20240402153000 -0300" stop="20240402161500 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20240402161500 -0300" stop="20240402164500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402164500 -0300" stop="20240402171500 -0300" channel="Viva">
+    <title lang="pt">Malhação - 2011</title>
+  </programme>
+  <programme start="20240402171500 -0300" stop="20240402180000 -0300" channel="Viva">
+    <title lang="pt">Pé Na Cova</title>
+  </programme>
+  <programme start="20240402180000 -0300" stop="20240402183000 -0300" channel="Viva">
+    <title lang="pt">Os Casais Que Amamos</title>
+  </programme>
+  <programme start="20240402183000 -0300" stop="20240402190000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240402190000 -0300" stop="20240402193000 -0300" channel="Viva">
+    <title lang="pt">Escolinha Do Professor Raimundo</title>
+  </programme>
+  <programme start="20240402193000 -0300" stop="20240402203000 -0300" channel="Viva">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20240402203000 -0300" stop="20240402211500 -0300" channel="Viva">
+    <title lang="pt">Fatmagul</title>
+  </programme>
+  <programme start="20240402211500 -0300" stop="20240402215000 -0300" channel="Viva">
+    <title lang="pt">Tapas e Beijos</title>
+  </programme>
+  <programme start="20240402215000 -0300" stop="20240402222000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240402222000 -0300" stop="20240402225000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20240402225000 -0300" stop="20240402234500 -0300" channel="Viva">
+    <title lang="pt">América</title>
+  </programme>
+  <programme start="20240402234500 -0300" stop="20240403003000 -0300" channel="Viva">
+    <title lang="pt">Sinhá Moça</title>
   </programme>
   <programme start="20240330134500 -0300" stop="20240330140200 -0300" channel="OFF">
     <title lang="pt">Off Docs: Dream Job</title>
@@ -1592,6 +2154,891 @@
   <programme start="20240402234300 -0300" stop="20240403000000 -0300" channel="OFF">
     <title lang="pt">Curtas Do Off: Conta Comigo, Cara!</title>
   </programme>
+  <programme start="20240330135000 -0300" stop="20240330142000 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240330142000 -0300" stop="20240330143500 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240330143500 -0300" stop="20240330154300 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240330154300 -0300" stop="20240330164300 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil - A Eliminação</title>
+  </programme>
+  <programme start="20240330164300 -0300" stop="20240330165800 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240330165800 -0300" stop="20240330172800 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240330172800 -0300" stop="20240330180000 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240330181500 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240330181500 -0300" stop="20240330184500 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20240330184500 -0300" stop="20240330191700 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240330191700 -0300" stop="20240330194500 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240330194500 -0300" stop="20240330200000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240330200000 -0300" stop="20240330210000 -0300" channel="Multishow">
+    <title lang="pt">Mesacast BBB</title>
+  </programme>
+  <programme start="20240330210000 -0300" stop="20240330212000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240330212000 -0300" stop="20240330215000 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240330215000 -0300" stop="20240330225200 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240330225200 -0300" stop="20240330235800 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240330235800 -0300" stop="20240331003000 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331003000 -0300" stop="20240331010000 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331010000 -0300" stop="20240331013000 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331013000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil - A Eliminação</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331023000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil - A Eliminação</title>
+  </programme>
+  <programme start="20240331023000 -0300" stop="20240331024600 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331024600 -0300" stop="20240331042200 -0300" channel="Multishow">
+    <title lang="pt">The Masked Singer Brasil</title>
+  </programme>
+  <programme start="20240331042200 -0300" stop="20240331045200 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20240331045200 -0300" stop="20240331052400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331052400 -0300" stop="20240331055400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331055400 -0300" stop="20240331070000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240331070000 -0300" stop="20240331073100 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240331073100 -0300" stop="20240331080300 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240331080300 -0300" stop="20240331083400 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240331083400 -0300" stop="20240331094000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240331094000 -0300" stop="20240331100800 -0300" channel="Multishow">
+    <title lang="pt">Vai Pra Onde?</title>
+  </programme>
+  <programme start="20240331100800 -0300" stop="20240331114600 -0300" channel="Multishow">
+    <title lang="pt">The Masked Singer Brasil</title>
+  </programme>
+  <programme start="20240331114600 -0300" stop="20240331120100 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331120100 -0300" stop="20240331123300 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331123300 -0300" stop="20240331130400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240331130400 -0300" stop="20240331130600 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo - Almoço Do Anjo</title>
+  </programme>
+  <programme start="20240331130600 -0300" stop="20240331141200 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240331141200 -0300" stop="20240331151200 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil - A Eliminação</title>
+  </programme>
+  <programme start="20240331151200 -0300" stop="20240331152700 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331152700 -0300" stop="20240331155700 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20240331155700 -0300" stop="20240331162700 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240331162700 -0300" stop="20240331164300 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331164300 -0300" stop="20240331171400 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240331171400 -0300" stop="20240331172900 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331172900 -0300" stop="20240331180000 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331181500 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331181500 -0300" stop="20240331185000 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240331185000 -0300" stop="20240331194000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240331194000 -0300" stop="20240331200000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331200000 -0300" stop="20240331213000 -0300" channel="Multishow">
+    <title lang="pt">Mesacast BBB</title>
+  </programme>
+  <programme start="20240331213000 -0300" stop="20240331215000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240331215000 -0300" stop="20240331224200 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240331224200 -0300" stop="20240331233200 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240331233200 -0300" stop="20240401002400 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401002400 -0300" stop="20240401013000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240401013000 -0300" stop="20240401013000 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401013000 -0300" stop="20240401020200 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401020200 -0300" stop="20240401023200 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401023200 -0300" stop="20240401030200 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401030200 -0300" stop="20240401033200 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401033200 -0300" stop="20240401034900 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401034900 -0300" stop="20240401041900 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401041900 -0300" stop="20240401045400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401045400 -0300" stop="20240401052400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401052400 -0300" stop="20240401055400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401055400 -0300" stop="20240401070000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401080000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401080000 -0300" stop="20240401083000 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20240401083000 -0300" stop="20240401093600 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240401093600 -0300" stop="20240401101000 -0300" channel="Multishow">
+    <title lang="pt">TVZ</title>
+  </programme>
+  <programme start="20240401101000 -0300" stop="20240401103500 -0300" channel="Multishow">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+  </programme>
+  <programme start="20240401103500 -0300" stop="20240401110500 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240401110500 -0300" stop="20240401112000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401112000 -0300" stop="20240401113500 -0300" channel="Multishow">
+    <title lang="pt">Colônia Bahls</title>
+  </programme>
+  <programme start="20240401113500 -0300" stop="20240401123000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401123000 -0300" stop="20240401131500 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401131500 -0300" stop="20240401141700 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240401141700 -0300" stop="20240401143200 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401143200 -0300" stop="20240401150200 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240401150200 -0300" stop="20240401153200 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240401153200 -0300" stop="20240401162400 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401162400 -0300" stop="20240401171300 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401171300 -0300" stop="20240401174500 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401174500 -0300" stop="20240401180000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401180000 -0300" stop="20240401190800 -0300" channel="Multishow">
+    <title lang="pt">TVZ Ao Vivo</title>
+  </programme>
+  <programme start="20240401190800 -0300" stop="20240401194000 -0300" channel="Multishow">
+    <title lang="pt">Lollapalooza Brasil 2024</title>
+  </programme>
+  <programme start="20240401194000 -0300" stop="20240401200000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401200000 -0300" stop="20240401210000 -0300" channel="Multishow">
+    <title lang="pt">Mesacast BBB</title>
+  </programme>
+  <programme start="20240401210000 -0300" stop="20240401212000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240401212000 -0300" stop="20240401221000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401221000 -0300" stop="20240401225800 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240401225800 -0300" stop="20240401232800 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240401232800 -0300" stop="20240402003400 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240402003400 -0300" stop="20240402003400 -0300" channel="Multishow">
+    <title lang="pt">The Masked Singer Brasil</title>
+  </programme>
+  <programme start="20240402003400 -0300" stop="20240402021000 -0300" channel="Multishow">
+    <title lang="pt">The Masked Singer Brasil</title>
+  </programme>
+  <programme start="20240402021000 -0300" stop="20240402022500 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402022500 -0300" stop="20240402031600 -0300" channel="Multishow">
+    <title lang="pt">Túnel Do Amor</title>
+  </programme>
+  <programme start="20240402031600 -0300" stop="20240402041600 -0300" channel="Multishow">
+    <title lang="pt">TVZ Ao Vivo</title>
+  </programme>
+  <programme start="20240402041600 -0300" stop="20240402044700 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240402044700 -0300" stop="20240402051800 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240402051800 -0300" stop="20240402055400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240402055400 -0300" stop="20240402070000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240402070000 -0300" stop="20240402073000 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240402073000 -0300" stop="20240402081800 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402081800 -0300" stop="20240402091700 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240402091700 -0300" stop="20240402101700 -0300" channel="Multishow">
+    <title lang="pt">TVZ Ao Vivo</title>
+  </programme>
+  <programme start="20240402101700 -0300" stop="20240402104200 -0300" channel="Multishow">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+  </programme>
+  <programme start="20240402104200 -0300" stop="20240402111300 -0300" channel="Multishow">
+    <title lang="pt">Central De Bicos</title>
+  </programme>
+  <programme start="20240402111300 -0300" stop="20240402112800 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402112800 -0300" stop="20240402121800 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402121800 -0300" stop="20240402130700 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402130700 -0300" stop="20240402141300 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24</title>
+  </programme>
+  <programme start="20240402141300 -0300" stop="20240402142800 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402142800 -0300" stop="20240402150000 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240402150000 -0300" stop="20240402153000 -0300" channel="Multishow">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20240402153000 -0300" stop="20240402162500 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402162500 -0300" stop="20240402171400 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402171400 -0300" stop="20240402174500 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240402174500 -0300" stop="20240402180000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402180000 -0300" stop="20240402183300 -0300" channel="Multishow">
+    <title lang="pt">TVZ</title>
+  </programme>
+  <programme start="20240402183300 -0300" stop="20240402190800 -0300" channel="Multishow">
+    <title lang="pt">Lollapalooza Brasil 2024</title>
+  </programme>
+  <programme start="20240402190800 -0300" stop="20240402194000 -0300" channel="Multishow">
+    <title lang="pt">O Dono Do Lar</title>
+  </programme>
+  <programme start="20240402194000 -0300" stop="20240402200000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402200000 -0300" stop="20240402210000 -0300" channel="Multishow">
+    <title lang="pt">Mesacast BBB</title>
+  </programme>
+  <programme start="20240402210000 -0300" stop="20240402212000 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 24 - Rede BBB Ao Vivo</title>
+  </programme>
+  <programme start="20240402212000 -0300" stop="20240402221300 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402221300 -0300" stop="20240402230200 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20240402230200 -0300" stop="20240402233400 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240402233400 -0300" stop="20240403000000 -0300" channel="Multishow">
+    <title lang="pt">Tô De Graça</title>
+  </programme>
+  <programme start="20240330133000 -0300" stop="20240330143000 -0300" channel="Sportv 1">
+    <title lang="pt">Aquecimento SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20240330143000 -0300" stop="20240330162500 -0300" channel="Sportv 1">
+    <title lang="pt">Bayern de Munique x Borussia Dortmund - Ao Vivo</title>
+  </programme>
+  <programme start="20240330162500 -0300" stop="20240330190000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro - Ao Vivo</title>
+  </programme>
+  <programme start="20240330190000 -0300" stop="20240330213000 -0300" channel="Sportv 1">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20240330213000 -0300" stop="20240330223000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240330223000 -0300" stop="20240330233000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240330233000 -0300" stop="20240331003000 -0300" channel="Sportv 1">
+    <title lang="pt">Bayern de Munique x Borussia Dortmund</title>
+  </programme>
+  <programme start="20240331003000 -0300" stop="20240331013000 -0300" channel="Sportv 1">
+    <title lang="pt">Bayer Leverkusen x Hoffenheim</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331013000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331023000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240331023000 -0300" stop="20240331033000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240331033000 -0300" stop="20240331043000 -0300" channel="Sportv 1">
+    <title lang="pt">Bayern de Munique x Borussia Dortmund</title>
+  </programme>
+  <programme start="20240331043000 -0300" stop="20240331053000 -0300" channel="Sportv 1">
+    <title lang="pt">Bayer Leverkusen x Hoffenheim</title>
+  </programme>
+  <programme start="20240331053000 -0300" stop="20240331063000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240331063000 -0300" stop="20240331072500 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240331072500 -0300" stop="20240331103000 -0300" channel="Sportv 1">
+    <title lang="pt">Copa do Mundo de Ginástica Artística: Finais - Antalya, Turquia - …</title>
+  </programme>
+  <programme start="20240331103000 -0300" stop="20240331105000 -0300" channel="Sportv 1">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20240331105000 -0300" stop="20240331130000 -0300" channel="Sportv 1">
+    <title lang="pt">Copa do Mundo de Ginástica Artística: Finais - Antalya, Turquia - …</title>
+  </programme>
+  <programme start="20240331130000 -0300" stop="20240331140000 -0300" channel="Sportv 1">
+    <title lang="pt">Bayern de Munique x Borussia Dortmund</title>
+  </programme>
+  <programme start="20240331140000 -0300" stop="20240331150000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240331150000 -0300" stop="20240331160000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240331160000 -0300" stop="20240331163000 -0300" channel="Sportv 1">
+    <title lang="pt">Expresso da Bola</title>
+  </programme>
+  <programme start="20240331163000 -0300" stop="20240331180000 -0300" channel="Sportv 1">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331190000 -0300" channel="Sportv 1">
+    <title lang="pt">Inglaterra x Brasil</title>
+  </programme>
+  <programme start="20240331190000 -0300" stop="20240331200000 -0300" channel="Sportv 1">
+    <title lang="pt">Espanha x Brasil</title>
+  </programme>
+  <programme start="20240331200000 -0300" stop="20240331223000 -0300" channel="Sportv 1">
+    <title lang="pt">Campeonato Sul-Americano Feminino de Futebol Sub-17: Paraguai x Brasil - Ao Vivo</title>
+  </programme>
+  <programme start="20240331223000 -0300" stop="20240401000000 -0300" channel="Sportv 1">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20240401000000 -0300" stop="20240401010000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401010000 -0300" stop="20240401020000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240401020000 -0300" stop="20240401020000 -0300" channel="Sportv 1">
+    <title lang="pt">Inglaterra x Brasil</title>
+  </programme>
+  <programme start="20240401020000 -0300" stop="20240401020000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401020000 -0300" stop="20240401030000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401030000 -0300" stop="20240401040000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240401040000 -0300" stop="20240401050000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401050000 -0300" stop="20240401051500 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - FIFA</title>
+  </programme>
+  <programme start="20240401051500 -0300" stop="20240401061500 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240401061500 -0300" stop="20240401071500 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401071500 -0300" stop="20240401084500 -0300" channel="Sportv 1">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20240401084500 -0300" stop="20240401100000 -0300" channel="Sportv 1">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20240401100000 -0300" stop="20240401123000 -0300" channel="Sportv 1">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20240401123000 -0300" stop="20240401130000 -0300" channel="Sportv 1">
+    <title lang="pt">Tá On - Ao Vivo</title>
+  </programme>
+  <programme start="20240401130000 -0300" stop="20240401153000 -0300" channel="Sportv 1">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20240401153000 -0300" stop="20240401161500 -0300" channel="Sportv 1">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20240401161500 -0300" stop="20240401163000 -0300" channel="Sportv 1">
+    <title lang="pt">Expresso da Bola</title>
+  </programme>
+  <programme start="20240401163000 -0300" stop="20240401170000 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - Gaúcho</title>
+  </programme>
+  <programme start="20240401170000 -0300" stop="20240401180000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240401180000 -0300" stop="20240401193000 -0300" channel="Sportv 1">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20240401193000 -0300" stop="20240401220000 -0300" channel="Sportv 1">
+    <title lang="pt">Liga Nacional de Futsal: Foz Cataratas x Jaraguá - Ao Vivo</title>
+  </programme>
+  <programme start="20240401220000 -0300" stop="20240402000000 -0300" channel="Sportv 1">
+    <title lang="pt">Boleiragem - Ao Vivo</title>
+  </programme>
+  <programme start="20240402000000 -0300" stop="20240402010000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240402010000 -0300" stop="20240402020000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402020000 -0300" channel="Sportv 1">
+    <title lang="pt">Brasileiro Feminino: Fluminense x São Paulo</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402030000 -0300" channel="Sportv 1">
+    <title lang="pt">Brasileiro Feminino: Fluminense x São Paulo</title>
+  </programme>
+  <programme start="20240402030000 -0300" stop="20240402040000 -0300" channel="Sportv 1">
+    <title lang="pt">Brasileiro Feminino: Corinthians x Internacional</title>
+  </programme>
+  <programme start="20240402040000 -0300" stop="20240402050000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240402050000 -0300" stop="20240402060000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240402060000 -0300" stop="20240402064500 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - FIFA</title>
+  </programme>
+  <programme start="20240402064500 -0300" stop="20240402084500 -0300" channel="Sportv 1">
+    <title lang="pt">Boleiragem</title>
+  </programme>
+  <programme start="20240402084500 -0300" stop="20240402100000 -0300" channel="Sportv 1">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20240402100000 -0300" stop="20240402123000 -0300" channel="Sportv 1">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20240402123000 -0300" stop="20240402130000 -0300" channel="Sportv 1">
+    <title lang="pt">Tá On - Ao Vivo</title>
+  </programme>
+  <programme start="20240402130000 -0300" stop="20240402153000 -0300" channel="Sportv 1">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20240402153000 -0300" stop="20240402161500 -0300" channel="Sportv 1">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20240402161500 -0300" stop="20240402163500 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - Gaúcho</title>
+  </programme>
+  <programme start="20240402163500 -0300" stop="20240402170000 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - Mineiro</title>
+  </programme>
+  <programme start="20240402170000 -0300" stop="20240402180000 -0300" channel="Sportv 1">
+    <title lang="pt">Brasileiro Feminino: Fluminense x São Paulo</title>
+  </programme>
+  <programme start="20240402180000 -0300" stop="20240402190000 -0300" channel="Sportv 1">
+    <title lang="pt">Brasileiro Feminino: Corinthians x Internacional</title>
+  </programme>
+  <programme start="20240402190000 -0300" stop="20240402200000 -0300" channel="Sportv 1">
+    <title lang="pt">Atlético-MG x Cruzeiro</title>
+  </programme>
+  <programme start="20240402200000 -0300" stop="20240402210000 -0300" channel="Sportv 1">
+    <title lang="pt">Juventude x Grêmio</title>
+  </programme>
+  <programme start="20240402210000 -0300" stop="20240402223000 -0300" channel="Sportv 1">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20240402223000 -0300" stop="20240402230000 -0300" channel="Sportv 1">
+    <title lang="pt">Expresso da Bola</title>
+  </programme>
+  <programme start="20240402230000 -0300" stop="20240402231500 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - Gaúcho</title>
+  </programme>
+  <programme start="20240402231500 -0300" stop="20240402233000 -0300" channel="Sportv 1">
+    <title lang="pt">Giro da Rodada - Mineiro</title>
+  </programme>
+  <programme start="20240402233000 -0300" stop="20240403010000 -0300" channel="Sportv 1">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20240330113000 -0300" stop="20240330140000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Sesi-Bauru x Praia Clube - Quartas de …</title>
+  </programme>
+  <programme start="20240330140000 -0300" stop="20240330160000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Fluminense x Minas - Quartas de Final - Jogo 2</title>
+  </programme>
+  <programme start="20240330160000 -0300" stop="20240330183000 -0300" channel="Sportv 2">
+    <title lang="pt">Juventude x Grêmio - Ao Vivo</title>
+  </programme>
+  <programme start="20240330183000 -0300" stop="20240330210000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Sesc RJ Flamengo x Barueri - Quartas de …</title>
+  </programme>
+  <programme start="20240330210000 -0300" stop="20240330233000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Pinheiros x Osasco - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240330233000 -0300" stop="20240331020000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Sesc RJ Flamengo x Barueri - Quartas de …</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331020000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Pinheiros x Osasco - Quartas de Final - Jogo 2</title>
+  </programme>
+  <programme start="20240331020000 -0300" stop="20240331043000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Pinheiros x Osasco - Quartas de Final - Jogo 2</title>
+  </programme>
+  <programme start="20240331043000 -0300" stop="20240331063000 -0300" channel="Sportv 2">
+    <title lang="pt">NBB: Flamengo x São Paulo</title>
+  </programme>
+  <programme start="20240331063000 -0300" stop="20240331070000 -0300" channel="Sportv 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20240331070000 -0300" stop="20240331080000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240331080000 -0300" stop="20240331090000 -0300" channel="Sportv 2">
+    <title lang="pt">Faixa Olímpica: Inspired By Sport - Inspirados Pelo Esporte</title>
+  </programme>
+  <programme start="20240331090000 -0300" stop="20240331100000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Feminina - Saquarema-RJ - …</title>
+  </programme>
+  <programme start="20240331100000 -0300" stop="20240331110000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Feminina - Saquarema-RJ - …</title>
+  </programme>
+  <programme start="20240331110000 -0300" stop="20240331120000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Masculina - Saquarema-RJ …</title>
+  </programme>
+  <programme start="20240331120000 -0300" stop="20240331130000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Masculina - Saquarema-RJ …</title>
+  </programme>
+  <programme start="20240331130000 -0300" stop="20240331140000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240331140000 -0300" stop="20240331150000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Disputa de 3º Lugar Feminina - …</title>
+  </programme>
+  <programme start="20240331150000 -0300" stop="20240331160000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Disputa de 3º Lugar Masculina …</title>
+  </programme>
+  <programme start="20240331160000 -0300" stop="20240331170000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Feminina - Saquarema-RJ - Ao Vivo</title>
+  </programme>
+  <programme start="20240331170000 -0300" stop="20240331180000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Masculina - Saquarema-RJ - Ao …</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331203000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Cruzeiro x Campinas - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240331203000 -0300" stop="20240331230000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Guarulhos x Minas - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240331230000 -0300" stop="20240331233000 -0300" channel="Sportv 2">
+    <title lang="pt">A Onda</title>
+  </programme>
+  <programme start="20240331233000 -0300" stop="20240401003000 -0300" channel="Sportv 2">
+    <title lang="pt">Verão Espetacular: Gigantes de Nazaré</title>
+  </programme>
+  <programme start="20240401003000 -0300" stop="20240401003000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Sesc RJ Flamengo x Barueri - Quartas de …</title>
+  </programme>
+  <programme start="20240401003000 -0300" stop="20240401030000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Sesc RJ Flamengo x Barueri - Quartas de …</title>
+  </programme>
+  <programme start="20240401030000 -0300" stop="20240401050000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Pinheiros x Osasco - Quartas de Final - Jogo 2</title>
+  </programme>
+  <programme start="20240401050000 -0300" stop="20240401070000 -0300" channel="Sportv 2">
+    <title lang="pt">NBB: Flamengo x São Paulo</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401080000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240401080000 -0300" stop="20240401100000 -0300" channel="Sportv 2">
+    <title lang="pt">NBB: Flamengo x São Paulo</title>
+  </programme>
+  <programme start="20240401100000 -0300" stop="20240401110000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Feminina - Saquarema-RJ</title>
+  </programme>
+  <programme start="20240401110000 -0300" stop="20240401120000 -0300" channel="Sportv 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Masculina - Saquarema-RJ</title>
+  </programme>
+  <programme start="20240401120000 -0300" stop="20240401130000 -0300" channel="Sportv 2">
+    <title lang="pt">Verão Espetacular: Gigantes de Nazaré</title>
+  </programme>
+  <programme start="20240401130000 -0300" stop="20240401140000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240401140000 -0300" stop="20240401160000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Guarulhos x Minas - Quartas de Final - Jogo 1</title>
+  </programme>
+  <programme start="20240401160000 -0300" stop="20240401181500 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: São José x Cruzeiro</title>
+  </programme>
+  <programme start="20240401181500 -0300" stop="20240401203000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Sesi-Bauru x Araguari - Quartas de Final …</title>
+  </programme>
+  <programme start="20240401203000 -0300" stop="20240401230000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: São José x Joinville - Quartas …</title>
+  </programme>
+  <programme start="20240401230000 -0300" stop="20240402000000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240402000000 -0300" stop="20240402020000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Guarulhos x Minas - Quartas de Final - Jogo 1</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402020000 -0300" channel="Sportv 2">
+    <title lang="pt">Verão Espetacular: STU - Final Park Feminino</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402020000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Cruzeiro x Campinas - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240402020000 -0300" stop="20240402040000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Cruzeiro x Campinas - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240402040000 -0300" stop="20240402050000 -0300" channel="Sportv 2">
+    <title lang="pt">Faixa Olímpica: Inspired By Sport - Inspirados Pelo Esporte</title>
+  </programme>
+  <programme start="20240402050000 -0300" stop="20240402070000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Sesi-Bauru x Araguari - Quartas de Final …</title>
+  </programme>
+  <programme start="20240402070000 -0300" stop="20240402080000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240402080000 -0300" stop="20240402100000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: São José x Joinville - Quartas …</title>
+  </programme>
+  <programme start="20240402100000 -0300" stop="20240402103000 -0300" channel="Sportv 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20240402103000 -0300" stop="20240402123000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: Sesi-Bauru x Araguari - Quartas de Final …</title>
+  </programme>
+  <programme start="20240402123000 -0300" stop="20240402133000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240402133000 -0300" stop="20240402154500 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Masculina de Vôlei: São José x Joinville - Quartas …</title>
+  </programme>
+  <programme start="20240402154500 -0300" stop="20240402180000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga B Feminina de Vôlei: Recife Vôlei x Brusque - Semifinal …</title>
+  </programme>
+  <programme start="20240402180000 -0300" stop="20240402203000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Praia Clube x Sesi-Bauru - Quartas de …</title>
+  </programme>
+  <programme start="20240402203000 -0300" stop="20240402230000 -0300" channel="Sportv 2">
+    <title lang="pt">Superliga Feminina de Vôlei: Minas x Fluminense - Quartas de Final - …</title>
+  </programme>
+  <programme start="20240402230000 -0300" stop="20240403000000 -0300" channel="Sportv 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20240330130000 -0300" stop="20240330180000 -0300" channel="Sportv 3">
+    <title lang="pt">CBLOL - 1º Split - Ao Vivo</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240330180000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240331033000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240331033000 -0300" stop="20240331043000 -0300" channel="Sportv 3">
+    <title lang="pt">Sport x Murici-AL</title>
+  </programme>
+  <programme start="20240331043000 -0300" stop="20240331053000 -0300" channel="Sportv 3">
+    <title lang="pt">Vasco x Água Santa-SP</title>
+  </programme>
+  <programme start="20240331053000 -0300" stop="20240331063000 -0300" channel="Sportv 3">
+    <title lang="pt">Caxias x Bahia</title>
+  </programme>
+  <programme start="20240331063000 -0300" stop="20240331090000 -0300" channel="Sportv 3">
+    <title lang="pt">Grand Slam de Judô: Finais - Antalya, Turquia</title>
+  </programme>
+  <programme start="20240331090000 -0300" stop="20240331105500 -0300" channel="Sportv 3">
+    <title lang="pt">Grand Slam de Judô: Finais - Antalya, Turquia</title>
+  </programme>
+  <programme start="20240331105500 -0300" stop="20240331133000 -0300" channel="Sportv 3">
+    <title lang="pt">Grand Slam de Judô: Finais - Antalya, Turquia - Ao Vivo</title>
+  </programme>
+  <programme start="20240331133000 -0300" stop="20240331180000 -0300" channel="Sportv 3">
+    <title lang="pt">CBLOL - 1º Split - Ao Vivo</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240331180000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240331180000 -0300" stop="20240401033000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240401033000 -0300" stop="20240401040000 -0300" channel="Sportv 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20240401040000 -0300" stop="20240401050000 -0300" channel="Sportv 3">
+    <title lang="pt">Caxias x Bahia</title>
+  </programme>
+  <programme start="20240401050000 -0300" stop="20240401060000 -0300" channel="Sportv 3">
+    <title lang="pt">Sport x Murici-AL</title>
+  </programme>
+  <programme start="20240401060000 -0300" stop="20240401070000 -0300" channel="Sportv 3">
+    <title lang="pt">Vasco x Água Santa-SP</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401101000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: One 166: De Ridder x Malykhin</title>
+  </programme>
+  <programme start="20240401101000 -0300" stop="20240401121000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Boxe - Shakur Stevenson x Shuichiro Yoshino</title>
+  </programme>
+  <programme start="20240401121000 -0300" stop="20240401160000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: PFL Super Fights: Bellator x PFL</title>
+  </programme>
+  <programme start="20240401160000 -0300" stop="20240401163000 -0300" channel="Sportv 3">
+    <title lang="pt">A Onda</title>
+  </programme>
+  <programme start="20240401163000 -0300" stop="20240401170000 -0300" channel="Sportv 3">
+    <title lang="pt">A Onda</title>
+  </programme>
+  <programme start="20240401170000 -0300" stop="20240401173000 -0300" channel="Sportv 3">
+    <title lang="pt">A Onda</title>
+  </programme>
+  <programme start="20240401173000 -0300" stop="20240401173000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240401173000 -0300" stop="20240402033000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240402033000 -0300" stop="20240402064000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: One 166: De Ridder x Malykhin</title>
+  </programme>
+  <programme start="20240402064000 -0300" stop="20240402084000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Boxe - Shakur Stevenson x Shuichiro Yoshino</title>
+  </programme>
+  <programme start="20240402084000 -0300" stop="20240402123000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: PFL Super Fights: Bellator x PFL</title>
+  </programme>
+  <programme start="20240402123000 -0300" stop="20240402153000 -0300" channel="Sportv 3">
+    <title lang="pt">One Friday Fights 57</title>
+  </programme>
+  <programme start="20240402153000 -0300" stop="20240402160000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Fome de Luta: Jéssica Andrade</title>
+  </programme>
+  <programme start="20240402160000 -0300" stop="20240402163000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Fome de Luta 2 - Deiveson</title>
+  </programme>
+  <programme start="20240402163000 -0300" stop="20240402170000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Fome de Luta - Amanda Ribas</title>
+  </programme>
+  <programme start="20240402170000 -0300" stop="20240402173000 -0300" channel="Sportv 3">
+    <title lang="pt">Faixa Combate: Fome de Luta - Charles Do Bronx</title>
+  </programme>
+  <programme start="20240402173000 -0300" stop="20240402173000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
+  <programme start="20240402173000 -0300" stop="20240403033000 -0300" channel="Sportv 3">
+    <title lang="pt">Circuito Mundial de Surfe: Etapa de Bells Beach - Victoria, Austrália - …</title>
+  </programme>
   <programme start="20240330124000 -0300" stop="20240330143000 -0300" channel="Megapix">
     <title lang="pt">Programa Duplo: Nanny McPhee - A Babá Encantada</title>
   </programme>
@@ -1727,8 +3174,170 @@
   <programme start="20240402231500 -0300" stop="20240403011500 -0300" channel="Megapix">
     <title lang="pt">Rogue - O Assassino</title>
   </programme>
-  <programme start="20240330130900 -0300" stop="20240330133500 -0300" channel="Warner Channel">
-    <title lang="pt">Two and a Half Men</title>
+  <programme start="20240330122500 -0300" stop="20240330144500 -0300" channel="Studio Universal">
+    <title lang="pt">Miami Vice</title>
+  </programme>
+  <programme start="20240330144500 -0300" stop="20240330164500 -0300" channel="Studio Universal">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+  </programme>
+  <programme start="20240330164500 -0300" stop="20240330184500 -0300" channel="Studio Universal">
+    <title lang="pt">O Ultimato Bourne</title>
+  </programme>
+  <programme start="20240330184500 -0300" stop="20240330210000 -0300" channel="Studio Universal">
+    <title lang="pt">A Múmia (1999)</title>
+  </programme>
+  <programme start="20240330210000 -0300" stop="20240330233500 -0300" channel="Studio Universal">
+    <title lang="pt">Chamas da Vingança</title>
+  </programme>
+  <programme start="20240330233500 -0300" stop="20240331013000 -0300" channel="Studio Universal">
+    <title lang="pt">Feito Na América</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331013000 -0300" channel="Studio Universal">
+    <title lang="pt">Boneco De Neve</title>
+  </programme>
+  <programme start="20240331013000 -0300" stop="20240331033000 -0300" channel="Studio Universal">
+    <title lang="pt">Boneco De Neve</title>
+  </programme>
+  <programme start="20240331033000 -0300" stop="20240331052500 -0300" channel="Studio Universal">
+    <title lang="pt">Nossa História De Amor E Música</title>
+  </programme>
+  <programme start="20240331052500 -0300" stop="20240331060000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240331060000 -0300" stop="20240331062500 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240331062500 -0300" stop="20240331081500 -0300" channel="Studio Universal">
+    <title lang="pt">Ainda Há Tempo</title>
+  </programme>
+  <programme start="20240331081500 -0300" stop="20240331103500 -0300" channel="Studio Universal">
+    <title lang="pt">Miami Vice</title>
+  </programme>
+  <programme start="20240331103500 -0300" stop="20240331121000 -0300" channel="Studio Universal">
+    <title lang="pt">10x10: O Cativeiro</title>
+  </programme>
+  <programme start="20240331121000 -0300" stop="20240331141000 -0300" channel="Studio Universal">
+    <title lang="pt">8 Mile: Rua Das Ilusões</title>
+  </programme>
+  <programme start="20240331141000 -0300" stop="20240331162000 -0300" channel="Studio Universal">
+    <title lang="pt">Boneco De Neve</title>
+  </programme>
+  <programme start="20240331162000 -0300" stop="20240331181500 -0300" channel="Studio Universal">
+    <title lang="pt">Feito Na América</title>
+  </programme>
+  <programme start="20240331181500 -0300" stop="20240331210000 -0300" channel="Studio Universal">
+    <title lang="pt">Bastardos Inglórios</title>
+  </programme>
+  <programme start="20240331210000 -0300" stop="20240331230000 -0300" channel="Studio Universal">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+  </programme>
+  <programme start="20240331230000 -0300" stop="20240401005000 -0300" channel="Studio Universal">
+    <title lang="pt">Assassin's Creed</title>
+  </programme>
+  <programme start="20240401005000 -0300" stop="20240401005000 -0300" channel="Studio Universal">
+    <title lang="pt">Verdade ou Desafio</title>
+  </programme>
+  <programme start="20240401005000 -0300" stop="20240401024000 -0300" channel="Studio Universal">
+    <title lang="pt">Verdade ou Desafio</title>
+  </programme>
+  <programme start="20240401024000 -0300" stop="20240401043000 -0300" channel="Studio Universal">
+    <title lang="pt">Os Mortos Não Morrem</title>
+  </programme>
+  <programme start="20240401043000 -0300" stop="20240401050000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240401050000 -0300" stop="20240401053000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240401053000 -0300" stop="20240401060000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240401060000 -0300" stop="20240401063000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240401063000 -0300" stop="20240401070000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240401070000 -0300" stop="20240401085500 -0300" channel="Studio Universal">
+    <title lang="pt">Honra Ao Mérito</title>
+  </programme>
+  <programme start="20240401085500 -0300" stop="20240401103500 -0300" channel="Studio Universal">
+    <title lang="pt">À Prova de Balas 2</title>
+  </programme>
+  <programme start="20240401103500 -0300" stop="20240401122000 -0300" channel="Studio Universal">
+    <title lang="pt">Sobrevivendo ao Meu Pai</title>
+  </programme>
+  <programme start="20240401122000 -0300" stop="20240401140000 -0300" channel="Studio Universal">
+    <title lang="pt">As Apimentadas: #desafiomundial</title>
+  </programme>
+  <programme start="20240401140000 -0300" stop="20240401154000 -0300" channel="Studio Universal">
+    <title lang="pt">Meios-Irmãos</title>
+  </programme>
+  <programme start="20240401154000 -0300" stop="20240401171000 -0300" channel="Studio Universal">
+    <title lang="pt">Banana Split</title>
+  </programme>
+  <programme start="20240401171000 -0300" stop="20240401190500 -0300" channel="Studio Universal">
+    <title lang="pt">Separados Pelo Casamento</title>
+  </programme>
+  <programme start="20240401190500 -0300" stop="20240401210000 -0300" channel="Studio Universal">
+    <title lang="pt">Em Boa Companhia</title>
+  </programme>
+  <programme start="20240401210000 -0300" stop="20240401224000 -0300" channel="Studio Universal">
+    <title lang="pt">Megamente</title>
+  </programme>
+  <programme start="20240401224000 -0300" stop="20240402001000 -0300" channel="Studio Universal">
+    <title lang="pt">Madagascar 2</title>
+  </programme>
+  <programme start="20240402001000 -0300" stop="20240402001000 -0300" channel="Studio Universal">
+    <title lang="pt">Ted 2</title>
+  </programme>
+  <programme start="20240402001000 -0300" stop="20240402021000 -0300" channel="Studio Universal">
+    <title lang="pt">Ted 2</title>
+  </programme>
+  <programme start="20240402021000 -0300" stop="20240402034500 -0300" channel="Studio Universal">
+    <title lang="pt">Perigo Próximo</title>
+  </programme>
+  <programme start="20240402034500 -0300" stop="20240402052000 -0300" channel="Studio Universal">
+    <title lang="pt">Saída Proibida</title>
+  </programme>
+  <programme start="20240402052000 -0300" stop="20240402060500 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240402060500 -0300" stop="20240402063500 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240402063500 -0300" stop="20240402070500 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20240402070500 -0300" stop="20240402083500 -0300" channel="Studio Universal">
+    <title lang="pt">Echo In The Canyon: Uma Celebração à Música</title>
+  </programme>
+  <programme start="20240402083500 -0300" stop="20240402101500 -0300" channel="Studio Universal">
+    <title lang="pt">Under The Volcano</title>
+  </programme>
+  <programme start="20240402101500 -0300" stop="20240402115000 -0300" channel="Studio Universal">
+    <title lang="pt">The Little Hours - A Comédia Dos Pecados</title>
+  </programme>
+  <programme start="20240402115000 -0300" stop="20240402132500 -0300" channel="Studio Universal">
+    <title lang="pt">Palavrões</title>
+  </programme>
+  <programme start="20240402132500 -0300" stop="20240402150000 -0300" channel="Studio Universal">
+    <title lang="pt">Psych - O Filme</title>
+  </programme>
+  <programme start="20240402150000 -0300" stop="20240402164500 -0300" channel="Studio Universal">
+    <title lang="pt">American Pie Apresenta: Meninas ao Ataque</title>
+  </programme>
+  <programme start="20240402164500 -0300" stop="20240402190000 -0300" channel="Studio Universal">
+    <title lang="pt">Viagem Das Garotas</title>
+  </programme>
+  <programme start="20240402190000 -0300" stop="20240402210000 -0300" channel="Studio Universal">
+    <title lang="pt">Quem Vai Ficar Com Mário?</title>
+  </programme>
+  <programme start="20240402210000 -0300" stop="20240402224500 -0300" channel="Studio Universal">
+    <title lang="pt">Casa Comigo?</title>
+  </programme>
+  <programme start="20240402224500 -0300" stop="20240403004500 -0300" channel="Studio Universal">
+    <title lang="pt">Encontro De Casais</title>
   </programme>
   <programme start="20240330133500 -0300" stop="20240330140100 -0300" channel="Warner Channel">
     <title lang="pt">The Big Bang Theory</title>
@@ -2150,12 +3759,6 @@
   <programme start="20240402233800 -0300" stop="20240403000400 -0300" channel="Warner Channel">
     <title lang="pt">Two and a Half Men</title>
   </programme>
-  <programme start="20240330112600 -0300" stop="20240330133500 -0300" channel="SPACE">
-    <title lang="pt">O Demolidor</title>
-  </programme>
-  <programme start="20240330133500 -0300" stop="20240330134600 -0300" channel="SPACE">
-    <title lang="pt">Bastidores Space: Godzilla e Kong - O Novo Império</title>
-  </programme>
   <programme start="20240330134600 -0300" stop="20240330152500 -0300" channel="SPACE">
     <title lang="pt">Stallone - Cobra</title>
   </programme>
@@ -2537,6 +4140,315 @@
   <programme start="20240402235000 -0300" stop="20240403015000 -0300" channel="Sony">
     <title lang="pt">Jumanji - Bem-Vindo à Selva</title>
   </programme>
+  <programme start="20240330135000 -0300" stop="20240330144000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330144000 -0300" stop="20240330153000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330153000 -0300" stop="20240330162000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330162000 -0300" stop="20240330171000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330171000 -0300" stop="20240330180000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330180000 -0300" stop="20240330183000 -0300" channel="Universal Channel">
+    <title lang="pt">Unidade Básica</title>
+  </programme>
+  <programme start="20240330183000 -0300" stop="20240330190000 -0300" channel="Universal Channel">
+    <title lang="pt">Unidade Básica</title>
+  </programme>
+  <programme start="20240330190000 -0300" stop="20240330195000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240330195000 -0300" stop="20240330204000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240330204000 -0300" stop="20240330213000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240330213000 -0300" stop="20240330222000 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
+  <programme start="20240330222000 -0300" stop="20240330231000 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
+  <programme start="20240330231000 -0300" stop="20240331000000 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
+  <programme start="20240331000000 -0300" stop="20240331005000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331005000 -0300" stop="20240331014000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331014000 -0300" stop="20240331014000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331014000 -0300" stop="20240331023000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331023000 -0300" stop="20240331032000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331032000 -0300" stop="20240331043500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331043500 -0300" stop="20240331052500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331052500 -0300" stop="20240331061500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331061500 -0300" stop="20240331070500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240331070500 -0300" stop="20240331075500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331075500 -0300" stop="20240331084500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331084500 -0300" stop="20240331093500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331093500 -0300" stop="20240331102500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331102500 -0300" stop="20240331111500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331111500 -0300" stop="20240331120500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331120500 -0300" stop="20240331125500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331125500 -0300" stop="20240331134500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331134500 -0300" stop="20240331143500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331143500 -0300" stop="20240331152500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331152500 -0300" stop="20240331161500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331161500 -0300" stop="20240331170500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331170500 -0300" stop="20240331175500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331175500 -0300" stop="20240331184500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331184500 -0300" stop="20240331193500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331193500 -0300" stop="20240331202500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240331202500 -0300" stop="20240331211500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order</title>
+  </programme>
+  <programme start="20240331211500 -0300" stop="20240331220500 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
+  <programme start="20240331220500 -0300" stop="20240331223500 -0300" channel="Universal Channel">
+    <title lang="pt">Unidade Básica</title>
+  </programme>
+  <programme start="20240331223500 -0300" stop="20240331230500 -0300" channel="Universal Channel">
+    <title lang="pt">Unidade Básica</title>
+  </programme>
+  <programme start="20240331230500 -0300" stop="20240401000000 -0300" channel="Universal Channel">
+    <title lang="pt">Rio Heroes</title>
+  </programme>
+  <programme start="20240401000000 -0300" stop="20240401005000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401005000 -0300" stop="20240401014000 -0300" channel="Universal Channel">
+    <title lang="pt">Magnum P.I.</title>
+  </programme>
+  <programme start="20240401014000 -0300" stop="20240401014000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401014000 -0300" stop="20240401023000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401023000 -0300" stop="20240401031500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401031500 -0300" stop="20240401040500 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
+  <programme start="20240401040500 -0300" stop="20240401045000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240401045000 -0300" stop="20240401054000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240401054000 -0300" stop="20240401063000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240401063000 -0300" stop="20240401072000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240401072000 -0300" stop="20240401081000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240401081000 -0300" stop="20240401090000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240401090000 -0300" stop="20240401095000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401095000 -0300" stop="20240401104000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401104000 -0300" stop="20240401113000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401113000 -0300" stop="20240401122000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401122000 -0300" stop="20240401131000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401131000 -0300" stop="20240401140000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240401140000 -0300" stop="20240401145000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240401145000 -0300" stop="20240401154000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401154000 -0300" stop="20240401163000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401163000 -0300" stop="20240401172000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401172000 -0300" stop="20240401181000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240401181000 -0300" stop="20240401190000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240401190000 -0300" stop="20240401195000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240401195000 -0300" stop="20240401204000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401204000 -0300" stop="20240401213000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240401213000 -0300" stop="20240401222000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240401222000 -0300" stop="20240401231000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240401231000 -0300" stop="20240402000000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402000000 -0300" stop="20240402005000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402005000 -0300" stop="20240402014000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402014000 -0300" stop="20240402014000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402014000 -0300" stop="20240402022500 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402022500 -0300" stop="20240402031500 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402031500 -0300" stop="20240402040000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402040000 -0300" stop="20240402045000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402045000 -0300" stop="20240402054000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240402054000 -0300" stop="20240402063000 -0300" channel="Universal Channel">
+    <title lang="pt">The Rookie</title>
+  </programme>
+  <programme start="20240402063000 -0300" stop="20240402072000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402072000 -0300" stop="20240402081000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402081000 -0300" stop="20240402090000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402090000 -0300" stop="20240402095000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402095000 -0300" stop="20240402104000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402104000 -0300" stop="20240402113000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402113000 -0300" stop="20240402122000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402122000 -0300" stop="20240402131000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402131000 -0300" stop="20240402140000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402140000 -0300" stop="20240402145000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20240402145000 -0300" stop="20240402154000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402154000 -0300" stop="20240402163000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402163000 -0300" stop="20240402172000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20240402172000 -0300" stop="20240402181000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402181000 -0300" stop="20240402190000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402190000 -0300" stop="20240402195000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402195000 -0300" stop="20240402204000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402204000 -0300" stop="20240402213000 -0300" channel="Universal Channel">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20240402213000 -0300" stop="20240402222000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20240402222000 -0300" stop="20240402231000 -0300" channel="Universal Channel">
+    <title lang="pt">Law &amp; Order</title>
+  </programme>
+  <programme start="20240402231000 -0300" stop="20240403000000 -0300" channel="Universal Channel">
+    <title lang="pt">Blue Bloods</title>
+  </programme>
   <programme start="20240330132000 -0300" stop="20240330141000 -0300" channel="USA">
     <title lang="pt">Bull</title>
   </programme>
@@ -2848,9 +4760,6 @@
   </programme>
   <programme start="20240402233000 -0300" stop="20240403000000 -0300" channel="USA">
     <title lang="pt">Cinelab Aprendiz</title>
-  </programme>
-  <programme start="20240330131200 -0300" stop="20240330140000 -0300" channel="TCM">
-    <title lang="pt">ER : T5 EP16 - No Meio do Nada</title>
   </programme>
   <programme start="20240330140000 -0300" stop="20240330144600 -0300" channel="TCM">
     <title lang="pt">ER : T5 EP17 - Violência Não</title>
@@ -4589,9 +6498,6 @@
   <programme start="20240402235100 -0300" stop="20240403000200 -0300" channel="Cartoon Network">
     <title lang="pt">O Pequeno Grande Mundo de Jéssica : T1 EP2 - O Grande Banho do Tiozinho</title>
   </programme>
-  <programme start="20240330132800 -0300" stop="20240330135500 -0300" channel="Disney Channel">
-    <title lang="pt">Austin &amp; Ally</title>
-  </programme>
   <programme start="20240330135500 -0300" stop="20240330142500 -0300" channel="Disney Channel">
     <title lang="pt">A Irmã do Meio</title>
   </programme>
@@ -5122,9 +7028,6 @@
   </programme>
   <programme start="20240402233000 -0300" stop="20240403000000 -0300" channel="Disney Channel">
     <title lang="pt">Gabby Duran – Babá de Aliens</title>
-  </programme>
-  <programme start="20240330133000 -0300" stop="20240330140000 -0300" channel="Gloob">
-    <title lang="pt">Turma Da Mônica</title>
   </programme>
   <programme start="20240330140000 -0300" stop="20240330153000 -0300" channel="Gloob">
     <title lang="pt">Cine Gloob: É Doce</title>
@@ -5852,9 +7755,6 @@
   <programme start="20240402235200 -0300" stop="20240403000000 -0300" channel="Gloob">
     <title lang="pt">Taffy</title>
   </programme>
-  <programme start="20240330132500 -0300" stop="20240330135500 -0300" channel="Nick Jr">
-    <title lang="pt">Rubble e Sua Turma : T1 EP15 - A Turma Constrói uma Escola!; A Turma Constrói um Canal!</title>
-  </programme>
   <programme start="20240330135500 -0300" stop="20240330142000 -0300" channel="Nick Jr">
     <title lang="pt">Baby Shark, o Grande Show! : T1 EP14 - Torneio de Bolas de Neve; O Presente</title>
   </programme>
@@ -6443,9 +8343,6 @@
   <programme start="20240402233500 -0300" stop="20240403000000 -0300" channel="Nick Jr">
     <title lang="pt">Patrulha Canina : T9 EP21 - Os Filhotes Salvam a Katie e os Gatinhos!; Os Filhotes Salvam o Prefeito Humdinger!</title>
   </programme>
-  <programme start="20240330133000 -0300" stop="20240330140000 -0300" channel="Nickelodeon">
-    <title lang="pt">Bob Esponja, Calça Quadrada : T12 EP20 - Chefe Por Um Dia; Novato Amendobobo</title>
-  </programme>
   <programme start="20240330140000 -0300" stop="20240330142500 -0300" channel="Nickelodeon">
     <title lang="pt">Bob Esponja, Calça Quadrada : T12 EP22 - Louie do Farol; Pegadinha do Soluço</title>
   </programme>
@@ -7033,15 +8930,6 @@
   </programme>
   <programme start="20240402234500 -0300" stop="20240403000000 -0300" channel="Nickelodeon">
     <title lang="pt">The Loud House : T2 - Perdidos na Foto</title>
-  </programme>
-  <programme start="20240330133200 -0300" stop="20240330134200 -0300" channel="Tooncast">
-    <title lang="pt">Krypto, o Supercão</title>
-  </programme>
-  <programme start="20240330134200 -0300" stop="20240330135300 -0300" channel="Tooncast">
-    <title lang="pt">Krypto, o Supercão</title>
-  </programme>
-  <programme start="20240330135300 -0300" stop="20240330140700 -0300" channel="Tooncast">
-    <title lang="pt">Krypto, o Supercão</title>
   </programme>
   <programme start="20240330140700 -0300" stop="20240330143000 -0300" channel="Tooncast">
     <title lang="pt">Os Jetsons : T1 EP1 - Rose, a Robô</title>
