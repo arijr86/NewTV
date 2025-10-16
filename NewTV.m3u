@@ -1,128 +1,130 @@
-#EXTM3U x-tvg-url="http://ouy1.pro:80/xmltv.php?username=205451604&password=315185505"
+#EXTM3U x-tvg-url="http://pop71.live/xmltv.php?username=205451604&password=315185505"
 
 
 ######################################  ABERTOS  ######################################
 
 
+
+
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",NSC FLORIANOPOLIS
-http://ouy1.pro:80/205451604/315185505/141949
+http://pop71.live/205451604/315185505/141949
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",NSC FLORIANOPOLIS
-http://ouy1.pro:80/205451604/315185505/141950
+http://pop71.live/205451604/315185505/141950
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globo.png" group-title="ABERTOS",NSC FLORIANOPOLIS
-http://ouy1.pro:80/205451604/315185505/141951
+http://pop71.live/205451604/315185505/141951
 
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
-http://ouy1.pro:80/205451604/315185505/90159
+http://pop71.live/205451604/315185505/90159
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
-http://ouy1.pro:80/205451604/315185505/71510
+http://pop71.live/205451604/315185505/71510
 #EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sbt.png" group-title="ABERTOS",SBT
-http://ouy1.pro:80/205451604/315185505/71259
+http://pop71.live/205451604/315185505/71259
 
-#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",RECORD TV
-http://ouy1.pro:80/205451604/315185505/135508
-#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",RECORD TV
-http://ouy1.pro:80/205451604/315185505/71038
-#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/record.png" group-title="ABERTOS",RECORD TV
-http://ouy1.pro:80/205451604/315185505/166400
+#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvrecord.png" group-title="ABERTOS",RECORD TV
+http://pop71.live/205451604/315185505/135508
+#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvrecord.png" group-title="ABERTOS",RECORD TV
+http://pop71.live/205451604/315185505/71038
+#EXTINF:-1 tvg-id="record.rio.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvrecord.png" group-title="ABERTOS",RECORD TV
+http://pop71.live/205451604/315185505/166400
 
 #EXTINF:-1 tvg-id="band.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",BAND
-http://ouy1.pro:80/205451604/315185505/133316
+http://pop71.live/205451604/315185505/133316
 #EXTINF:-1 tvg-id="band.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",BAND
-http://ouy1.pro:80/205451604/315185505/71480
+http://pop71.live/205451604/315185505/71480
 #EXTINF:-1 tvg-id="band.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/band.png" group-title="ABERTOS",BAND
-http://ouy1.pro:80/205451604/315185505/107690
+http://pop71.live/205451604/315185505/107690
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",REDETV
-http://ouy1.pro:80/205451604/315185505/88425
+http://pop71.live/205451604/315185505/88425
 #EXTINF:-1 tvg-id="redetv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",REDETV
-http://ouy1.pro:80/205451604/315185505/135509
+http://pop71.live/205451604/315185505/135509
 #EXTINF:-1 tvg-id="redetv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/redetv.png" group-title="ABERTOS",REDETV
-http://ouy1.pro:80/205451604/315185505/71553
+http://pop71.live/205451604/315185505/71553
 
 #EXTINF:-1 tvg-id="Gazeta.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gazeta.png" group-title="ABERTOS",TV GAZETA
-http://ouy1.pro:80/205451604/315185505/71489
+http://pop71.live/205451604/315185505/71489
 #EXTINF:-1 tvg-id="Gazeta.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gazeta.png" group-title="ABERTOS",TV GAZETA
-http://ouy1.pro:80/205451604/315185505/168918
+http://pop71.live/205451604/315185505/168918
 #EXTINF:-1 tvg-id="Gazeta.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gazeta.png" group-title="ABERTOS",TV GAZETA
-http://ouy1.pro:80/205451604/315185505/168917
+http://pop71.live/205451604/315185505/168917
 
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS",TV CULTURA
-http://ouy1.pro:80/205451604/315185505/71558
+http://pop71.live/205451604/315185505/71558
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS",TV CULTURA
-http://ouy1.pro:80/205451604/315185505/166867
+http://pop71.live/205451604/315185505/166867
 #EXTINF:-1 tvg-id="cultura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cultura.png" group-title="ABERTOS",TV CULTURA
-http://ouy1.pro:80/205451604/315185505/71559
+http://pop71.live/205451604/315185505/71559
 
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvbrasil.png" group-title="ABERTOS",TV BRASIL
-http://ouy1.pro:80/205451604/315185505/71172
+http://pop71.live/205451604/315185505/71172
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvbrasil.png" group-title="ABERTOS",TV BRASIL
-http://ouy1.pro:80/205451604/315185505/168911
+http://pop71.live/205451604/315185505/168911
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvbrasil.png" group-title="ABERTOS",TV BRASIL
-http://ouy1.pro:80/205451604/315185505/71457
+http://pop71.live/205451604/315185505/71457
 
 
 ######################################  NOTICIAS  ######################################
 
 
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",RECORD NEWS
-http://ouy1.pro:80/205451604/315185505/168734
+http://pop71.live/205451604/315185505/168734
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",RECORD NEWS
-http://ouy1.pro:80/205451604/315185505/166864
+http://pop71.live/205451604/315185505/166864
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/recordnews.png" group-title="NOTICIAS",RECORD NEWS
-http://ouy1.pro:80/205451604/315185505/71429
+http://pop71.live/205451604/315185505/71429
 
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",JOVEM PAN
-http://ouy1.pro:80/205451604/315185505/133314
+http://pop71.live/205451604/315185505/133314
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",JOVEM PAN
-http://ouy1.pro:80/205451604/315185505/168735
+http://pop71.live/205451604/315185505/168735
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/JovemPanNews.png" group-title="NOTICIAS",JOVEM PAN
-http://ouy1.pro:80/205451604/315185505/127560
+http://pop71.live/205451604/315185505/127560
 
 #EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",GLOBO NEWS
-http://ouy1.pro:80/205451604/315185505/71345
+http://pop71.live/205451604/315185505/71345
 #EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",GLOBO NEWS
-http://ouy1.pro:80/205451604/315185505/166801
+http://pop71.live/205451604/315185505/166801
 #EXTINF:-1 tvg-id="Globo.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/globonews.png" group-title="NOTICIAS",GLOBO NEWS
-http://ouy1.pro:80/205451604/315185505/100794
+http://pop71.live/205451604/315185505/100794
 
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://ouy1.pro:80/205451604/315185505/71972
+http://pop71.live/205451604/315185505/71972
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://ouy1.pro:80/205451604/315185505/166868
+http://pop71.live/205451604/315185505/166868
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://ouy1.pro:80/205451604/315185505/71426
+http://pop71.live/205451604/315185505/71426
 
 #EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews1.png" group-title="NOTICIAS",BAND NEWS
-http://ouy1.pro:80/205451604/315185505/168733
+http://pop71.live/205451604/315185505/168733
 #EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews1.png" group-title="NOTICIAS",BAND NEWS
-http://ouy1.pro:80/205451604/315185505/166786
+http://pop71.live/205451604/315185505/166786
 #EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandnews1.png" group-title="NOTICIAS",BAND NEWS
-http://ouy1.pro:80/205451604/315185505/71428
+http://pop71.live/205451604/315185505/71428
 
 
 ######################################  VARIEDADES  ######################################
 
 
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",DISCOVERY HOME&HEALTH
-http://ouy1.pro:80/205451604/315185505/136307
+http://pop71.live/205451604/315185505/136307
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",DISCOVERY HOME&HEALTH
-http://ouy1.pro:80/205451604/315185505/71059
+http://pop71.live/205451604/315185505/71059
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryhomehealth.png" group-title="VARIEDADES",DISCOVERY HOME&HEALTH
-http://ouy1.pro:80/205451604/315185505/166835
+http://pop71.live/205451604/315185505/166835
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
-http://ouy1.pro:80/205451604/315185505/168666
+http://pop71.live/205451604/315185505/168666
 #EXTINF:-1 tvg-id="hgtv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
-http://ouy1.pro:80/205451604/315185505/166834
+http://pop71.live/205451604/315185505/166834
 #EXTINF:-1 tvg-id="hgtv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hgtv.png" group-title="VARIEDADES",HGTV
-http://ouy1.pro:80/205451604/315185505/71577
+http://pop71.live/205451604/315185505/71577
 
 #EXTINF:-1 tvg-id="food.network.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK
-http://ouy1.pro:80/205451604/315185505/71146
+http://pop71.live/205451604/315185505/71146
 #EXTINF:-1 tvg-id="food.network.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK
-http://ouy1.pro:80/205451604/315185505/166797
+http://pop71.live/205451604/315185505/166797
 #EXTINF:-1 tvg-id="food.network.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK
-http://ouy1.pro:80/205451604/315185505/71337
+http://pop71.live/205451604/315185505/71337
 
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/masterchef.png" group-title="VARIEDADES",MasterChef 1
 http://gameplay.p2sweb.me:80/live/1278366/3653575/272930.m3u8
@@ -130,289 +132,289 @@ http://gameplay.p2sweb.me:80/live/1278366/3653575/272930.m3u8
 http://suatv.fun:80/060385434112/372699476662/2330807
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
-http://ouy1.pro:80/205451604/315185505/135510
+http://pop71.live/205451604/315185505/135510
 #EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
-http://ouy1.pro:80/205451604/315185505/166866
+http://pop71.live/205451604/315185505/166866
 #EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tlc1.png" group-title="VARIEDADES",TLC
-http://ouy1.pro:80/205451604/315185505/71392
+http://pop71.live/205451604/315185505/71392
 
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic2.png" group-title="VARIEDADES",NATIONAL GEOGRAPHIC
-http://ouy1.pro:80/205451604/315185505/122064
+http://pop71.live/205451604/315185505/122064
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic2.png" group-title="VARIEDADES",NATIONAL GEOGRAPHIC
-http://ouy1.pro:80/205451604/315185505/71364
+http://pop71.live/205451604/315185505/71364
 #EXTINF:-1 tvg-id="national.geographic.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nationalgeographic2.png" group-title="VARIEDADES",NATIONAL GEOGRAPHIC
-http://ouy1.pro:80/205451604/315185505/71232
+http://pop71.live/205451604/315185505/71232
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",VIVA
-http://ouy1.pro:80/205451604/315185505/133315
+http://pop71.live/205451604/315185505/133315
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",VIVA
-http://ouy1.pro:80/205451604/315185505/166831
+http://pop71.live/205451604/315185505/166831
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viva.png" group-title="VARIEDADES",VIVA
-http://ouy1.pro:80/205451604/315185505/71401
+http://pop71.live/205451604/315185505/71401
 
 #EXTINF:-1 tvg-id="futura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/futura.png" group-title="VARIEDADES",FUTURA
-http://ouy1.pro:80/205451604/315185505/168915
+http://pop71.live/205451604/315185505/168915
 #EXTINF:-1 tvg-id="futura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/futura.png" group-title="VARIEDADES",FUTURA
-http://ouy1.pro:80/205451604/315185505/166800
+http://pop71.live/205451604/315185505/166800
 #EXTINF:-1 tvg-id="futura.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/futura.png" group-title="VARIEDADES",FUTURA
-http://ouy1.pro:80/205451604/315185505/168916
+http://pop71.live/205451604/315185505/168916
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
-http://ouy1.pro:80/205451604/315185505/71092
+http://pop71.live/205451604/315185505/71092
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
-http://ouy1.pro:80/205451604/315185505/88455
+http://pop71.live/205451604/315185505/88455
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/a%26e.png" group-title="VARIEDADES",A&E
-http://ouy1.pro:80/205451604/315185505/71311
+http://pop71.live/205451604/315185505/71311
 
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",ANIMAL PLANET
-http://ouy1.pro:80/205451604/315185505/71058
+http://pop71.live/205451604/315185505/71058
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",ANIMAL PLANET
-http://ouy1.pro:80/205451604/315185505/166783
+http://pop71.live/205451604/315185505/166783
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/animalplanet.png" group-title="VARIEDADES",ANIMAL PLANET
-http://ouy1.pro:80/205451604/315185505/71313
+http://pop71.live/205451604/315185505/71313
 
 #EXTINF:-1 tvg-id="discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel1.png" group-title="VARIEDADES",DISCOVERY CHANNEL
-http://ouy1.pro:80/205451604/315185505/71048
+http://pop71.live/205451604/315185505/71048
 #EXTINF:-1 tvg-id="discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel1.png" group-title="VARIEDADES",DISCOVERY CHANNEL
-http://ouy1.pro:80/205451604/315185505/88460
+http://pop71.live/205451604/315185505/88460
 #EXTINF:-1 tvg-id="discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/dicoverychannel1.png" group-title="VARIEDADES",DISCOVERY CHANNEL
-http://ouy1.pro:80/205451604/315185505/71322
+http://pop71.live/205451604/315185505/71322
 
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",DISCOVERY WORLD
-http://ouy1.pro:80/205451604/315185505/71064
+http://pop71.live/205451604/315185505/71064
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",DISCOVERY WORLD
-http://ouy1.pro:80/205451604/315185505/166840
+http://pop71.live/205451604/315185505/166840
 #EXTINF:-1 tvg-id="discovery.world.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryworld.png" group-title="VARIEDADES",DISCOVERY WORLD
-http://ouy1.pro:80/205451604/315185505/71329
+http://pop71.live/205451604/315185505/71329
 
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",DISCOVERY THEATER
-http://ouy1.pro:80/205451604/315185505/71053
+http://pop71.live/205451604/315185505/71053
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",DISCOVERY THEATER
-http://ouy1.pro:80/205451604/315185505/166838
+http://pop71.live/205451604/315185505/166838
 #EXTINF:-1 tvg-id="discovery.theater.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverytheater.png" group-title="VARIEDADES",DISCOVERY THEATER
-http://ouy1.pro:80/205451604/315185505/71327
+http://pop71.live/205451604/315185505/71327
 
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",DISCOVERY SCIENCE
-http://ouy1.pro:80/205451604/315185505/71061
+http://pop71.live/205451604/315185505/71061
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",DISCOVERY SCIENCE
-http://ouy1.pro:80/205451604/315185505/166837
+http://pop71.live/205451604/315185505/166837
 #EXTINF:-1 tvg-id="discovery.science.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoveryscience.png" group-title="VARIEDADES",DISCOVERY SCIENCE
-http://ouy1.pro:80/205451604/315185505/71326
+http://pop71.live/205451604/315185505/71326
 
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",INVESTIGACAO DISCOVERY
-http://ouy1.pro:80/205451604/315185505/71050
+http://pop71.live/205451604/315185505/71050
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",INVESTIGACAO DISCOVERY
-http://ouy1.pro:80/205451604/315185505/166851
+http://pop71.live/205451604/315185505/166851
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/id.png" group-title="VARIEDADES",INVESTIGACAO DISCOVERY
-http://ouy1.pro:80/205451604/315185505/71356
+http://pop71.live/205451604/315185505/71356
 
 #EXTINF:-1 tvg-id="history.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",HISTORY
-http://ouy1.pro:80/205451604/315185505/71575
+http://pop71.live/205451604/315185505/71575
 #EXTINF:-1 tvg-id="history.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",HISTORY
-http://ouy1.pro:80/205451604/315185505/166806
+http://pop71.live/205451604/315185505/166806
 #EXTINF:-1 tvg-id="history.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history.png" group-title="VARIEDADES",HISTORY
-http://ouy1.pro:80/205451604/315185505/71355
+http://pop71.live/205451604/315185505/71355
 
 #EXTINF:-1 tvg-id="history.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",HISTORY 2
-http://ouy1.pro:80/205451604/315185505/71576
+http://pop71.live/205451604/315185505/71576
 #EXTINF:-1 tvg-id="history.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",HISTORY 2
-http://ouy1.pro:80/205451604/315185505/166850
+http://pop71.live/205451604/315185505/166850
 #EXTINF:-1 tvg-id="history.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/history2.png" group-title="VARIEDADES",HISTORY 2
-http://ouy1.pro:80/205451604/315185505/71354
+http://pop71.live/205451604/315185505/71354
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/viajandopelobrasil.png" group-title="VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="off.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
-http://ouy1.pro:80/205451604/315185505/71152
+http://pop71.live/205451604/315185505/71152
 #EXTINF:-1 tvg-id="off.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
-http://ouy1.pro:80/205451604/315185505/88451
+http://pop71.live/205451604/315185505/88451
 #EXTINF:-1 tvg-id="off.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/off.png" group-title="VARIEDADES",OFF
-http://ouy1.pro:80/205451604/315185505/71369
+http://pop71.live/205451604/315185505/71369
 
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",MODO VIAGEM
-http://ouy1.pro:80/205451604/315185505/356427
+http://pop71.live/205451604/315185505/356427
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",MODO VIAGEM
-http://ouy1.pro:80/205451604/315185505/356426
+http://pop71.live/205451604/315185505/356426
 #EXTINF:-1 tvg-id="+globosat.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/modoviagem1.png" group-title="VARIEDADES",MODO VIAGEM
-http://ouy1.pro:80/205451604/315185505/356425
+http://pop71.live/205451604/315185505/356425
 
 #EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",MULTISHOW
-http://ouy1.pro:80/205451604/315185505/71151
+http://pop71.live/205451604/315185505/71151
 #EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",MULTISHOW
-http://ouy1.pro:80/205451604/315185505/168762
+http://pop71.live/205451604/315185505/168762
 #EXTINF:-1 tvg-id="multishow.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/multishow1.png" group-title="VARIEDADES",MULTISHOW
-http://ouy1.pro:80/205451604/315185505/71363
+http://pop71.live/205451604/315185505/71363
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gnt.png" group-title="VARIEDADES",GNT
-http://ouy1.pro:80/205451604/315185505/136311
+http://pop71.live/205451604/315185505/136311
 #EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gnt.png" group-title="VARIEDADES",GNT
-http://ouy1.pro:80/205451604/315185505/166849
+http://pop71.live/205451604/315185505/166849
 #EXTINF:-1 tvg-id="gnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gnt.png" group-title="VARIEDADES",GNT
-http://ouy1.pro:80/205451604/315185505/71348
+http://pop71.live/205451604/315185505/71348
 
 #EXTINF:-1 tvg-id="e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/eentertainment.png" group-title="VARIEDADES",E!
-http://ouy1.pro:80/205451604/315185505/169904
+http://pop71.live/205451604/315185505/169904
 #EXTINF:-1 tvg-id="e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/eentertainment.png" group-title="VARIEDADES",E!
-http://ouy1.pro:80/205451604/315185505/166843
+http://pop71.live/205451604/315185505/166843
 #EXTINF:-1 tvg-id="e.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/eentertainment.png" group-title="VARIEDADES",E!
-http://ouy1.pro:80/205451604/315185505/71332
+http://pop71.live/205451604/315185505/71332
 
 
 ######################################  MUSICA  ######################################
 
 
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bis.png" group-title="MUSICA",BIS
-http://ouy1.pro:80/205451604/315185505/71142
+http://pop71.live/205451604/315185505/71142
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bis.png" group-title="MUSICA",BIS
-http://ouy1.pro:80/205451604/315185505/166788
+http://pop71.live/205451604/315185505/166788
 #EXTINF:-1 tvg-id="BIS.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bis.png" group-title="MUSICA",BIS
-http://ouy1.pro:80/205451604/315185505/71316
+http://pop71.live/205451604/315185505/71316
 
 #EXTINF:-1 tvg-id="MTV.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV
-http://ouy1.pro:80/205451604/315185505/166810
+http://pop71.live/205451604/315185505/166810
 #EXTINF:-1 tvg-id="MTV.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV
-http://ouy1.pro:80/205451604/315185505/71149
+http://pop71.live/205451604/315185505/71149
 #EXTINF:-1 tvg-id="MTV.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV
-http://ouy1.pro:80/205451604/315185505/71362
+http://pop71.live/205451604/315185505/71362
 
 #EXTINF:-1 tvg-id="MTV.LIVE.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV LIVE
-http://ouy1.pro:80/205451604/315185505/168764
+http://pop71.live/205451604/315185505/168764
 #EXTINF:-1 tvg-id="MTV.LIVE.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV LIVE
-http://ouy1.pro:80/205451604/315185505/166852
+http://pop71.live/205451604/315185505/166852
 #EXTINF:-1 tvg-id="MTV.LIVE.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mtvlive.png" group-title="MUSICA",MTV LIVE
-http://ouy1.pro:80/205451604/315185505/71150
+http://pop71.live/205451604/315185505/71150
 
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/musicboxbrasil.png" group-title="MUSICA",MUSIC BOX BRAZIL
-http://ouy1.pro:80/205451604/315185505/138718
+http://pop71.live/205451604/315185505/138718
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/musicboxbrasil.png" group-title="MUSICA",MUSIC BOX BRAZIL
-http://ouy1.pro:80/205451604/315185505/166811
+http://pop71.live/205451604/315185505/166811
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/musicboxbrasil.png" group-title="MUSICA",MUSIC BOX BRAZIL
-http://ouy1.pro:80/205451604/315185505/138719
+http://pop71.live/205451604/315185505/138719
 
 
 ######################################  ESPORTE  ######################################
 
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",SPORTV
-http://ouy1.pro:80/205451604/315185505/71120
+http://pop71.live/205451604/315185505/71120
 #EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",SPORTV
-http://ouy1.pro:80/205451604/315185505/281021
+http://pop71.live/205451604/315185505/281021
 #EXTINF:-1 tvg-id="sportv.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv.png" group-title="ESPORTES",SPORTV
-http://ouy1.pro:80/205451604/315185505/88458
+http://pop71.live/205451604/315185505/88458
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",SPORTV 2
-http://ouy1.pro:80/205451604/315185505/71121
+http://pop71.live/205451604/315185505/71121
 #EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",SPORTV 2
-http://ouy1.pro:80/205451604/315185505/166820
+http://pop71.live/205451604/315185505/166820
 #EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv2.png" group-title="ESPORTES",SPORTV 2
-http://ouy1.pro:80/205451604/315185505/71381
+http://pop71.live/205451604/315185505/71381
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",SPORTV 3
-http://ouy1.pro:80/205451604/315185505/71122
+http://pop71.live/205451604/315185505/71122
 #EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",SPORTV 3
-http://ouy1.pro:80/205451604/315185505/88459
+http://pop71.live/205451604/315185505/88459
 #EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sportv3.png" group-title="ESPORTES",SPORTV 3
-http://ouy1.pro:80/205451604/315185505/164284
+http://pop71.live/205451604/315185505/164284
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
-http://ouy1.pro:80/205451604/315185505/71118
+http://pop71.live/205451604/315185505/71118
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
-http://ouy1.pro:80/205451604/315185505/166844
+http://pop71.live/205451604/315185505/166844
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn.png" group-title="ESPORTES",ESPN
-http://ouy1.pro:80/205451604/315185505/71334
+http://pop71.live/205451604/315185505/71334
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
-http://ouy1.pro:80/205451604/315185505/71116
+http://pop71.live/205451604/315185505/71116
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
-http://ouy1.pro:80/205451604/315185505/166845
+http://pop71.live/205451604/315185505/166845
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn2.png" group-title="ESPORTES",ESPN 2
-http://ouy1.pro:80/205451604/315185505/71335
+http://pop71.live/205451604/315185505/71335
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
-http://ouy1.pro:80/205451604/315185505/71117
+http://pop71.live/205451604/315185505/71117
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
-http://ouy1.pro:80/205451604/315185505/166795
+http://pop71.live/205451604/315185505/166795
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn3.png" group-title="ESPORTES",ESPN 3
-http://ouy1.pro:80/205451604/315185505/71333
+http://pop71.live/205451604/315185505/71333
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
-http://ouy1.pro:80/205451604/315185505/74903
+http://pop71.live/205451604/315185505/74903
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
-http://ouy1.pro:80/205451604/315185505/88461
+http://pop71.live/205451604/315185505/88461
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/espn4.png" group-title="ESPORTES",ESPN 4
-http://ouy1.pro:80/205451604/315185505/71343
+http://pop71.live/205451604/315185505/71343
 
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND SPORTS
-http://ouy1.pro:80/205451604/315185505/141952
+http://pop71.live/205451604/315185505/141952
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND SPORTS
-http://ouy1.pro:80/205451604/315185505/166787
+http://pop71.live/205451604/315185505/166787
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/bandsports.png" group-title="ESPORTES",BAND SPORTS
-http://ouy1.pro:80/205451604/315185505/71315
+http://pop71.live/205451604/315185505/71315
 
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier.png" group-title="ESPORTES",PREMIERE
-http://ouy1.pro:80/205451604/315185505/71104
+http://pop71.live/205451604/315185505/71104
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier.png" group-title="ESPORTES",PREMIERE
-http://ouy1.pro:80/205451604/315185505/281022
+http://pop71.live/205451604/315185505/281022
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier.png" group-title="ESPORTES",PREMIERE
-http://ouy1.pro:80/205451604/315185505/88457
+http://pop71.live/205451604/315185505/88457
 
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier2.png" group-title="ESPORTES",PREMIERE 2
-http://ouy1.pro:80/205451604/315185505/71105
+http://pop71.live/205451604/315185505/71105
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier2.png" group-title="ESPORTES",PREMIERE 2
-http://ouy1.pro:80/205451604/315185505/166815
+http://pop71.live/205451604/315185505/166815
 #EXTINF:-1 tvg-id="premiere.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier2.png" group-title="ESPORTES",PREMIERE 2
-http://ouy1.pro:80/205451604/315185505/71371
+http://pop71.live/205451604/315185505/71371
 
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier3.png" group-title="ESPORTES",PREMIERE 3
-http://ouy1.pro:80/205451604/315185505/71106
+http://pop71.live/205451604/315185505/71106
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier3.png" group-title="ESPORTES",PREMIERE 3
-http://ouy1.pro:80/205451604/315185505/206478
+http://pop71.live/205451604/315185505/206478
 #EXTINF:-1 tvg-id="premiere.3.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier3.png" group-title="ESPORTES",PREMIERE 3
-http://ouy1.pro:80/205451604/315185505/71372
+http://pop71.live/205451604/315185505/71372
 
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier4.png" group-title="ESPORTES",PREMIERE 4
-http://ouy1.pro:80/205451604/315185505/71107
+http://pop71.live/205451604/315185505/71107
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier4.png" group-title="ESPORTES",PREMIERE 4
-http://ouy1.pro:80/205451604/315185505/166854
+http://pop71.live/205451604/315185505/166854
 #EXTINF:-1 tvg-id="premiere.4.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier4.png" group-title="ESPORTES",PREMIERE 4
-http://ouy1.pro:80/205451604/315185505/71373
+http://pop71.live/205451604/315185505/71373
 
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier5.png" group-title="ESPORTES",PREMIERE 5
-http://ouy1.pro:80/205451604/315185505/71115
+http://pop71.live/205451604/315185505/71115
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier5.png" group-title="ESPORTES",PREMIERE 5
-http://ouy1.pro:80/205451604/315185505/166817
+http://pop71.live/205451604/315185505/166817
 #EXTINF:-1 tvg-id="premiere.5.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier5.png" group-title="ESPORTES",PREMIERE 5
-http://ouy1.pro:80/205451604/315185505/71374
+http://pop71.live/205451604/315185505/71374
 
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier6.png" group-title="ESPORTES",PREMIERE 6
-http://ouy1.pro:80/205451604/315185505/71375
+http://pop71.live/205451604/315185505/71375
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier6.png" group-title="ESPORTES",PREMIERE 6
-http://ouy1.pro:80/205451604/315185505/166855
+http://pop71.live/205451604/315185505/166855
 #EXTINF:-1 tvg-id="premiere.6.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier6.png" group-title="ESPORTES",PREMIERE 6
-http://ouy1.pro:80/205451604/315185505/71109
+http://pop71.live/205451604/315185505/71109
 
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier7.png" group-title="ESPORTES",PREMIERE 7
-http://ouy1.pro:80/205451604/315185505/71376
+http://pop71.live/205451604/315185505/71376
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier7.png" group-title="ESPORTES",PREMIERE 7
-http://ouy1.pro:80/205451604/315185505/166856
+http://pop71.live/205451604/315185505/166856
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/premier7.png" group-title="ESPORTES",PREMIERE 7
-http://ouy1.pro:80/205451604/315185505/71110
+http://pop71.live/205451604/315185505/71110
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 1
-http://ouy1.pro:80/205451604/315185505/168753
+http://pop71.live/205451604/315185505/168753
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 1
-http://ouy1.pro:80/205451604/315185505/193039
+http://pop71.live/205451604/315185505/193039
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 2
-http://ouy1.pro:80/205451604/315185505/168754
+http://pop71.live/205451604/315185505/168754
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 2
-http://ouy1.pro:80/205451604/315185505/193040
+http://pop71.live/205451604/315185505/193040
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 3
-http://ouy1.pro:80/205451604/315185505/270482
+http://pop71.live/205451604/315185505/270482
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/primevideo.png" group-title="ESPORTES",PRIME VIDEO 3
-http://ouy1.pro:80/205451604/315185505/270481
+http://pop71.live/205451604/315185505/270481
 
 
 #EXTINF:-1 tvg-id="Epg.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starplus.png" group-title="ESPORTES",STAR+ 1
@@ -421,150 +423,150 @@ http://elitex.me:80/63428w1009/852986h70027/10068908
 http://elitex.me:80/63428w1009/852986h70027/10068955
 
 #EXTINF:-1 tvg-id="Epg.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramountplus.png" group-title="ESPORTES",PARAMOUNT+ 1 FHD*
-http://ouy1.pro:80/205451604/315185505/71127
+http://pop71.live/205451604/315185505/71127
 #EXTINF:-1 tvg-id="Epg.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramountplus.png" group-title="ESPORTES",PARAMOUNT+ 1 FHD*
-http://ouy1.pro:80/205451604/315185505/71157
+http://pop71.live/205451604/315185505/71157
 #EXTINF:-1 tvg-id="Epg.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramountplus.png" group-title="ESPORTES",PARAMOUNT+ 1 FHD*
-http://ouy1.pro:80/205451604/315185505/71128
+http://pop71.live/205451604/315185505/71128
 
 
 ######################################  FILMES E SERIES  ######################################
 
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://ouy1.pro:80/205451604/315185505/71088
+http://pop71.live/205451604/315185505/71088
 #EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://ouy1.pro:80/205451604/315185505/88444
+http://pop71.live/205451604/315185505/88444
 #EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://ouy1.pro:80/205451604/315185505/71361
+http://pop71.live/205451604/315185505/71361
 
 #EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",PARAMOUNT
-http://ouy1.pro:80/205451604/315185505/71095
+http://pop71.live/205451604/315185505/71095
 #EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",PARAMOUNT
-http://ouy1.pro:80/205451604/315185505/168654
+http://pop71.live/205451604/315185505/168654
 #EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/paramoutchannel.png" group-title="FILMES E SERIES",PARAMOUNT
-http://ouy1.pro:80/205451604/315185505/71370
+http://pop71.live/205451604/315185505/71370
 
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal1.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://ouy1.pro:80/205451604/315185505/71098
+http://pop71.live/205451604/315185505/71098
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal1.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://ouy1.pro:80/205451604/315185505/166821
+http://pop71.live/205451604/315185505/166821
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/studiouniversal1.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://ouy1.pro:80/205451604/315185505/71383
+http://pop71.live/205451604/315185505/71383
 
 #EXTINF:-1 tvg-id="warner.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://ouy1.pro:80/205451604/315185505/71097
+http://pop71.live/205451604/315185505/71097
 #EXTINF:-1 tvg-id="warner.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://ouy1.pro:80/205451604/315185505/88449
+http://pop71.live/205451604/315185505/88449
 #EXTINF:-1 tvg-id="warner.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://ouy1.pro:80/205451604/315185505/71402
+http://pop71.live/205451604/315185505/71402
 
 #EXTINF:-1 tvg-id="space.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space1.png" group-title="FILMES E SERIES",SPACE
-http://ouy1.pro:80/205451604/315185505/71099
+http://pop71.live/205451604/315185505/71099
 #EXTINF:-1 tvg-id="space.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space1.png" group-title="FILMES E SERIES",SPACE
-http://ouy1.pro:80/205451604/315185505/88446
+http://pop71.live/205451604/315185505/88446
 #EXTINF:-1 tvg-id="space.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/space1.png" group-title="FILMES E SERIES",SPACE
-http://ouy1.pro:80/205451604/315185505/71380
+http://pop71.live/205451604/315185505/71380
 
 #EXTINF:-1 tvg-id="sony.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",CANAL SONY
-http://ouy1.pro:80/205451604/315185505/135506
+http://pop71.live/205451604/315185505/135506
 #EXTINF:-1 tvg-id="sony.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",CANAL SONY
-http://ouy1.pro:80/205451604/315185505/88440
+http://pop71.live/205451604/315185505/88440
 #EXTINF:-1 tvg-id="sony.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/sony.png" group-title="FILMES E SERIES",CANAL SONY
-http://ouy1.pro:80/205451604/315185505/71317
+http://pop71.live/205451604/315185505/71317
 
 #EXTINF:-1 tvg-id="universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://ouy1.pro:80/205451604/315185505/71090
+http://pop71.live/205451604/315185505/71090
 #EXTINF:-1 tvg-id="universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://ouy1.pro:80/205451604/315185505/166829
+http://pop71.live/205451604/315185505/166829
 #EXTINF:-1 tvg-id="universal.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://ouy1.pro:80/205451604/315185505/71399
+http://pop71.live/205451604/315185505/71399
 
 #EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/usa.png" group-title="FILMES E SERIES",USA
-http://ouy1.pro:80/205451604/315185505/71153
+http://pop71.live/205451604/315185505/71153
 #EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/usa.png" group-title="FILMES E SERIES",USA
-http://ouy1.pro:80/205451604/315185505/166822
+http://pop71.live/205451604/315185505/166822
 #EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/usa.png" group-title="FILMES E SERIES",USA
-http://ouy1.pro:80/205451604/315185505/71384
+http://pop71.live/205451604/315185505/71384
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
-http://ouy1.pro:80/205451604/315185505/88434
+http://pop71.live/205451604/315185505/88434
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
-http://ouy1.pro:80/205451604/315185505/168655
+http://pop71.live/205451604/315185505/168655
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES E SERIES",TNT
-http://ouy1.pro:80/205451604/315185505/71393
+http://pop71.live/205451604/315185505/71393
 
 #EXTINF:-1 tvg-id="amc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
-http://ouy1.pro:80/205451604/315185505/71093
+http://pop71.live/205451604/315185505/71093
 #EXTINF:-1 tvg-id="amc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
-http://ouy1.pro:80/205451604/315185505/166832
+http://pop71.live/205451604/315185505/166832
 #EXTINF:-1 tvg-id="amc.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/amc.png" group-title="FILMES E SERIES",AMC
-http://ouy1.pro:80/205451604/315185505/71312
+http://pop71.live/205451604/315185505/71312
 
 #EXTINF:-1 tvg-id="axn.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
-http://ouy1.pro:80/205451604/315185505/102217
+http://pop71.live/205451604/315185505/102217
 #EXTINF:-1 tvg-id="axn.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
-http://ouy1.pro:80/205451604/315185505/166785
+http://pop71.live/205451604/315185505/166785
 #EXTINF:-1 tvg-id="axn.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/axn.png" group-title="FILMES E SERIES",AXN
-http://ouy1.pro:80/205451604/315185505/71314
+http://pop71.live/205451604/315185505/71314
 
 #EXTINF:-1 tvg-id="fx.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
-http://ouy1.pro:80/205451604/315185505/135507
+http://pop71.live/205451604/315185505/135507
 #EXTINF:-1 tvg-id="fx.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
-http://ouy1.pro:80/205451604/315185505/88441
+http://pop71.live/205451604/315185505/88441
 #EXTINF:-1 tvg-id="fx.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fx.png" group-title="FILMES E SERIES",FX
-http://ouy1.pro:80/205451604/315185505/71344
+http://pop71.live/205451604/315185505/71344
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://ouy1.pro:80/205451604/315185505/71094
+http://pop71.live/205451604/315185505/71094
 #EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://ouy1.pro:80/205451604/315185505/166792
+http://pop71.live/205451604/315185505/166792
 #EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://ouy1.pro:80/205451604/315185505/71319
+http://pop71.live/205451604/315185505/71319
 
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://ouy1.pro:80/205451604/315185505/71096
+http://pop71.live/205451604/315185505/71096
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://ouy1.pro:80/205451604/315185505/166827
+http://pop71.live/205451604/315185505/166827
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://ouy1.pro:80/205451604/315185505/71394
+http://pop71.live/205451604/315185505/71394
 
 #EXTINF:-1 tvg-id="star.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel1.png" group-title="FILMES E SERIES",STAR CHANNEL
-http://ouy1.pro:80/205451604/315185505/135430
+http://pop71.live/205451604/315185505/135430
 #EXTINF:-1 tvg-id="star.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel1.png" group-title="FILMES E SERIES",STAR CHANNEL
-http://ouy1.pro:80/205451604/315185505/166798
+http://pop71.live/205451604/315185505/166798
 #EXTINF:-1 tvg-id="star.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/starchannel1.png" group-title="FILMES E SERIES",STAR CHANNEL
-http://ouy1.pro:80/205451604/315185505/71338
+http://pop71.live/205451604/315185505/71338
 
 
 ######################################  FILMES  ######################################
 
 
 #EXTINF:-1 tvg-id="lifetime.brazil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime1.png" group-title="FILMES",LIFETIME
-http://ouy1.pro:80/205451604/315185505/71357
+http://pop71.live/205451604/315185505/71357
 #EXTINF:-1 tvg-id="lifetime.brazil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime1.png" group-title="FILMES",LIFETIME
-http://ouy1.pro:80/205451604/315185505/166807
+http://pop71.live/205451604/315185505/166807
 #EXTINF:-1 tvg-id="lifetime.brazil.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/lifetime1.png" group-title="FILMES",LIFETIME
-http://ouy1.pro:80/205451604/315185505/71147
+http://pop71.live/205451604/315185505/71147
 
 #EXTINF:-1 tvg-id="star.life.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",CINECANAL
-http://ouy1.pro:80/205451604/315185505/135429
+http://pop71.live/205451604/315185505/135429
 #EXTINF:-1 tvg-id="star.life.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",CINECANAL
-http://ouy1.pro:80/205451604/315185505/166799
+http://pop71.live/205451604/315185505/166799
 #EXTINF:-1 tvg-id="star.life.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecanal.png" group-title="FILMES",CINECANAL
-http://ouy1.pro:80/205451604/315185505/71339
+http://pop71.live/205451604/315185505/71339
 
 #EXTINF:-1 tvg-id="tbs.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT NOVELAS
-http://ouy1.pro:80/205451604/315185505/71154
+http://pop71.live/205451604/315185505/71154
 #EXTINF:-1 tvg-id="tbs.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT NOVELAS
-http://ouy1.pro:80/205451604/315185505/166823
+http://pop71.live/205451604/315185505/166823
 #EXTINF:-1 tvg-id="tbs.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tntnovelas.png" group-title="FILMES",TNT NOVELAS
-http://ouy1.pro:80/205451604/315185505/71385
+http://pop71.live/205451604/315185505/71385
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tcm.png" group-title="FILMES",TCM
-http://ouy1.pro:80/205451604/315185505/71467
+http://pop71.live/205451604/315185505/71467
 #EXTINF:-1 tvg-id="tcm.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tcm.png" group-title="FILMES",TCM
-http://ouy1.pro:80/205451604/315185505/71269
+http://pop71.live/205451604/315185505/71269
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/mytime.png" group-title="FILMES",MyTime Movie
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -582,759 +584,861 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
-http://ouy1.pro:80/205451604/315185505/71153
+http://pop71.live/205451604/315185505/71153
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
-http://ouy1.pro:80/205451604/315185505/168655
+http://pop71.live/205451604/315185505/168655
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tnt.png" group-title="FILMES",TNT
-http://ouy1.pro:80/205451604/315185505/71393
+http://pop71.live/205451604/315185505/71393
 
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",TC PREMIUM
-http://ouy1.pro:80/205451604/315185505/71069
+http://pop71.live/205451604/315185505/71069
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",TC PREMIUM
-http://ouy1.pro:80/205451604/315185505/88450
+http://pop71.live/205451604/315185505/88450
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepremium3.png" group-title="FILMES",TC PREMIUM
-http://ouy1.pro:80/205451604/315185505/71390
+http://pop71.live/205451604/315185505/71390
 
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",TC ACTION
-http://ouy1.pro:80/205451604/315185505/71066
+http://pop71.live/205451604/315185505/71066
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",TC ACTION
-http://ouy1.pro:80/205451604/315185505/166824
+http://pop71.live/205451604/315185505/166824
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecineaction3.png" group-title="FILMES",TC ACTION
-http://ouy1.pro:80/205451604/315185505/71386
+http://pop71.live/205451604/315185505/71386
 
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",TC FUN
-http://ouy1.pro:80/205451604/315185505/71073
+http://pop71.live/205451604/315185505/71073
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",TC FUN
-http://ouy1.pro:80/205451604/315185505/88456
+http://pop71.live/205451604/315185505/88456
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinefun3.png" group-title="FILMES",TC FUN
-http://ouy1.pro:80/205451604/315185505/71388
+http://pop71.live/205451604/315185505/71388
 
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",TC PIPOCA
-http://ouy1.pro:80/205451604/315185505/71068
+http://pop71.live/205451604/315185505/71068
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",TC PIPOCA
-http://ouy1.pro:80/205451604/315185505/88448
+http://pop71.live/205451604/315185505/88448
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinepipoca3.png" group-title="FILMES",TC PIPOCA
-http://ouy1.pro:80/205451604/315185505/71389
+http://pop71.live/205451604/315185505/71389
 
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",TC TOUCH
-http://ouy1.pro:80/205451604/315185505/71076
+http://pop71.live/205451604/315185505/71076
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",TC TOUCH
-http://ouy1.pro:80/205451604/315185505/166826
+http://pop71.live/205451604/315185505/166826
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinetouch3.png" group-title="FILMES",TC TOUCH
-http://ouy1.pro:80/205451604/315185505/71391
+http://pop71.live/205451604/315185505/71391
 
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",TC CULT
-http://ouy1.pro:80/205451604/315185505/71072
+http://pop71.live/205451604/315185505/71072
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",TC CULT
-http://ouy1.pro:80/205451604/315185505/166825
+http://pop71.live/205451604/315185505/166825
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/telecinecult3.png" group-title="FILMES",TC CULT
-http://ouy1.pro:80/205451604/315185505/71387
+http://pop71.live/205451604/315185505/71387
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
-http://ouy1.pro:80/205451604/315185505/71130
+http://pop71.live/205451604/315185505/71130
 #EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
-http://ouy1.pro:80/205451604/315185505/171322
+http://pop71.live/205451604/315185505/171322
 #EXTINF:-1 tvg-id="hbo.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-2.png" group-title="FILMES",HBO
-http://ouy1.pro:80/205451604/315185505/71351
+http://pop71.live/205451604/315185505/71351
 
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
-http://ouy1.pro:80/205451604/315185505/71131
+http://pop71.live/205451604/315185505/71131
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
-http://ouy1.pro:80/205451604/315185505/166803
+http://pop71.live/205451604/315185505/166803
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbo-22.png" group-title="FILMES",HBO 2
-http://ouy1.pro:80/205451604/315185505/71349
+http://pop71.live/205451604/315185505/71349
 
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO FAMILY
-http://ouy1.pro:80/205451604/315185505/135450
+http://pop71.live/205451604/315185505/135450
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO FAMILY
-http://ouy1.pro:80/205451604/315185505/166804
+http://pop71.live/205451604/315185505/166804
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbofamily2.png" group-title="FILMES",HBO FAMILY
-http://ouy1.pro:80/205451604/315185505/71350
+http://pop71.live/205451604/315185505/71350
 
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO MUNDI
-http://ouy1.pro:80/205451604/315185505/71137
+http://pop71.live/205451604/315185505/71137
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO MUNDI
-http://ouy1.pro:80/205451604/315185505/166809
+http://pop71.live/205451604/315185505/166809
 #EXTINF:-1 tvg-id="hbo.mundi.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbomundi2.png" group-title="FILMES",HBO MUNDI
-http://ouy1.pro:80/205451604/315185505/71358
+http://pop71.live/205451604/315185505/71358
 
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
-http://ouy1.pro:80/205451604/315185505/71139
+http://pop71.live/205451604/315185505/71139
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
-http://ouy1.pro:80/205451604/315185505/88443
+http://pop71.live/205451604/315185505/88443
 #EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbopop2.png" group-title="FILMES",HBO POP
-http://ouy1.pro:80/205451604/315185505/71360
+http://pop71.live/205451604/315185505/71360
 
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO SIGNATURE
-http://ouy1.pro:80/205451604/315185505/71133
+http://pop71.live/205451604/315185505/71133
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO SIGNATURE
-http://ouy1.pro:80/205451604/315185505/166805
+http://pop71.live/205451604/315185505/166805
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hbosignature2.png" group-title="FILMES",HBO SIGNATURE
-http://ouy1.pro:80/205451604/315185505/71353
+http://pop71.live/205451604/315185505/71353
 
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO XTREME
-http://ouy1.pro:80/205451604/315185505/71141
+http://pop71.live/205451604/315185505/71141
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO XTREME
-http://ouy1.pro:80/205451604/315185505/88445
+http://pop71.live/205451604/315185505/88445
 #EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboxtreme2.png" group-title="FILMES",HBO XTREME
-http://ouy1.pro:80/205451604/315185505/71359
+http://pop71.live/205451604/315185505/71359
 
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO+
-http://ouy1.pro:80/205451604/315185505/71132
+http://pop71.live/205451604/315185505/71132
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO+
-http://ouy1.pro:80/205451604/315185505/88442
+http://pop71.live/205451604/315185505/88442
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/hboplus2.png" group-title="FILMES",HBO+
-http://ouy1.pro:80/205451604/315185505/71352
+http://pop71.live/205451604/315185505/71352
 
 
 ######################################  INFANTIL  ######################################
 
 
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonnetworkpng.png" group-title="INFANTIL",CARTOON NETWORK
-http://ouy1.pro:80/205451604/315185505/71080
+http://pop71.live/205451604/315185505/71080
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonnetworkpng.png" group-title="INFANTIL",CARTOON NETWORK
-http://ouy1.pro:80/205451604/315185505/166791
+http://pop71.live/205451604/315185505/166791
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonnetworkpng.png" group-title="INFANTIL",CARTOON NETWORK
-http://ouy1.pro:80/205451604/315185505/71318
+http://pop71.live/205451604/315185505/71318
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonito.png" group-title="INFANTIL",CARTOONITO
-http://ouy1.pro:80/205451604/315185505/71079
+http://pop71.live/205451604/315185505/71079
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonito.png" group-title="INFANTIL",CARTOONITO
-http://ouy1.pro:80/205451604/315185505/166789
+http://pop71.live/205451604/315185505/166789
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cartoonito.png" group-title="INFANTIL",CARTOONITO
-http://ouy1.pro:80/205451604/315185505/71458
+http://pop71.live/205451604/315185505/71458
 
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS
-http://ouy1.pro:80/205451604/315185505/71051
+http://pop71.live/205451604/315185505/71051
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS
-http://ouy1.pro:80/205451604/315185505/166836
+http://pop71.live/205451604/315185505/166836
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS
-http://ouy1.pro:80/205451604/315185505/71325
+http://pop71.live/205451604/315185505/71325
 
 #EXTINF:-1 tvg-id="disney.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL
-http://ouy1.pro:80/205451604/315185505/71065
+http://pop71.live/205451604/315185505/71065
 #EXTINF:-1 tvg-id="disney.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL
-http://ouy1.pro:80/205451604/315185505/166841
+http://pop71.live/205451604/315185505/166841
 #EXTINF:-1 tvg-id="disney.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL
-http://ouy1.pro:80/205451604/315185505/71330
+http://pop71.live/205451604/315185505/71330
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gloob.png" group-title="INFANTIL",GLOOB
-http://ouy1.pro:80/205451604/315185505/71083
+http://pop71.live/205451604/315185505/71083
 #EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gloob.png" group-title="INFANTIL",GLOOB
-http://ouy1.pro:80/205451604/315185505/166802
+http://pop71.live/205451604/315185505/166802
 #EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/gloob.png" group-title="INFANTIL",GLOOB
-http://ouy1.pro:80/205451604/315185505/71347
+http://pop71.live/205451604/315185505/71347
 
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickjr.png" group-title="INFANTIL",NICK JR
-http://ouy1.pro:80/205451604/315185505/71085
+http://pop71.live/205451604/315185505/71085
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickjr.png" group-title="INFANTIL",NICK JR
-http://ouy1.pro:80/205451604/315185505/166813
+http://pop71.live/205451604/315185505/166813
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickjr.png" group-title="INFANTIL",NICK JR
-http://ouy1.pro:80/205451604/315185505/71368
+http://pop71.live/205451604/315185505/71368
 
 #EXTINF:-1 tvg-id="nick.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickelodeon.png" group-title="INFANTIL",NICKELODEON
-http://ouy1.pro:80/205451604/315185505/135431
+http://pop71.live/205451604/315185505/135431
 #EXTINF:-1 tvg-id="nick.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickelodeon.png" group-title="INFANTIL",NICKELODEON
-http://ouy1.pro:80/205451604/315185505/166814
+http://pop71.live/205451604/315185505/166814
 #EXTINF:-1 tvg-id="nick.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/nickelodeon.png" group-title="INFANTIL",NICKELODEON
-http://ouy1.pro:80/205451604/315185505/71367
+http://pop71.live/205451604/315185505/71367
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvgloobinho.png" group-title="INFANTIL",GLOOBINHO
-http://ouy1.pro:80/205451604/315185505/135511
+http://pop71.live/205451604/315185505/135511
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvgloobinho.png" group-title="INFANTIL",GLOOBINHO
-http://ouy1.pro:80/205451604/315185505/166863
+http://pop71.live/205451604/315185505/166863
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/tvgloobinho.png" group-title="INFANTIL",GLOOBINHO
-http://ouy1.pro:80/205451604/315185505/71459
+http://pop71.live/205451604/315185505/71459
 
 
 ######################################  CANAIS FEC  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",VINGADORES
-http://ouy1.pro:80/205451604/315185505/318613
+http://pop71.live/205451604/315185505/318613
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",HOMEM DE FERRO
-http://ouy1.pro:80/205451604/315185505/324972
+http://pop71.live/205451604/315185505/324972
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",HOMEM ARANHA
-http://ouy1.pro:80/205451604/315185505/322478
+http://pop71.live/205451604/315185505/322478
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",THOR
-http://ouy1.pro:80/205451604/315185505/318694
+http://pop71.live/205451604/315185505/318694
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",GUARDIÕES DA GALÁXIA
-http://ouy1.pro:80/205451604/315185505/324971
+http://pop71.live/205451604/315185505/324971
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",PANTERA NEGRA
-http://ouy1.pro:80/205451604/315185505/324975
+http://pop71.live/205451604/315185505/324975
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",X-MEN
-http://ouy1.pro:80/205451604/315185505/324979
+http://pop71.live/205451604/315185505/324979
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecmarvel.png" group-title="CANAIS FEC",MARVEL VS DC
-http://ouy1.pro:80/205451604/315185505/29900
+http://pop71.live/205451604/315185505/29900
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/feccinedc.png" group-title="CANAIS FEC",BATMAN
-http://ouy1.pro:80/205451604/315185505/309439
+http://pop71.live/205451604/315185505/309439
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/feclancamentos.png" group-title="CANAIS FEC",LANÇAMENTOS 1
-http://ouy1.pro:80/205451604/315185505/327749
+http://pop71.live/205451604/315185505/327749
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/feclancamentos.png" group-title="CANAIS FEC",LANÇAMENTOS 2
-http://ouy1.pro:80/205451604/315185505/235234
+http://pop71.live/205451604/315185505/235234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecterror.png" group-title="CANAIS FEC",TERROR 1
-http://ouy1.pro:80/205451604/315185505/29633
+http://pop71.live/205451604/315185505/29633
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecterror.png" group-title="CANAIS FEC",TERROR 2
-http://ouy1.pro:80/205451604/315185505/208943
+http://pop71.live/205451604/315185505/208943
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecacao.png" group-title="CANAIS FEC",AÇÃO
-http://ouy1.pro:80/205451604/315185505/32586
+http://pop71.live/205451604/315185505/32586
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecnacionais.png" group-title="CANAIS FEC",NACIONAIS
-http://ouy1.pro:80/205451604/315185505/29227
+http://pop71.live/205451604/315185505/29227
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecfaroeste.png" group-title="CANAIS FEC",FAROESTE
-http://ouy1.pro:80/205451604/315185505/71011
+http://pop71.live/205451604/315185505/71011
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/fecguerra.png" group-title="CANAIS FEC",GUERRA
-http://ouy1.pro:80/205451604/315185505/219090
+http://pop71.live/205451604/315185505/219090
 
 
 ######################################  SKY CINEMA  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 1
-http://ouy1.pro:80/205451604/315185505/136188
+http://pop71.live/205451604/315185505/136188
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 2
-http://ouy1.pro:80/205451604/315185505/136189
+http://pop71.live/205451604/315185505/136189
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 3
-http://ouy1.pro:80/205451604/315185505/136190
+http://pop71.live/205451604/315185505/136190
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 4
-http://ouy1.pro:80/205451604/315185505/136191
+http://pop71.live/205451604/315185505/136191
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 5
-http://ouy1.pro:80/205451604/315185505/136192
+http://pop71.live/205451604/315185505/136192
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 6
-http://ouy1.pro:80/205451604/315185505/136193
+http://pop71.live/205451604/315185505/136193
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 7
-http://ouy1.pro:80/205451604/315185505/136194
+http://pop71.live/205451604/315185505/136194
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 8
-http://ouy1.pro:80/205451604/315185505/136195
+http://pop71.live/205451604/315185505/136195
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 9
-http://ouy1.pro:80/205451604/315185505/136196
+http://pop71.live/205451604/315185505/136196
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skycinema.png" group-title="SKY CINEMA",Sky Cinema 10
-http://ouy1.pro:80/205451604/315185505/291534
+http://pop71.live/205451604/315185505/291534
 
 
 ######################################  SKY PLAY  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 1
-http://ouy1.pro:80/205451604/315185505/267936
+http://pop71.live/205451604/315185505/267936
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 2
-http://ouy1.pro:80/205451604/315185505/267937
+http://pop71.live/205451604/315185505/267937
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 3
-http://ouy1.pro:80/205451604/315185505/267938
+http://pop71.live/205451604/315185505/267938
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 4
-http://ouy1.pro:80/205451604/315185505/267939
+http://pop71.live/205451604/315185505/267939
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 5
-http://ouy1.pro:80/205451604/315185505/267940
+http://pop71.live/205451604/315185505/267940
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 6
-http://ouy1.pro:80/205451604/315185505/267941
+http://pop71.live/205451604/315185505/267941
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 7
-http://ouy1.pro:80/205451604/315185505/267942
+http://pop71.live/205451604/315185505/267942
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 8
-http://ouy1.pro:80/205451604/315185505/267943
+http://pop71.live/205451604/315185505/267943
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 9
-http://ouy1.pro:80/205451604/315185505/267944
+http://pop71.live/205451604/315185505/267944
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/skyplay.png" group-title="SKY PLAY",Sky Play 10
-http://ouy1.pro:80/205451604/315185505/267945
+http://pop71.live/205451604/315185505/267945
 
 
 ######################################  CINE SKY  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 1
-http://ouy1.pro:80/205451604/315185505/48666
+http://pop71.live/205451604/315185505/48666
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 2
-http://ouy1.pro:80/205451604/315185505/48667
+http://pop71.live/205451604/315185505/48667
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 3
-http://ouy1.pro:80/205451604/315185505/48898
+http://pop71.live/205451604/315185505/48898
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 4
-http://ouy1.pro:80/205451604/315185505/49119
+http://pop71.live/205451604/315185505/49119
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 5
-http://ouy1.pro:80/205451604/315185505/139443
+http://pop71.live/205451604/315185505/139443
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 6
-http://ouy1.pro:80/205451604/315185505/139444
+http://pop71.live/205451604/315185505/139444
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 7
-http://ouy1.pro:80/205451604/315185505/116161
+http://pop71.live/205451604/315185505/116161
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 8
-http://ouy1.pro:80/205451604/315185505/139439
+http://pop71.live/205451604/315185505/139439
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 9
-http://ouy1.pro:80/205451604/315185505/139440
+http://pop71.live/205451604/315185505/139440
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinesky.png" group-title="CINE SKY",Sky Play 10
-http://ouy1.pro:80/205451604/315185505/35432
+http://pop71.live/205451604/315185505/35432
 
 
 ######################################  CINEFLIX ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 1
-http://ouy1.pro:80/205451604/315185505/312132
+http://pop71.live/205451604/315185505/312132
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 2
-http://ouy1.pro:80/205451604/315185505/312133
+http://pop71.live/205451604/315185505/312133
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 3
-http://ouy1.pro:80/205451604/315185505/312134
+http://pop71.live/205451604/315185505/312134
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 4
-http://ouy1.pro:80/205451604/315185505/312135
+http://pop71.live/205451604/315185505/312135
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 5
-http://ouy1.pro:80/205451604/315185505/312136
+http://pop71.live/205451604/315185505/312136
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 6
-http://ouy1.pro:80/205451604/315185505/312137
+http://pop71.live/205451604/315185505/312137
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 7
-http://ouy1.pro:80/205451604/315185505/312138
+http://pop71.live/205451604/315185505/312138
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 8
-http://ouy1.pro:80/205451604/315185505/312139
+http://pop71.live/205451604/315185505/312139
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 9
-http://ouy1.pro:80/205451604/315185505/312140
+http://pop71.live/205451604/315185505/312140
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cineflix.png" group-title="CINEFLIX",CINEFLIX 10
-http://ouy1.pro:80/205451604/315185505/312141
+http://pop71.live/205451604/315185505/312141
+
+
+######################################  INTERCINE ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 1
+http://pop71.live/205451604/315185505/376164
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 2
+http://pop71.live/205451604/315185505/376165
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 3
+http://pop71.live/205451604/315185505/376166
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 4
+http://pop71.live/205451604/315185505/376167
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 5
+http://pop71.live/205451604/315185505/376168
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 6
+http://pop71.live/205451604/315185505/376169
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 7
+http://pop71.live/205451604/315185505/376170
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 8
+http://pop71.live/205451604/315185505/376171
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 9
+http://pop71.live/205451604/315185505/376172
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/intercine.png" group-title="INTERCINE",INTERCINE 10
+http://pop71.live/205451604/315185505/376173
+
+
+######################################  CINEPIPOCA ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 1
+http://pop71.live/205451604/315185505/23395
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 2
+http://pop71.live/205451604/315185505/43022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 3
+http://pop71.live/205451604/315185505/45967
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 4
+http://pop71.live/205451604/315185505/46445
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 5
+http://pop71.live/205451604/315185505/47572
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 6
+http://pop71.live/205451604/315185505/47573
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 7
+http://pop71.live/205451604/315185505/42013
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 8
+http://pop71.live/205451604/315185505/48642
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 9
+http://pop71.live/205451604/315185505/48663
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinepipoca.png" group-title="CINEPIPOCA",CINEPIPOCA 10
+http://pop71.live/205451604/315185505/48665
+
+
+######################################  CINECOMÉDIA ######################################
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 1
+http://pop71.live/205451604/315185505/87944
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 2
+http://pop71.live/205451604/315185505/87945
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 3
+http://pop71.live/205451604/315185505/87946
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 4
+http://pop71.live/205451604/315185505/87947
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 5
+http://pop71.live/205451604/315185505/87948
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 6
+http://pop71.live/205451604/315185505/87949
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 7
+http://pop71.live/205451604/315185505/288953
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 8
+http://pop71.live/205451604/315185505/288954
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 9
+http://pop71.live/205451604/315185505/288955
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/cinecomedia.png" group-title="CINECOMÉDIA",CINECOMÉDIA 10
+http://pop71.live/205451604/315185505/288956
 
 
 ######################################  FILMES 24Hs  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",007
-http://ouy1.pro:80/205451604/315185505/55238
+http://pop71.live/205451604/315185505/55238
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",A HORA DO PESADELO
-http://ouy1.pro:80/205451604/315185505/55562
+http://pop71.live/205451604/315185505/55562
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",ALIEN
-http://ouy1.pro:80/205451604/315185505/261359
+http://pop71.live/205451604/315185505/261359
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",ANJOS DA NOITE
-http://ouy1.pro:80/205451604/315185505/309426
+http://pop71.live/205451604/315185505/309426
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",HOMENS DE PRETO
-http://ouy1.pro:80/205451604/315185505/354891
+http://pop71.live/205451604/315185505/354891
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",HALLOWEEN
-http://ouy1.pro:80/205451604/315185505/53946
+http://pop71.live/205451604/315185505/53946
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",MATRIX
-http://ouy1.pro:80/205451604/315185505/322674
+http://pop71.live/205451604/315185505/322674
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",MISSÂO IMPOSSIVEL
-http://ouy1.pro:80/205451604/315185505/17707
+http://pop71.live/205451604/315185505/17707
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",MÀQUINA MORTIFERA
-http://ouy1.pro:80/205451604/315185505/354896
+http://pop71.live/205451604/315185505/354896
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",O PROTETOR
-http://ouy1.pro:80/205451604/315185505/304295
+http://pop71.live/205451604/315185505/304295
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",OS MERCENÁRIOS
-http://ouy1.pro:80/205451604/315185505/304296
+http://pop71.live/205451604/315185505/304296
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",PÃNICO NA FLORESTA
-http://ouy1.pro:80/205451604/315185505/354897
+http://pop71.live/205451604/315185505/354897
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",PLANETA DOS MACACOS
-http://ouy1.pro:80/205451604/315185505/324976
+http://pop71.live/205451604/315185505/324976
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",PREMONIÇÃO
-http://ouy1.pro:80/205451604/315185505/354890
+http://pop71.live/205451604/315185505/354890
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",PÃNICO NO LAGO
-http://ouy1.pro:80/205451604/315185505/261362
+http://pop71.live/205451604/315185505/261362
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",RAMBO
-http://ouy1.pro:80/205451604/315185505/296652
+http://pop71.live/205451604/315185505/296652
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",RESIDENTE EVIL 1
-http://ouy1.pro:80/205451604/315185505/322606
+http://pop71.live/205451604/315185505/322606
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",RESIDENTE EVIL 2
-http://ouy1.pro:80/205451604/315185505/261363
+http://pop71.live/205451604/315185505/261363
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",SEXTA FEIRA 13
-http://ouy1.pro:80/205451604/315185505/55563
+http://pop71.live/205451604/315185505/55563
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",STAR WARS
-http://ouy1.pro:80/205451604/315185505/327737
+http://pop71.live/205451604/315185505/327737
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",TRANSFORMERS
-http://ouy1.pro:80/205451604/315185505/270075
+http://pop71.live/205451604/315185505/270075
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/filmes24h.png" group-title="FILMES 24Hs",BLADE
-http://ouy1.pro:80/205451604/315185505/354885
+http://pop71.live/205451604/315185505/354885
 
 
 ######################################  SÉRIES 24Hs  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",24 HORAS
-http://ouy1.pro:80/205451604/315185505/306104
+http://pop71.live/205451604/315185505/306104
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",A CASA DO DRAGÃO
-http://ouy1.pro:80/205451604/315185505/304623
+http://pop71.live/205451604/315185505/304623
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",A HORA DO ARREPIO
-http://ouy1.pro:80/205451604/315185505/348710
+http://pop71.live/205451604/315185505/348710
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",ALIAS CODINOME PERIGO
-http://ouy1.pro:80/205451604/315185505/171977
+http://pop71.live/205451604/315185505/171977
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",ALMAS PERDIDAS
-http://ouy1.pro:80/205451604/315185505/317080
+http://pop71.live/205451604/315185505/317080
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",BRASIL VISTO DE CIMA
-http://ouy1.pro:80/205451604/315185505/289064
+http://pop71.live/205451604/315185505/289064
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",CIDADE PACATA CRIME CRUEL
-http://ouy1.pro:80/205451604/315185505/289065
+http://pop71.live/205451604/315185505/289065
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",COBRA KAI
-http://ouy1.pro:80/205451604/315185505/208944
+http://pop71.live/205451604/315185505/208944
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",GAME OF TRHONES
-http://ouy1.pro:80/205451604/315185505/53951
+http://pop71.live/205451604/315185505/53951
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",LA CASA DE PAPEL
-http://ouy1.pro:80/205451604/315185505/56497
+http://pop71.live/205451604/315185505/56497
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",MANIFEST
-http://ouy1.pro:80/205451604/315185505/173196
+http://pop71.live/205451604/315185505/173196
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",OPERAÇÃO FRONTEIRA BRASIL
-http://ouy1.pro:80/205451604/315185505/294387
+http://pop71.live/205451604/315185505/294387
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",OPERAÇÃO FRONTEIRA ESPANHA
-http://ouy1.pro:80/205451604/315185505/317087
+http://pop71.live/205451604/315185505/317087
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",PESADELO NA COZINHA
-http://ouy1.pro:80/205451604/315185505/10253
+http://pop71.live/205451604/315185505/10253
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",PISCINAS INCRIVEIS
-http://ouy1.pro:80/205451604/315185505/294389
+http://pop71.live/205451604/315185505/294389
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",PANICO
-http://ouy1.pro:80/205451604/315185505/173200
+http://pop71.live/205451604/315185505/173200
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",QUILOS MORTAIS
-http://ouy1.pro:80/205451604/315185505/166917
+http://pop71.live/205451604/315185505/166917
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",SMALLVILLE
-http://ouy1.pro:80/205451604/315185505/53967
+http://pop71.live/205451604/315185505/53967
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",STRANGER THINGS
-http://ouy1.pro:80/205451604/315185505/173201
+http://pop71.live/205451604/315185505/173201
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",SUPERNATURAL
-http://ouy1.pro:80/205451604/315185505/53966
+http://pop71.live/205451604/315185505/53966
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",A GRANDE FAMÍLIA
-http://ouy1.pro:80/205451604/315185505/22029
+http://pop71.live/205451604/315185505/22029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",COMO EU CONHECI SUA MÃE
-http://ouy1.pro:80/205451604/315185505/324970
+http://pop71.live/205451604/315185505/324970
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",DOIS HOMENS E MEIO
-http://ouy1.pro:80/205451604/315185505/35161
+http://pop71.live/205451604/315185505/35161
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",FRIENDS
-http://ouy1.pro:80/205451604/315185505/322476
+http://pop71.live/205451604/315185505/322476
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",THE BIG BANG THEORY
-http://ouy1.pro:80/205451604/315185505/30000
+http://pop71.live/205451604/315185505/30000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/series24h.png" group-title="SÉRIES 24Hs",TODO MUNDO ODEIA O CHRIS
-http://ouy1.pro:80/205451604/315185505/23329
+http://pop71.live/205451604/315185505/23329
 
 
 ######################################  NOVELAS 24Hs  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",CABOCLA
-http://ouy1.pro:80/205451604/315185505/290980
+http://pop71.live/205451604/315185505/290980
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",A BANDIDA
-http://ouy1.pro:80/205451604/315185505/290978
+http://pop71.live/205451604/315185505/290978
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",A LUA ME DISSE
-http://ouy1.pro:80/205451604/315185505/294374
+http://pop71.live/205451604/315185505/294374
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",A MURALHA
-http://ouy1.pro:80/205451604/315185505/309425
+http://pop71.live/205451604/315185505/309425
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",ANJO MAU
-http://ouy1.pro:80/205451604/315185505/290979
+http://pop71.live/205451604/315185505/290979
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",BAMBOLÊ
-http://ouy1.pro:80/205451604/315185505/291767
+http://pop71.live/205451604/315185505/291767
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",BARRIGA DE ALUGUEL
-http://ouy1.pro:80/205451604/315185505/294376
+http://pop71.live/205451604/315185505/294376
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",BELEZA PURA
-http://ouy1.pro:80/205451604/315185505/317081
+http://pop71.live/205451604/315185505/317081
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",CAFÉ COM AROMA DE MULHER
-http://ouy1.pro:80/205451604/315185505/354887
+http://pop71.live/205451604/315185505/354887
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",CORAÇÃO TRAÍDO
-http://ouy1.pro:80/205451604/315185505/295649
+http://pop71.live/205451604/315185505/295649
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",ESCRAVA MÃE
-http://ouy1.pro:80/205451604/315185505/306106
+http://pop71.live/205451604/315185505/306106
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",LIVRE PARA VOAR
-http://ouy1.pro:80/205451604/315185505/309429
+http://pop71.live/205451604/315185505/309429
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",MARROM GLACÉ
-http://ouy1.pro:80/205451604/315185505/324973
+http://pop71.live/205451604/315185505/324973
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",MULHERES APAIXONADAS
-http://ouy1.pro:80/205451604/315185505/324974
+http://pop71.live/205451604/315185505/324974
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",O REI DO GADO
-http://ouy1.pro:80/205451604/315185505/290981
+http://pop71.live/205451604/315185505/290981
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",OURO VERDE
-http://ouy1.pro:80/205451604/315185505/322477
+http://pop71.live/205451604/315185505/322477
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",PANTANAL
-http://ouy1.pro:80/205451604/315185505/318695
+http://pop71.live/205451604/315185505/318695
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",PARTIDO ALTO
-http://ouy1.pro:80/205451604/315185505/306108
+http://pop71.live/205451604/315185505/306108
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",PECADO CAPITAL
-http://ouy1.pro:80/205451604/315185505/348712
+http://pop71.live/205451604/315185505/348712
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",POR AMOR
-http://ouy1.pro:80/205451604/315185505/294390
+http://pop71.live/205451604/315185505/294390
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",PÁTRIA MINHA
-http://ouy1.pro:80/205451604/315185505/309433
+http://pop71.live/205451604/315185505/309433
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",QUATRO POR QUATRO
-http://ouy1.pro:80/205451604/315185505/295653
+http://pop71.live/205451604/315185505/295653
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",QUE REI SOU EU
-http://ouy1.pro:80/205451604/315185505/317090
+http://pop71.live/205451604/315185505/317090
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",SARAMANDAIA
-http://ouy1.pro:80/205451604/315185505/306109
+http://pop71.live/205451604/315185505/306109
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",SELVA DE PEDRA
-http://ouy1.pro:80/205451604/315185505/290982
+http://pop71.live/205451604/315185505/290982
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",SETE PECADOS
-http://ouy1.pro:80/205451604/315185505/324977
+http://pop71.live/205451604/315185505/324977
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",TIETA
-http://ouy1.pro:80/205451604/315185505/306111
+http://pop71.live/205451604/315185505/306111
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",TODAS AS FLORES
-http://ouy1.pro:80/205451604/315185505/322479
+http://pop71.live/205451604/315185505/322479
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",TRAVESSIA
-http://ouy1.pro:80/205451604/315185505/317093
+http://pop71.live/205451604/315185505/317093
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/novelas24h.png" group-title="NOVELAS 24Hs",DIREITO DE AMAR
-http://ouy1.pro:80/205451604/315185505/358391
+http://pop71.live/205451604/315185505/358391
 
 
 ######################################  SHOWS 24Hs  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",GOSPEL
-http://ouy1.pro:80/205451604/315185505/43023
+http://pop71.live/205451604/315185505/43023
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",DELUXE MUSIC TV
-http://ouy1.pro:80/205451604/315185505/315012
+http://pop71.live/205451604/315185505/315012
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",FLAHBACK 70 80 90
-http://ouy1.pro:80/205451604/315185505/289067
+http://pop71.live/205451604/315185505/289067
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",MARILIA MENDONÇA AO VIVO
-http://ouy1.pro:80/205451604/315185505/31085
+http://pop71.live/205451604/315185505/31085
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",JULIANA E O BONDE DO FORRÓ AO VIVO
-http://ouy1.pro:80/205451604/315185505/31068
+http://pop71.live/205451604/315185505/31068
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",NAIARA AZEVEDO
-http://ouy1.pro:80/205451604/315185505/35162
+http://pop71.live/205451604/315185505/35162
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",70'S
-http://ouy1.pro:80/205451604/315185505/313173
+http://pop71.live/205451604/315185505/313173
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",80'S
-http://ouy1.pro:80/205451604/315185505/315009
+http://pop71.live/205451604/315185505/315009
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",ROCK 1
-http://ouy1.pro:80/205451604/315185505/62356
+http://pop71.live/205451604/315185505/62356
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",ROCK 2
-http://ouy1.pro:80/205451604/315185505/62357
+http://pop71.live/205451604/315185505/62357
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",SIMONE E SIMARIA
-http://ouy1.pro:80/205451604/315185505/35163
+http://pop71.live/205451604/315185505/35163
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",TOP TV
-http://ouy1.pro:80/205451604/315185505/317057
+http://pop71.live/205451604/315185505/317057
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",TRACE URBAN
-http://ouy1.pro:80/205451604/315185505/317058
+http://pop71.live/205451604/315185505/317058
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",SERTANEJO
-http://ouy1.pro:80/205451604/315185505/32422
+http://pop71.live/205451604/315185505/32422
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/shows24h.png" group-title="SHOWS 24Hs",VINTAGE TV
-http://ouy1.pro:80/205451604/315185505/317056
+http://pop71.live/205451604/315185505/317056
 
 
 ######################################  ADULTOS  ######################################
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS", As Brasileirinhas 1
-http://ouy1.pro:80/205451604/315185505/44882
+http://pop71.live/205451604/315185505/44882
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",As Brasileirinhas 2
-http://ouy1.pro:80/205451604/315185505/44883
+http://pop71.live/205451604/315185505/44883
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",As Brasileirinhas 3
-http://ouy1.pro:80/205451604/315185505/44884
+http://pop71.live/205451604/315185505/44884
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",As Brasileirinhas 4
-http://ouy1.pro:80/205451604/315185505/44885
+http://pop71.live/205451604/315185505/44885
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",As Brasileirinhas 5
-http://ouy1.pro:80/205451604/315185505/44886
+http://pop71.live/205451604/315185505/44886
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",BRASILEIRINHAS CAM 1
-http://ouy1.pro:80/205451604/315185505/113261
+http://pop71.live/205451604/315185505/113261
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 1
-http://ouy1.pro:80/205451604/315185505/43365
+http://pop71.live/205451604/315185505/43365
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 2
-http://ouy1.pro:80/205451604/315185505/43366
+http://pop71.live/205451604/315185505/43366
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 3
-http://ouy1.pro:80/205451604/315185505/43367
+http://pop71.live/205451604/315185505/43367
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 4
-http://ouy1.pro:80/205451604/315185505/143037
+http://pop71.live/205451604/315185505/143037
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 5
-http://ouy1.pro:80/205451604/315185505/143038
+http://pop71.live/205451604/315185505/143038
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 6
-http://ouy1.pro:80/205451604/315185505/143039
+http://pop71.live/205451604/315185505/143039
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 7
-http://ouy1.pro:80/205451604/315185505/143040
+http://pop71.live/205451604/315185505/143040
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 8
-http://ouy1.pro:80/205451604/315185505/143041
+http://pop71.live/205451604/315185505/143041
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",CINE PRIVE 9
-http://ouy1.pro:80/205451604/315185505/143042
+http://pop71.live/205451604/315185505/143042
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",SEX HOT HD
-http://ouy1.pro:80/205451604/315185505/71462
+http://pop71.live/205451604/315185505/71462
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",SEXTREME H265
-http://ouy1.pro:80/205451604/315185505/166879
+http://pop71.live/205451604/315185505/166879
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",SEXY HOT 
-http://ouy1.pro:80/205451604/315185505/71261
+http://pop71.live/205451604/315185505/71261
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",VENUS H265
-http://ouy1.pro:80/205451604/315185505/166858
+http://pop71.live/205451604/315185505/166858
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX - VENUS HD 
-http://ouy1.pro:80/205451604/315185505/2293
+http://pop71.live/205451604/315185505/2293
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX Adulte FULL 3 HD
-http://ouy1.pro:80/205451604/315185505/32639
+http://pop71.live/205451604/315185505/32639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX Adulte FULL 4 HD
-http://ouy1.pro:80/205451604/315185505/32640
+http://pop71.live/205451604/315185505/32640
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 1
-http://ouy1.pro:80/205451604/315185505/71442
+http://pop71.live/205451604/315185505/71442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 2
-http://ouy1.pro:80/205451604/315185505/71445
+http://pop71.live/205451604/315185505/71445
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 3
-http://ouy1.pro:80/205451604/315185505/71444
+http://pop71.live/205451604/315185505/71444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 4
-http://ouy1.pro:80/205451604/315185505/71443
+http://pop71.live/205451604/315185505/71443
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 6
-http://ouy1.pro:80/205451604/315185505/71440
+http://pop71.live/205451604/315185505/71440
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 7
-http://ouy1.pro:80/205451604/315185505/71439
+http://pop71.live/205451604/315185505/71439
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX ADULTO 9
-http://ouy1.pro:80/205451604/315185505/71437
+http://pop71.live/205451604/315185505/71437
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX BRAZZERS EUROPE
-http://ouy1.pro:80/205451604/315185505/71403
+http://pop71.live/205451604/315185505/71403
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX DORCEL TV
-http://ouy1.pro:80/205451604/315185505/71405
+http://pop71.live/205451604/315185505/71405
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX PASSION
-http://ouy1.pro:80/205451604/315185505/71406
+http://pop71.live/205451604/315185505/71406
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX PENTHOUSE QUICKIES
-http://ouy1.pro:80/205451604/315185505/71407
+http://pop71.live/205451604/315185505/71407
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX PINK O
-http://ouy1.pro:80/205451604/315185505/71408
+http://pop71.live/205451604/315185505/71408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX SCT
-http://ouy1.pro:80/205451604/315185505/71413
+http://pop71.live/205451604/315185505/71413
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX VENUS
 
-http://ouy1.pro:80/205451604/315185505/71416
+http://pop71.live/205451604/315185505/71416
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 10 HD
-http://ouy1.pro:80/205451604/315185505/32645
+http://pop71.live/205451604/315185505/32645
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 12 HD
-http://ouy1.pro:80/205451604/315185505/32647
+http://pop71.live/205451604/315185505/32647
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 13 HD
-http://ouy1.pro:80/205451604/315185505/32648
+http://pop71.live/205451604/315185505/32648
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 14 HD
-http://ouy1.pro:80/205451604/315185505/32649
+http://pop71.live/205451604/315185505/32649
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 16 HD
-http://ouy1.pro:80/205451604/315185505/32651
+http://pop71.live/205451604/315185505/32651
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 17 HD
-http://ouy1.pro:80/205451604/315185505/32652
+http://pop71.live/205451604/315185505/32652
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 2 HD
-http://ouy1.pro:80/205451604/315185505/32638
+http://pop71.live/205451604/315185505/32638
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 6 HD
-http://ouy1.pro:80/205451604/315185505/32641
+http://pop71.live/205451604/315185505/32641
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 7 HD
-http://ouy1.pro:80/205451604/315185505/32642
+http://pop71.live/205451604/315185505/32642
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 8 HD
-http://ouy1.pro:80/205451604/315185505/32643
+http://pop71.live/205451604/315185505/32643
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijr86/Logos/main/xxx.png" group-title="ADULTOS",XXX: Adulte FULL 9 HD
-http://ouy1.pro:80/205451604/315185505/32644
+http://pop71.live/205451604/315185505/32644
